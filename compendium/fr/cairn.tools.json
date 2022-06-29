@@ -1,0 +1,93 @@
+{
+	"label": "Tools",
+	"entries": {
+		"Bellows": {
+			"name": "Bellows",
+			"description": ""
+		},
+		"Bucket": {
+			"name": "Bucket",
+			"description": ""
+		},
+		"Caltrops": {
+			"name": "Caltrops",
+			"description": ""
+		},
+		"Chalk": {
+			"name": "Chalk",
+			"description": ""
+		},
+		"Chisel": {
+			"name": "Chisel",
+			"description": ""
+		},
+		"Cook Pots": {
+			"name": "Cook Pots",
+			"description": ""
+		},
+		"Crowbar": {
+			"name": "Crowbar",
+			"description": ""
+		},
+		"Fishing Rod": {
+			"name": "Fishing Rod",
+			"description": ""
+		},
+		"Glue": {
+			"name": "Glue",
+			"description": ""
+		},
+		"Grease": {
+			"name": "Grease",
+			"description": ""
+		},
+		"Hammer": {
+			"name": "Hammer",
+			"description": ""
+		},
+		"Hand-Drill": {
+			"name": "Hand-Drill",
+			"description": ""
+		},
+		"Hourglass": {
+			"name": "Hourglass",
+			"description": ""
+		},
+		"Lantern": {
+			"name": "Lantern",
+			"description": ""
+		},
+		"Metal File": {
+			"name": "Metal File",
+			"description": ""
+		},
+		"Nails": {
+			"name": "Nails",
+			"description": ""
+		},
+		"Net": {
+			"name": "Net",
+			"description": ""
+		},
+		"Padlock": {
+			"name": "Padlock",
+			"description": ""
+		},
+		"Saw": {
+			"name": "Saw",
+			"description": ""
+		},
+		"Sealant": {
+			"name": "Sealant",
+			"description": ""
+		},
+		"Shovel": {
+			"name": "Shovel",
+			"description": ""
+		},
+		"Tongs": {
+			"name": "Tongs",
+			"description": ""
+		}
+	}
+}

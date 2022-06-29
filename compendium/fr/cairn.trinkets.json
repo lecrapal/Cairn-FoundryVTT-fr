@@ -1,0 +1,89 @@
+{
+	"label": "Trinkets",
+	"entries": {
+		"Blank Book": {
+			"name": "Blank Book",
+			"description": ""
+		},
+		"Bottle": {
+			"name": "Bottle",
+			"description": ""
+		},
+		"Card Deck": {
+			"name": "Card Deck",
+			"description": ""
+		},
+		"Dice Set": {
+			"name": "Dice Set",
+			"description": ""
+		},
+		"Face Paint": {
+			"name": "Face Paint",
+			"description": ""
+		},
+		"Fake Jewels": {
+			"name": "Fake Jewels",
+			"description": ""
+		},
+		"Horn": {
+			"name": "Horn",
+			"description": ""
+		},
+		"Incense": {
+			"name": "Incense",
+			"description": ""
+		},
+		"Instrument": {
+			"name": "Instrument",
+			"description": ""
+		},
+		"Lens": {
+			"name": "Lens",
+			"description": ""
+		},
+		"Marbles": {
+			"name": "Marbles",
+			"description": ""
+		},
+		"Mirror": {
+			"name": "Mirror",
+			"description": ""
+		},
+		"Perfume": {
+			"name": "Perfume",
+			"description": ""
+		},
+		"Quill & Ink": {
+			"name": "Quill & Ink",
+			"description": ""
+		},
+		"Salt Pack": {
+			"name": "Salt Pack",
+			"description": ""
+		},
+		"Small Bell": {
+			"name": "Small Bell",
+			"description": ""
+		},
+		"Soap": {
+			"name": "Soap",
+			"description": ""
+		},
+		"Sponge": {
+			"name": "Sponge",
+			"description": ""
+		},
+		"Tar pot": {
+			"name": "Tar pot",
+			"description": ""
+		},
+		"Twine": {
+			"name": "Twine",
+			"description": ""
+		},
+		"Whistle": {
+			"name": "Whistle",
+			"description": ""
+		}
+	}
+}

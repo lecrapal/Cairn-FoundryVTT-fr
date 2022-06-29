@@ -1,0 +1,653 @@
+{
+	"label": "More Spellbooks",
+	"entries": {
+		"Adaptive Skin": {
+			"name": "Adaptive Skin"
+		},
+		"Addle Brain": {
+			"name": "Addle Brain"
+		},
+		"Animal Call": {
+			"name": "Animal Call"
+		},
+		"Anti-Magic Globe": {
+			"name": "Anti-Magic Globe"
+		},
+		"Arachnid's Finesse": {
+			"name": "Arachnid's Finesse"
+		},
+		"Arcane Arrow": {
+			"name": "Arcane Arrow"
+		},
+		"Arcane Confinement": {
+			"name": "Arcane Confinement"
+		},
+		"Arcane Epistle": {
+			"name": "Arcane Epistle"
+		},
+		"Arcane Fireworks": {
+			"name": "Arcane Fireworks"
+		},
+		"Arcane Stain": {
+			"name": "Arcane Stain"
+		},
+		"Architect's Eye": {
+			"name": "Architect's Eye"
+		},
+		"Architect's Perfection": {
+			"name": "Architect's Perfection"
+		},
+		"Astral Step": {
+			"name": "Astral Step"
+		},
+		"Banishment": {
+			"name": "Banishment"
+		},
+		"Become Unseen": {
+			"name": "Become Unseen"
+		},
+		"Beguilement": {
+			"name": "Beguilement"
+		},
+		"Bewildering Fog": {
+			"name": "Bewildering Fog"
+		},
+		"Blazing Defense": {
+			"name": "Blazing Defense"
+		},
+		"Blessing": {
+			"name": "Blessing"
+		},
+		"Bolster": {
+			"name": "Bolster"
+		},
+		"Bound": {
+			"name": "Bound"
+		},
+		"Boundless Message": {
+			"name": "Boundless Message"
+		},
+		"Breath Soup": {
+			"name": "Breath Soup"
+		},
+		"Burning Missile": {
+			"name": "Burning Missile"
+		},
+		"Burnishing Bubble": {
+			"name": "Burnishing Bubble"
+		},
+		"Calcify": {
+			"name": "Calcify"
+		},
+		"Catsense": {
+			"name": "Catsense"
+		},
+		"Chilling Graze": {
+			"name": "Chilling Graze"
+		},
+		"Cinder Flesh": {
+			"name": "Cinder Flesh"
+		},
+		"Circle of Arcane Protection": {
+			"name": "Circle of Arcane Protection"
+		},
+		"Cleanse": {
+			"name": "Cleanse"
+		},
+		"Cold Spray": {
+			"name": "Cold Spray"
+		},
+		"Conceal Object": {
+			"name": "Conceal Object"
+		},
+		"Conquer Gravity": {
+			"name": "Conquer Gravity"
+		},
+		"Cosmic Fingertips": {
+			"name": "Cosmic Fingertips"
+		},
+		"Coup de Grâce": {
+			"name": "Coup de Grâce"
+		},
+		"Craft from Clay": {
+			"name": "Craft from Clay"
+		},
+		"Create Unlife": {
+			"name": "Create Unlife"
+		},
+		"Cure-All": {
+			"name": "Cure-All"
+		},
+		"Curse Unlife": {
+			"name": "Curse Unlife"
+		},
+		"Curse of the Sightless": {
+			"name": "Curse of the Sightless"
+		},
+		"Cute Ink": {
+			"name": "Cute Ink"
+		},
+		"Darksight": {
+			"name": "Darksight"
+		},
+		"Death's Breath": {
+			"name": "Death's Breath"
+		},
+		"Devil's Comedian": {
+			"name": "Devil's Comedian"
+		},
+		"Disaster Fluid": {
+			"name": "Disaster Fluid"
+		},
+		"Disrupt Scry": {
+			"name": "Disrupt Scry"
+		},
+		"Doppleganger": {
+			"name": "Doppleganger"
+		},
+		"Doubleskin": {
+			"name": "Doubleskin"
+		},
+		"Dreampoison": {
+			"name": "Dreampoison"
+		},
+		"Dreamtalker": {
+			"name": "Dreamtalker"
+		},
+		"Earsplit": {
+			"name": "Earsplit"
+		},
+		"Easy Descent": {
+			"name": "Easy Descent"
+		},
+		"Edifice": {
+			"name": "Edifice"
+		},
+		"Energize Rope": {
+			"name": "Energize Rope"
+		},
+		"Ensorcelled": {
+			"name": "Ensorcelled"
+		},
+		"Envision": {
+			"name": "Envision"
+		},
+		"Ephemeral Audio": {
+			"name": "Ephemeral Audio"
+		},
+		"Epidemic": {
+			"name": "Epidemic"
+		},
+		"Extraplanar Convocation": {
+			"name": "Extraplanar Convocation"
+		},
+		"Extraplanar Request": {
+			"name": "Extraplanar Request"
+		},
+		"Feline Dexterity": {
+			"name": "Feline Dexterity"
+		},
+		"Find Virulence": {
+			"name": "Find Virulence"
+		},
+		"Fire Curse": {
+			"name": "Fire Curse"
+		},
+		"Firey Missile": {
+			"name": "Firey Missile"
+		},
+		"Fish Lung": {
+			"name": "Fish Lung"
+		},
+		"Fleetfooted": {
+			"name": "Fleetfooted"
+		},
+		"Flicker": {
+			"name": "Flicker"
+		},
+		"Fog of Nausea": {
+			"name": "Fog of Nausea"
+		},
+		"Fold Portal": {
+			"name": "Fold Portal"
+		},
+		"Foolishness": {
+			"name": "Foolishness"
+		},
+		"Fortify": {
+			"name": "Fortify"
+		},
+		"Frozen Corpse": {
+			"name": "Frozen Corpse"
+		},
+		"Gale": {
+			"name": "Gale"
+		},
+		"Ghost Whisper": {
+			"name": "Ghost Whisper"
+		},
+		"Gift of Flight": {
+			"name": "Gift of Flight"
+		},
+		"Glacier": {
+			"name": "Glacier"
+		},
+		"Gorgon's Gaze": {
+			"name": "Gorgon's Gaze"
+		},
+		"Great Ball of Fire": {
+			"name": "Great Ball of Fire"
+		},
+		"Hand of the Protector": {
+			"name": "Hand of the Protector"
+		},
+		"Healing Grace": {
+			"name": "Healing Grace"
+		},
+		"Heatless Torch": {
+			"name": "Heatless Torch"
+		},
+		"Hedgemagick": {
+			"name": "Hedgemagick"
+		},
+		"Hempen Hoop": {
+			"name": "Hempen Hoop"
+		},
+		"Hide Mind": {
+			"name": "Hide Mind"
+		},
+		"Hoodwink Monster": {
+			"name": "Hoodwink Monster"
+		},
+		"Hoodwink Person": {
+			"name": "Hoodwink Person"
+		},
+		"Hovering Protection": {
+			"name": "Hovering Protection"
+		},
+		"Ice Ray": {
+			"name": "Ice Ray"
+		},
+		"Icy Tempest": {
+			"name": "Icy Tempest"
+		},
+		"Ill Fate": {
+			"name": "Ill Fate"
+		},
+		"Illusory Landscape": {
+			"name": "Illusory Landscape"
+		},
+		"Incorporeal Shrug": {
+			"name": "Incorporeal Shrug"
+		},
+		"Induce Despair": {
+			"name": "Induce Despair"
+		},
+		"Induce Horror": {
+			"name": "Induce Horror"
+		},
+		"Inferno": {
+			"name": "Inferno"
+		},
+		"Influence": {
+			"name": "Influence"
+		},
+		"Insubstantiate": {
+			"name": "Insubstantiate"
+		},
+		"Kraken's Curse": {
+			"name": "Kraken's Curse"
+		},
+		"Lamp's Hue": {
+			"name": "Lamp's Hue"
+		},
+		"Latch": {
+			"name": "Latch"
+		},
+		"Librarian's Trap": {
+			"name": "Librarian's Trap"
+		},
+		"Lichsense": {
+			"name": "Lichsense"
+		},
+		"Light Show": {
+			"name": "Light Show"
+		},
+		"Lightning Strike": {
+			"name": "Lightning Strike"
+		},
+		"Linguist": {
+			"name": "Linguist"
+		},
+		"Magic Seal": {
+			"name": "Magic Seal"
+		},
+		"Major Genesis": {
+			"name": "Major Genesis"
+		},
+		"Maker": {
+			"name": "Maker"
+		},
+		"Manic Fury": {
+			"name": "Manic Fury"
+		},
+		"Masquerade": {
+			"name": "Masquerade"
+		},
+		"Master Undead": {
+			"name": "Master Undead"
+		},
+		"Mental Tripwire": {
+			"name": "Mental Tripwire"
+		},
+		"Mind Bond": {
+			"name": "Mind Bond"
+		},
+		"Mind Reader": {
+			"name": "Mind Reader"
+		},
+		"Miniaturize": {
+			"name": "Miniaturize"
+		},
+		"Minor Aegis": {
+			"name": "Minor Aegis"
+		},
+		"Minor Genesis": {
+			"name": "Minor Genesis"
+		},
+		"Mirage": {
+			"name": "Mirage"
+		},
+		"Molasses Veins": {
+			"name": "Molasses Veins"
+		},
+		"Murky Bubble": {
+			"name": "Murky Bubble"
+		},
+		"Necrotic Touch": {
+			"name": "Necrotic Touch"
+		},
+		"Obfuscate": {
+			"name": "Obfuscate"
+		},
+		"Obfuscation": {
+			"name": "Obfuscation"
+		},
+		"Obscuring Mist": {
+			"name": "Obscuring Mist"
+		},
+		"Opaque Cover": {
+			"name": "Opaque Cover"
+		},
+		"Orb of Ignus": {
+			"name": "Orb of Ignus"
+		},
+		"Orb of Immortality": {
+			"name": "Orb of Immortality"
+		},
+		"Otherwordly Pet": {
+			"name": "Otherwordly Pet"
+		},
+		"Otherworldly Gate": {
+			"name": "Otherworldly Gate"
+		},
+		"Paincurrent": {
+			"name": "Paincurrent"
+		},
+		"Passage": {
+			"name": "Passage"
+		},
+		"Passive Invisibility": {
+			"name": "Passive Invisibility"
+		},
+		"Peeping Warlock": {
+			"name": "Peeping Warlock"
+		},
+		"Perfect Illusion": {
+			"name": "Perfect Illusion"
+		},
+		"Perfect Preservation": {
+			"name": "Perfect Preservation"
+		},
+		"Phantom Hound": {
+			"name": "Phantom Hound"
+		},
+		"Phase Anchor": {
+			"name": "Phase Anchor"
+		},
+		"Phase Sneak": {
+			"name": "Phase Sneak"
+		},
+		"Phase Touch": {
+			"name": "Phase Touch"
+		},
+		"Philolomancy": {
+			"name": "Philolomancy"
+		},
+		"Planal Metamorphosis": {
+			"name": "Planal Metamorphosis"
+		},
+		"Planar Anchor": {
+			"name": "Planar Anchor"
+		},
+		"Plant Scourge": {
+			"name": "Plant Scourge"
+		},
+		"Pocket Container": {
+			"name": "Pocket Container"
+		},
+		"Pocket Sun": {
+			"name": "Pocket Sun"
+		},
+		"Prisma Shard": {
+			"name": "Prisma Shard"
+		},
+		"Profane Reveal": {
+			"name": "Profane Reveal"
+		},
+		"Psychic Eye": {
+			"name": "Psychic Eye"
+		},
+		"Psychokinesis": {
+			"name": "Psychokinesis"
+		},
+		"Puppeteer": {
+			"name": "Puppeteer"
+		},
+		"Purge Text": {
+			"name": "Purge Text"
+		},
+		"Pyramid of Passivity": {
+			"name": "Pyramid of Passivity"
+		},
+		"Pyschic Touch": {
+			"name": "Pyschic Touch"
+		},
+		"Rat-Tat-Tat": {
+			"name": "Rat-Tat-Tat"
+		},
+		"Ravenless Message": {
+			"name": "Ravenless Message"
+		},
+		"Reject Unlife": {
+			"name": "Reject Unlife"
+		},
+		"Remembered Voice": {
+			"name": "Remembered Voice"
+		},
+		"Reverie": {
+			"name": "Reverie"
+		},
+		"Runic Harm": {
+			"name": "Runic Harm"
+		},
+		"Runic Slumber": {
+			"name": "Runic Slumber"
+		},
+		"Safe Haven": {
+			"name": "Safe Haven"
+		},
+		"Scintillate": {
+			"name": "Scintillate"
+		},
+		"Scry Creature": {
+			"name": "Scry Creature"
+		},
+		"Scry Object": {
+			"name": "Scry Object"
+		},
+		"Scrying Ward": {
+			"name": "Scrying Ward"
+		},
+		"Sculpt Water": {
+			"name": "Sculpt Water"
+		},
+		"Secret Attaché": {
+			"name": "Secret Attaché"
+		},
+		"Shelter": {
+			"name": "Shelter"
+		},
+		"Shrinking Cant": {
+			"name": "Shrinking Cant"
+		},
+		"Signal": {
+			"name": "Signal"
+		},
+		"Simple Illusion": {
+			"name": "Simple Illusion"
+		},
+		"Sinister Flame": {
+			"name": "Sinister Flame"
+		},
+		"Sinister Polymorph": {
+			"name": "Sinister Polymorph"
+		},
+		"Skillfull Repair": {
+			"name": "Skillfull Repair"
+		},
+		"Sky Raft": {
+			"name": "Sky Raft"
+		},
+		"Solar Portal": {
+			"name": "Solar Portal"
+		},
+		"Song of Repose": {
+			"name": "Song of Repose"
+		},
+		"Sonic Shattering": {
+			"name": "Sonic Shattering"
+		},
+		"Sorcerer's Lock": {
+			"name": "Sorcerer's Lock"
+		},
+		"Soul Annex": {
+			"name": "Soul Annex"
+		},
+		"Steer's Strength": {
+			"name": "Steer's Strength"
+		},
+		"Strength Tap": {
+			"name": "Strength Tap"
+		},
+		"Stumbling Steps": {
+			"name": "Stumbling Steps"
+		},
+		"Stupefaction": {
+			"name": "Stupefaction"
+		},
+		"Sudden Slumber": {
+			"name": "Sudden Slumber"
+		},
+		"Summon Elemental": {
+			"name": "Summon Elemental"
+		},
+		"Sway Will": {
+			"name": "Sway Will"
+		},
+		"Temporary Reprieve": {
+			"name": "Temporary Reprieve"
+		},
+		"Terrify": {
+			"name": "Terrify"
+		},
+		"Terrifying Illusion": {
+			"name": "Terrifying Illusion"
+		},
+		"Thief's Bane": {
+			"name": "Thief's Bane"
+		},
+		"Thwart the Elements": {
+			"name": "Thwart the Elements"
+		},
+		"Tongue of the Blue Serpent": {
+			"name": "Tongue of the Blue Serpent"
+		},
+		"Torrential Moat": {
+			"name": "Torrential Moat"
+		},
+		"Toxic Blast": {
+			"name": "Toxic Blast"
+		},
+		"Transform Aura": {
+			"name": "Transform Aura"
+		},
+		"True Name": {
+			"name": "True Name"
+		},
+		"Trueshift": {
+			"name": "Trueshift"
+		},
+		"Twilight Steed": {
+			"name": "Twilight Steed"
+		},
+		"Ultimate Sacrifice": {
+			"name": "Ultimate Sacrifice"
+		},
+		"Uncurse": {
+			"name": "Uncurse"
+		},
+		"Undefinable Target": {
+			"name": "Undefinable Target"
+		},
+		"Undeniable Courage": {
+			"name": "Undeniable Courage"
+		},
+		"Unflappable Endurance": {
+			"name": "Unflappable Endurance"
+		},
+		"Vermin Plague": {
+			"name": "Vermin Plague"
+		},
+		"Vines of Ichor": {
+			"name": "Vines of Ichor"
+		},
+		"Warrior's Edge": {
+			"name": "Warrior's Edge"
+		},
+		"Windborn": {
+			"name": "Windborn"
+		},
+		"Winter's Woe": {
+			"name": "Winter's Woe"
+		},
+		"Witch Sight": {
+			"name": "Witch Sight"
+		},
+		"Wizard's Exit": {
+			"name": "Wizard's Exit"
+		},
+		"Wizard's Grasp": {
+			"name": "Wizard's Grasp"
+		},
+		"Wizard's Haven": {
+			"name": "Wizard's Haven"
+		},
+		"Wizardsniff": {
+			"name": "Wizardsniff"
+		},
+		"Word of Pain": {
+			"name": "Word of Pain"
+		}
+	}
+}

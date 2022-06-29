@@ -1,0 +1,305 @@
+{
+	"label": "Spellbooks",
+	"entries": {
+		"Adhere": {
+			"name": "Adhere"
+		},
+		"Anchor": {
+			"name": "Anchor"
+		},
+		"Animate Object": {
+			"name": "Animate Object"
+		},
+		"Anthropomorphize": {
+			"name": "Anthropomorphize"
+		},
+		"Arcane Eye": {
+			"name": "Arcane Eye"
+		},
+		"Astral Prison": {
+			"name": "Astral Prison"
+		},
+		"Attract": {
+			"name": "Attract"
+		},
+		"Auditory Illusion": {
+			"name": "Auditory Illusion"
+		},
+		"Babble": {
+			"name": "Babble"
+		},
+		"Bait Flower": {
+			"name": "Bait Flower"
+		},
+		"Beast Form": {
+			"name": "Beast Form"
+		},
+		"Befuddle": {
+			"name": "Befuddle"
+		},
+		"Body Swap": {
+			"name": "Body Swap"
+		},
+		"Charm": {
+			"name": "Charm"
+		},
+		"Command": {
+			"name": "Command"
+		},
+		"Comprehend": {
+			"name": "Comprehend"
+		},
+		"Cone of Foam": {
+			"name": "Cone of Foam"
+		},
+		"Control Plants": {
+			"name": "Control Plants"
+		},
+		"Control Weather": {
+			"name": "Control Weather"
+		},
+		"Cure Wounds": {
+			"name": "Cure Wounds"
+		},
+		"Deafen": {
+			"name": "Deafen"
+		},
+		"Detect Magic": {
+			"name": "Detect Magic"
+		},
+		"Disassemble": {
+			"name": "Disassemble"
+		},
+		"Disguise": {
+			"name": "Disguise"
+		},
+		"Displace": {
+			"name": "Displace"
+		},
+		"Earthquake": {
+			"name": "Earthquake"
+		},
+		"Elasticity": {
+			"name": "Elasticity"
+		},
+		"Elemental Wall": {
+			"name": "Elemental Wall"
+		},
+		"Filch": {
+			"name": "Filch"
+		},
+		"Flare": {
+			"name": "Flare"
+		},
+		"Fog Cloud": {
+			"name": "Fog Cloud"
+		},
+		"Frenzy": {
+			"name": "Frenzy"
+		},
+		"Gate": {
+			"name": "Gate"
+		},
+		"Gravity Shift": {
+			"name": "Gravity Shift"
+		},
+		"Greed": {
+			"name": "Greed"
+		},
+		"Haste": {
+			"name": "Haste"
+		},
+		"Hatred": {
+			"name": "Hatred"
+		},
+		"Hear Whispers": {
+			"name": "Hear Whispers"
+		},
+		"Hover": {
+			"name": "Hover"
+		},
+		"Hypnotize": {
+			"name": "Hypnotize"
+		},
+		"Icy Touch": {
+			"name": "Icy Touch"
+		},
+		"Identify Owner": {
+			"name": "Identify Owner"
+		},
+		"Illuminate": {
+			"name": "Illuminate"
+		},
+		"Invisible Tether": {
+			"name": "Invisible Tether"
+		},
+		"Knock": {
+			"name": "Knock"
+		},
+		"Leap": {
+			"name": "Leap"
+		},
+		"Liquid Air": {
+			"name": "Liquid Air"
+		},
+		"Magic Dampener": {
+			"name": "Magic Dampener"
+		},
+		"Manse": {
+			"name": "Manse"
+		},
+		"Marble Craze": {
+			"name": "Marble Craze"
+		},
+		"Masquerade": {
+			"name": "Masquerade"
+		},
+		"Miniaturize": {
+			"name": "Miniaturize"
+		},
+		"Mirror Image": {
+			"name": "Mirror Image"
+		},
+		"Mirrorwalk": {
+			"name": "Mirrorwalk"
+		},
+		"Missile Shield": {
+			"name": "Missile Shield"
+		},
+		"Multiarm": {
+			"name": "Multiarm"
+		},
+		"Night Sphere": {
+			"name": "Night Sphere"
+		},
+		"Objectify": {
+			"name": "Objectify"
+		},
+		"Ooze Form": {
+			"name": "Ooze Form"
+		},
+		"Pacify": {
+			"name": "Pacify"
+		},
+		"Phobia": {
+			"name": "Phobia"
+		},
+		"Pit": {
+			"name": "Pit"
+		},
+		"Primal Surge": {
+			"name": "Primal Surge"
+		},
+		"Push/Pull": {
+			"name": "Push/Pull"
+		},
+		"Raise Dead": {
+			"name": "Raise Dead"
+		},
+		"Raise Spirit": {
+			"name": "Raise Spirit"
+		},
+		"Read Mind": {
+			"name": "Read Mind"
+		},
+		"Repel": {
+			"name": "Repel"
+		},
+		"Scry": {
+			"name": "Scry"
+		},
+		"Sculpt Elements": {
+			"name": "Sculpt Elements"
+		},
+		"Sense": {
+			"name": "Sense"
+		},
+		"Shroud": {
+			"name": "Shroud"
+		},
+		"Shuffle": {
+			"name": "Shuffle"
+		},
+		"Sleep": {
+			"name": "Sleep"
+		},
+		"Slick": {
+			"name": "Slick"
+		},
+		"Smoke Form": {
+			"name": "Smoke Form"
+		},
+		"Snail Knight": {
+			"name": "Snail Knight"
+		},
+		"Sniff": {
+			"name": "Sniff"
+		},
+		"Sort": {
+			"name": "Sort"
+		},
+		"Spectacle": {
+			"name": "Spectacle"
+		},
+		"Spellsaw": {
+			"name": "Spellsaw"
+		},
+		"Spider Climb": {
+			"name": "Spider Climb"
+		},
+		"Summon Cube": {
+			"name": "Summon Cube"
+		},
+		"Summon Idol": {
+			"name": "Summon Idol"
+		},
+		"Swarm": {
+			"name": "Swarm"
+		},
+		"Target Lure": {
+			"name": "Target Lure"
+		},
+		"Telekinesis": {
+			"name": "Telekinesis"
+		},
+		"Telepathy": {
+			"name": "Telepathy"
+		},
+		"Teleport": {
+			"name": "Teleport"
+		},
+		"Thicket": {
+			"name": "Thicket"
+		},
+		"Time Control": {
+			"name": "Time Control"
+		},
+		"True Sight": {
+			"name": "True Sight"
+		},
+		"Upwell": {
+			"name": "Upwell"
+		},
+		"Vision": {
+			"name": "Vision"
+		},
+		"Visual Illusion": {
+			"name": "Visual Illusion"
+		},
+		"Ward": {
+			"name": "Ward"
+		},
+		"Web": {
+			"name": "Web"
+		},
+		"Widget": {
+			"name": "Widget"
+		},
+		"Wizard Mark": {
+			"name": "Wizard Mark"
+		},
+		"X-Ray Vision": {
+			"name": "X-Ray Vision"
+		}
+	}
+}

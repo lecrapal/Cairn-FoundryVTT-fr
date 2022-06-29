@@ -1,0 +1,105 @@
+{
+	"label": "Weapons",
+	"entries": {
+		"Axe": {
+			"name": "Axe",
+			"description": ""
+		},
+		"Blowgun": {
+			"name": "Blowgun",
+			"description": ""
+		},
+		"Bolas": {
+			"name": "Bolas",
+			"description": ""
+		},
+		"Bow": {
+			"name": "Bow",
+			"description": ""
+		},
+		"Broadsword": {
+			"name": "Broadsword",
+			"description": ""
+		},
+		"Cestus": {
+			"name": "Cestus",
+			"description": ""
+		},
+		"Crossbow": {
+			"name": "Crossbow",
+			"description": ""
+		},
+		"Cudgel": {
+			"name": "Cudgel",
+			"description": ""
+		},
+		"Dagger": {
+			"name": "Dagger",
+			"description": ""
+		},
+		"Dart": {
+			"name": "Dart",
+			"description": ""
+		},
+		"Flail": {
+			"name": "Flail",
+			"description": ""
+		},
+		"Halberd": {
+			"name": "Halberd",
+			"description": ""
+		},
+		"Hand Axe": {
+			"name": "Hand Axe",
+			"description": ""
+		},
+		"Javelin": {
+			"name": "Javelin",
+			"description": ""
+		},
+		"Long Sword": {
+			"name": "Long Sword",
+			"description": ""
+		},
+		"Mace": {
+			"name": "Mace",
+			"description": ""
+		},
+		"Morning Star": {
+			"name": "Morning Star",
+			"description": ""
+		},
+		"Polearm": {
+			"name": "Polearm",
+			"description": ""
+		},
+		"Scimitar": {
+			"name": "Scimitar",
+			"description": ""
+		},
+		"Sling": {
+			"name": "Sling",
+			"description": ""
+		},
+		"Spear": {
+			"name": "Spear",
+			"description": ""
+		},
+		"Staff": {
+			"name": "Staff",
+			"description": ""
+		},
+		"Sword": {
+			"name": "Sword",
+			"description": ""
+		},
+		"War Hammer": {
+			"name": "War Hammer",
+			"description": ""
+		},
+		"Whip": {
+			"name": "Whip",
+			"description": ""
+		}
+	}
+}

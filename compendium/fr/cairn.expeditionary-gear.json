@@ -1,0 +1,101 @@
+{
+	"label": "Expeditionary Gear",
+	"entries": {
+		"Air Bladder": {
+			"name": "Air Bladder",
+			"description": ""
+		},
+		"Antitoxin": {
+			"name": "Antitoxin",
+			"description": ""
+		},
+		"Bedroll": {
+			"name": "Bedroll",
+			"description": ""
+		},
+		"Chain, 10ft": {
+			"name": "Chain, 10ft",
+			"description": ""
+		},
+		"Dowsing Rod": {
+			"name": "Dowsing Rod",
+			"description": ""
+		},
+		"Fire Oil": {
+			"name": "Fire Oil",
+			"description": ""
+		},
+		"Grappling Hook": {
+			"name": "Grappling Hook",
+			"description": ""
+		},
+		"Large Sack": {
+			"name": "Large Sack",
+			"description": ""
+		},
+		"Large Trap": {
+			"name": "Large Trap",
+			"description": ""
+		},
+		"Lockpicks": {
+			"name": "Lockpicks",
+			"description": ""
+		},
+		"Manacles": {
+			"name": "Manacles",
+			"description": ""
+		},
+		"Pick": {
+			"name": "Pick",
+			"description": ""
+		},
+		"Pole, 10ft": {
+			"name": "Pole, 10ft",
+			"description": ""
+		},
+		"Pulley": {
+			"name": "Pulley",
+			"description": ""
+		},
+		"Rations": {
+			"name": "Rations",
+			"description": ""
+		},
+		"Repellent": {
+			"name": "Repellent",
+			"description": ""
+		},
+		"Rope": {
+			"name": "Rope",
+			"description": ""
+		},
+		"Sleeping Bag": {
+			"name": "Sleeping Bag",
+			"description": ""
+		},
+		"Spirit Ward": {
+			"name": "Spirit Ward",
+			"description": ""
+		},
+		"Spyglass": {
+			"name": "Spyglass",
+			"description": ""
+		},
+		"Tinderbox": {
+			"name": "Tinderbox",
+			"description": ""
+		},
+		"Torch": {
+			"name": "Torch",
+			"description": ""
+		},
+		"Waterskin": {
+			"name": "Waterskin",
+			"description": ""
+		},
+		"Wolfsbane": {
+			"name": "Wolfsbane",
+			"description": ""
+		}
+	}
+}
