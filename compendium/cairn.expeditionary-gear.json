@@ -1,0 +1,125 @@
+{
+	"label": "Équipement d'aventurier",
+	"entries": [
+		{
+			"id": "Wolfsbane",
+			"name": "Aconit tue-loup",
+			"description": ""
+		},
+		{
+			"id": "Spirit Ward",
+			"name": "Amulette",
+			"description": ""
+		},
+		{
+			"id": "Antitoxin",
+			"name": "Antidote",
+			"description": ""
+		},
+		{
+			"id": "Dowsing Rod",
+			"name": "Bâton de sourcier",
+			"description": ""
+		},
+		{
+			"id": "Tinderbox",
+			"name": "Boite à amadou",
+			"description": ""
+		},
+		{
+			"id": "Chain, 10ft",
+			"name": "Chaine, 3m",
+			"description": ""
+		},
+		{
+			"id": "Rope",
+			"name": "Corde (10m)",
+			"description": ""
+		},
+		{
+			"id": "Large Sack",
+			"name": "Grand sac",
+			"description": ""
+		},
+		{
+			"id": "Grappling Hook",
+			"name": "Grappin",
+			"description": ""
+		},
+		{
+			"id": "Fire Oil",
+			"name": "Huile",
+			"description": ""
+		},
+		{
+			"id": "Spyglass",
+			"name": "Longue-vue",
+			"description": ""
+		},
+		{
+			"id": "Manacles",
+			"name": "Menottes",
+			"description": ""
+		},
+		{
+			"id": "Lockpicks",
+			"name": "Outils de voleur",
+			"description": ""
+		},
+		{
+			"id": "Waterskin",
+			"name": "Outre",
+			"description": ""
+		},
+		{
+			"id": "Pole, 10ft",
+			"name": "Perche, 3m",
+			"description": ""
+		},
+		{
+			"id": "Large Trap",
+			"name": "Piège (grand)",
+			"description": ""
+		},
+		{
+			"id": "Pick",
+			"name": "Pioche",
+			"description": ""
+		},
+		{
+			"id": "Pulley",
+			"name": "Poulie",
+			"description": ""
+		},
+		{
+			"id": "Rations",
+			"name": "Rations",
+			"description": ""
+		},
+		{
+			"id": "Repellent",
+			"name": "Répulsif",
+			"description": ""
+		},
+		{
+			"id": "Bedroll",
+			"name": "Rouleau de lit",
+			"description": ""
+		},
+		{
+			"id": "Sleeping Bag",
+			"name": "Sac de couchage",
+			"description": ""
+		},
+		{
+			"id": "Torch",
+			"name": "Torche",
+			"description": ""
+		},
+		{
+			"id": "Air Bladder",
+			"name": "Vessie à air",
+			"description": ""
+		}
+	]
+}

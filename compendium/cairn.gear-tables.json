@@ -1,0 +1,70 @@
+{
+	"label": "Tables d'équipements",
+	"entries": [
+		{
+			"id": "Armor",
+			"name": "Armure",
+			"description": "Une table aléatoire créée à partir du dossier Armure."
+		},
+		{
+			"id": "Bonus Item",
+			"name": "Objet Bonus",
+			"description": "Une table aléatoire créée à partir du dossier Objet Bonus."
+		},
+		{
+			"id": "Expeditionary Gear",
+			"name": "Matériel d'aventurier",
+			"description": "Une table aléatoire créée à partir du dossier Matériel d'aventurier."
+		},
+		{
+			"id": "Extra",
+			"name": "Objet supplémentaire",
+			"description": "Une table aléatoire créée à partir du dossier Objet supplémentaire."
+		},
+		{
+			"id": "Helmets and Shields",
+			"name": "Casques et Boucliers",
+			"description": "Une table aléatoire créée à partir du dossier Casques et Boucliers."
+		},
+		{
+			"id": "One-Handed Melee",
+			"name": "Armes de mélée à une main",
+			"description": "Une table aléatoire créée à partir du dossier Arme de mélée à une main."
+		},
+		{
+			"id": "Ranged Weapons",
+			"name": "Armes à distance",
+			"description": "Une table aléatoire créée à partir du dossier Arme à distance."
+		},
+		{
+			"id": "Simple Weapons",
+			"name": "Armes simples",
+			"description": "Une table aléatoire créée à partir du dossier Armes Simples."
+		},
+		{
+			"id": "Spellbooks",
+			"name": "Sorts",
+			"description": "Une table aléatoire créée à partir du dossier Sorts."
+		},
+		{
+			"id": "Tools",
+			"name": "Outils",
+			"description": "Une table aléatoire créée à partir du dossier Outils."
+		},
+		{
+			"id": "Trinkets",
+			"name": "Babioles",
+			"description": "Une table aléatoire créée à partir du dossier Babioles."
+		},
+		{
+			"id": "Two-Handed Melee",
+			"name": "Armes à deux mains",
+			"description": "Une table aléatoire créée à partir du dossier Armes à deux mains."
+		},
+		{
+			"id": "Weapons",
+			"name": "Armes",
+			"description": "Une table aléatoire créée à partir du dossier Armes."
+		}
+	]
+}

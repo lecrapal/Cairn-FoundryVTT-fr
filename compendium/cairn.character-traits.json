@@ -1,0 +1,61 @@
+{
+	"label": "Traits de personnage",
+	"entries": [
+		{
+			"id": "Background",
+			"name": "Historique"
+		},
+		{
+			"id": "Clothing",
+			"name": "Vêtements"
+		},
+		{
+			"id": "Face",
+			"name": "Visage"
+		},
+		{
+			"id": "Female Names",
+			"name": "Noms féminins"
+		},
+		{
+			"id": "Hair",
+			"name": "Cheveux"
+		},
+		{
+			"id": "Male Names",
+			"name": "Noms masculins"
+		},
+		{
+			"id": "Misfortunes",
+			"name": "Infortunes"
+		},
+		{
+			"id": "Physique",
+			"name": "Physique"
+		},
+		{
+			"id": "Reputation",
+			"name": "Réputation"
+		},
+		{
+			"id": "Skin",
+			"name": "Peau"
+		},
+		{
+			"id": "Speech",
+			"name": "Locution"
+		},
+		{
+			"id": "Surnames",
+			"name": "Surnoms"
+		},
+		{
+			"id": "Vice",
+			"name": "Vice"
+		},
+		{
+			"id": "Virtue",
+			"name": "Qualité"
+		}
+	]
+}

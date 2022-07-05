@@ -9,14 +9,11 @@
     "dependencies": [
         {
             "name": "cairn",
-            "type": "system",
-            "version": "0.10.18"
+            "type": "system"
         },
         {
             "name": "babele",
-            "type": "module",
-            "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json",
-            "version": "1.28"
+            "type": "module"
         }
     ],
     "esmodules": [
@@ -28,10 +25,9 @@
     "languages": [{
         "lang": "fr",
         "name": "Français",
-        "path": "lang/fr.json"
+        "path": "fr.json"
     }],
     "system": "cairn",
-    "systemVersion": "0.10.18",
     "url": "https://github.com/lecrapal/Cairn-FoundryVTT-fr",
     "manifest": "https://github.com/lecrapal/Cairn-FoundryVTT-fr/raw/main/module.json",
     "download": "https://github.com/lecrapal/Cairn-FoundryVTT-fr/archive/refs/heads/main.zip"

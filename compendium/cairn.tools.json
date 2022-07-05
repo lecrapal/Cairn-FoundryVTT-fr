@@ -1,93 +1,115 @@
 {
 	"label": "Tools",
-	"entries": {
-		"Bellows": {
+	"entries": [
+		{
+			"id": "Bellows",
 			"name": "Bellows",
 			"description": ""
 		},
-		"Bucket": {
+		{
+			"id": "Bucket",
 			"name": "Bucket",
 			"description": ""
 		},
-		"Caltrops": {
+		{
+			"id": "Caltrops",
 			"name": "Caltrops",
 			"description": ""
 		},
-		"Chalk": {
+		{
+			"id": "Chalk",
 			"name": "Chalk",
 			"description": ""
 		},
-		"Chisel": {
+		{
+			"id": "Chisel",
 			"name": "Chisel",
 			"description": ""
 		},
-		"Cook Pots": {
+		{
+			"id": "Cook Pots",
 			"name": "Cook Pots",
 			"description": ""
 		},
-		"Crowbar": {
+		{
+			"id": "Crowbar",
 			"name": "Crowbar",
 			"description": ""
 		},
-		"Fishing Rod": {
+		{
+			"id": "Fishing Rod",
 			"name": "Fishing Rod",
 			"description": ""
 		},
-		"Glue": {
+		{
+			"id": "Glue",
 			"name": "Glue",
 			"description": ""
 		},
-		"Grease": {
+		{
+			"id": "Grease",
 			"name": "Grease",
 			"description": ""
 		},
-		"Hammer": {
+		{
+			"id": "Hammer",
 			"name": "Hammer",
 			"description": ""
 		},
-		"Hand-Drill": {
+		{
+			"id": "Hand-Drill",
 			"name": "Hand-Drill",
 			"description": ""
 		},
-		"Hourglass": {
+		{
+			"id": "Hourglass",
 			"name": "Hourglass",
 			"description": ""
 		},
-		"Lantern": {
+		{
+			"id": "Lantern",
 			"name": "Lantern",
 			"description": ""
 		},
-		"Metal File": {
+		{
+			"id": "Metal File",
 			"name": "Metal File",
 			"description": ""
 		},
-		"Nails": {
+		{
+			"id": "Nails",
 			"name": "Nails",
 			"description": ""
 		},
-		"Net": {
+		{
+			"id": "Net",
 			"name": "Net",
 			"description": ""
 		},
-		"Padlock": {
+		{
+			"id": "Padlock",
 			"name": "Padlock",
 			"description": ""
 		},
-		"Saw": {
+		{
+			"id": "Saw",
 			"name": "Saw",
 			"description": ""
 		},
-		"Sealant": {
+		{
+			"id": "Sealant",
 			"name": "Sealant",
 			"description": ""
 		},
-		"Shovel": {
+		{
+			"id": "Shovel",
 			"name": "Shovel",
 			"description": ""
 		},
-		"Tongs": {
+		{
+			"id": "Tongs",
 			"name": "Tongs",
 			"description": ""
 		}
-	}
+	]
 }

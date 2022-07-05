@@ -1,105 +1,130 @@
 {
 	"label": "Weapons",
-	"entries": {
-		"Axe": {
+	"entries": [
+		{
+			"id": "Axe",
 			"name": "Axe",
 			"description": ""
 		},
-		"Blowgun": {
+		{
+			"id": "Blowgun",
 			"name": "Blowgun",
 			"description": ""
 		},
-		"Bolas": {
+		{
+			"id": "Bolas",
 			"name": "Bolas",
 			"description": ""
 		},
-		"Bow": {
+		{
+			"id": "Bow",
 			"name": "Bow",
 			"description": ""
 		},
-		"Broadsword": {
+		{
+			"id": "Broadsword",
 			"name": "Broadsword",
 			"description": ""
 		},
-		"Cestus": {
+		{
+			"id": "Cestus",
 			"name": "Cestus",
 			"description": ""
 		},
-		"Crossbow": {
+		{
+			"id": "Crossbow",
 			"name": "Crossbow",
 			"description": ""
 		},
-		"Cudgel": {
+		{
+			"id": "Cudgel",
 			"name": "Cudgel",
 			"description": ""
 		},
-		"Dagger": {
+		{
+			"id": "Dagger",
 			"name": "Dagger",
 			"description": ""
 		},
-		"Dart": {
+		{
+			"id": "Dart",
 			"name": "Dart",
 			"description": ""
 		},
-		"Flail": {
+		{
+			"id": "Flail",
 			"name": "Flail",
 			"description": ""
 		},
-		"Halberd": {
+		{
+			"id": "Halberd",
 			"name": "Halberd",
 			"description": ""
 		},
-		"Hand Axe": {
+		{
+			"id": "Hand Axe",
 			"name": "Hand Axe",
 			"description": ""
 		},
-		"Javelin": {
+		{
+			"id": "Javelin",
 			"name": "Javelin",
 			"description": ""
 		},
-		"Long Sword": {
+		{
+			"id": "Long Sword",
 			"name": "Long Sword",
 			"description": ""
 		},
-		"Mace": {
+		{
+			"id": "Mace",
 			"name": "Mace",
 			"description": ""
 		},
-		"Morning Star": {
+		{
+			"id": "Morning Star",
 			"name": "Morning Star",
 			"description": ""
 		},
-		"Polearm": {
+		{
+			"id": "Polearm",
 			"name": "Polearm",
 			"description": ""
 		},
-		"Scimitar": {
+		{
+			"id": "Scimitar",
 			"name": "Scimitar",
 			"description": ""
 		},
-		"Sling": {
+		{
+			"id": "Sling",
 			"name": "Sling",
 			"description": ""
 		},
-		"Spear": {
+		{
+			"id": "Spear",
 			"name": "Spear",
 			"description": ""
 		},
-		"Staff": {
+		{
+			"id": "Staff",
 			"name": "Staff",
 			"description": ""
 		},
-		"Sword": {
+		{
+			"id": "Sword",
 			"name": "Sword",
 			"description": ""
 		},
-		"War Hammer": {
+		{
+			"id": "War Hammer",
 			"name": "War Hammer",
 			"description": ""
 		},
-		"Whip": {
+		{
+			"id": "Whip",
 			"name": "Whip",
 			"description": ""
 		}
-	}
+	]
 }

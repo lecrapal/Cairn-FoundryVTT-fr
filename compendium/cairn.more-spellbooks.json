@@ -1,653 +1,869 @@
 {
 	"label": "More Spellbooks",
-	"entries": {
-		"Adaptive Skin": {
+	"entries": [
+		{
+			"id": "Adaptive Skin",
 			"name": "Adaptive Skin"
 		},
-		"Addle Brain": {
+		{
+			"id": "Addle Brain",
 			"name": "Addle Brain"
 		},
-		"Animal Call": {
+		{
+			"id": "Animal Call",
 			"name": "Animal Call"
 		},
-		"Anti-Magic Globe": {
+		{
+			"id": "Anti-Magic Globe",
 			"name": "Anti-Magic Globe"
 		},
-		"Arachnid's Finesse": {
+		{
+			"id": "Arachnid's Finesse",
 			"name": "Arachnid's Finesse"
 		},
-		"Arcane Arrow": {
+		{
+			"id": "Arcane Arrow",
 			"name": "Arcane Arrow"
 		},
-		"Arcane Confinement": {
+		{
+			"id": "Arcane Confinement",
 			"name": "Arcane Confinement"
 		},
-		"Arcane Epistle": {
+		{
+			"id": "Arcane Epistle",
 			"name": "Arcane Epistle"
 		},
-		"Arcane Fireworks": {
+		{
+			"id": "Arcane Fireworks",
 			"name": "Arcane Fireworks"
 		},
-		"Arcane Stain": {
+		{
+			"id": "Arcane Stain",
 			"name": "Arcane Stain"
 		},
-		"Architect's Eye": {
+		{
+			"id": "Architect's Eye",
 			"name": "Architect's Eye"
 		},
-		"Architect's Perfection": {
+		{
+			"id": "Architect's Perfection",
 			"name": "Architect's Perfection"
 		},
-		"Astral Step": {
+		{
+			"id": "Astral Step",
 			"name": "Astral Step"
 		},
-		"Banishment": {
+		{
+			"id": "Banishment",
 			"name": "Banishment"
 		},
-		"Become Unseen": {
+		{
+			"id": "Become Unseen",
 			"name": "Become Unseen"
 		},
-		"Beguilement": {
+		{
+			"id": "Beguilement",
 			"name": "Beguilement"
 		},
-		"Bewildering Fog": {
+		{
+			"id": "Bewildering Fog",
 			"name": "Bewildering Fog"
 		},
-		"Blazing Defense": {
+		{
+			"id": "Blazing Defense",
 			"name": "Blazing Defense"
 		},
-		"Blessing": {
+		{
+			"id": "Blessing",
 			"name": "Blessing"
 		},
-		"Bolster": {
+		{
+			"id": "Bolster",
 			"name": "Bolster"
 		},
-		"Bound": {
+		{
+			"id": "Bound",
 			"name": "Bound"
 		},
-		"Boundless Message": {
+		{
+			"id": "Boundless Message",
 			"name": "Boundless Message"
 		},
-		"Breath Soup": {
+		{
+			"id": "Breath Soup",
 			"name": "Breath Soup"
 		},
-		"Burning Missile": {
+		{
+			"id": "Burning Missile",
 			"name": "Burning Missile"
 		},
-		"Burnishing Bubble": {
+		{
+			"id": "Burnishing Bubble",
 			"name": "Burnishing Bubble"
 		},
-		"Calcify": {
+		{
+			"id": "Calcify",
 			"name": "Calcify"
 		},
-		"Catsense": {
+		{
+			"id": "Catsense",
 			"name": "Catsense"
 		},
-		"Chilling Graze": {
+		{
+			"id": "Chilling Graze",
 			"name": "Chilling Graze"
 		},
-		"Cinder Flesh": {
+		{
+			"id": "Cinder Flesh",
 			"name": "Cinder Flesh"
 		},
-		"Circle of Arcane Protection": {
+		{
+			"id": "Circle of Arcane Protection",
 			"name": "Circle of Arcane Protection"
 		},
-		"Cleanse": {
+		{
+			"id": "Cleanse",
 			"name": "Cleanse"
 		},
-		"Cold Spray": {
+		{
+			"id": "Cold Spray",
 			"name": "Cold Spray"
 		},
-		"Conceal Object": {
+		{
+			"id": "Conceal Object",
 			"name": "Conceal Object"
 		},
-		"Conquer Gravity": {
+		{
+			"id": "Conquer Gravity",
 			"name": "Conquer Gravity"
 		},
-		"Cosmic Fingertips": {
+		{
+			"id": "Cosmic Fingertips",
 			"name": "Cosmic Fingertips"
 		},
-		"Coup de Grâce": {
+		{
+			"id": "Coup de Grâce",
 			"name": "Coup de Grâce"
 		},
-		"Craft from Clay": {
+		{
+			"id": "Craft from Clay",
 			"name": "Craft from Clay"
 		},
-		"Create Unlife": {
+		{
+			"id": "Create Unlife",
 			"name": "Create Unlife"
 		},
-		"Cure-All": {
+		{
+			"id": "Cure-All",
 			"name": "Cure-All"
 		},
-		"Curse Unlife": {
-			"name": "Curse Unlife"
-		},
-		"Curse of the Sightless": {
+		{
+			"id": "Curse of the Sightless",
 			"name": "Curse of the Sightless"
 		},
-		"Cute Ink": {
+		{
+			"id": "Curse Unlife",
+			"name": "Curse Unlife"
+		},
+		{
+			"id": "Cute Ink",
 			"name": "Cute Ink"
 		},
-		"Darksight": {
+		{
+			"id": "Darksight",
 			"name": "Darksight"
 		},
-		"Death's Breath": {
+		{
+			"id": "Death's Breath",
 			"name": "Death's Breath"
 		},
-		"Devil's Comedian": {
+		{
+			"id": "Devil's Comedian",
 			"name": "Devil's Comedian"
 		},
-		"Disaster Fluid": {
+		{
+			"id": "Disaster Fluid",
 			"name": "Disaster Fluid"
 		},
-		"Disrupt Scry": {
+		{
+			"id": "Disrupt Scry",
 			"name": "Disrupt Scry"
 		},
-		"Doppleganger": {
+		{
+			"id": "Doppleganger",
 			"name": "Doppleganger"
 		},
-		"Doubleskin": {
+		{
+			"id": "Doubleskin",
 			"name": "Doubleskin"
 		},
-		"Dreampoison": {
+		{
+			"id": "Dreampoison",
 			"name": "Dreampoison"
 		},
-		"Dreamtalker": {
+		{
+			"id": "Dreamtalker",
 			"name": "Dreamtalker"
 		},
-		"Earsplit": {
+		{
+			"id": "Earsplit",
 			"name": "Earsplit"
 		},
-		"Easy Descent": {
+		{
+			"id": "Easy Descent",
 			"name": "Easy Descent"
 		},
-		"Edifice": {
+		{
+			"id": "Edifice",
 			"name": "Edifice"
 		},
-		"Energize Rope": {
+		{
+			"id": "Energize Rope",
 			"name": "Energize Rope"
 		},
-		"Ensorcelled": {
+		{
+			"id": "Ensorcelled",
 			"name": "Ensorcelled"
 		},
-		"Envision": {
+		{
+			"id": "Envision",
 			"name": "Envision"
 		},
-		"Ephemeral Audio": {
+		{
+			"id": "Ephemeral Audio",
 			"name": "Ephemeral Audio"
 		},
-		"Epidemic": {
+		{
+			"id": "Epidemic",
 			"name": "Epidemic"
 		},
-		"Extraplanar Convocation": {
+		{
+			"id": "Extraplanar Convocation",
 			"name": "Extraplanar Convocation"
 		},
-		"Extraplanar Request": {
+		{
+			"id": "Extraplanar Request",
 			"name": "Extraplanar Request"
 		},
-		"Feline Dexterity": {
+		{
+			"id": "Feline Dexterity",
 			"name": "Feline Dexterity"
 		},
-		"Find Virulence": {
+		{
+			"id": "Find Virulence",
 			"name": "Find Virulence"
 		},
-		"Fire Curse": {
+		{
+			"id": "Fire Curse",
 			"name": "Fire Curse"
 		},
-		"Firey Missile": {
+		{
+			"id": "Firey Missile",
 			"name": "Firey Missile"
 		},
-		"Fish Lung": {
+		{
+			"id": "Fish Lung",
 			"name": "Fish Lung"
 		},
-		"Fleetfooted": {
+		{
+			"id": "Fleetfooted",
 			"name": "Fleetfooted"
 		},
-		"Flicker": {
+		{
+			"id": "Flicker",
 			"name": "Flicker"
 		},
-		"Fog of Nausea": {
+		{
+			"id": "Fog of Nausea",
 			"name": "Fog of Nausea"
 		},
-		"Fold Portal": {
+		{
+			"id": "Fold Portal",
 			"name": "Fold Portal"
 		},
-		"Foolishness": {
+		{
+			"id": "Foolishness",
 			"name": "Foolishness"
 		},
-		"Fortify": {
+		{
+			"id": "Fortify",
 			"name": "Fortify"
 		},
-		"Frozen Corpse": {
+		{
+			"id": "Frozen Corpse",
 			"name": "Frozen Corpse"
 		},
-		"Gale": {
+		{
+			"id": "Gale",
 			"name": "Gale"
 		},
-		"Ghost Whisper": {
+		{
+			"id": "Ghost Whisper",
 			"name": "Ghost Whisper"
 		},
-		"Gift of Flight": {
+		{
+			"id": "Gift of Flight",
 			"name": "Gift of Flight"
 		},
-		"Glacier": {
+		{
+			"id": "Glacier",
 			"name": "Glacier"
 		},
-		"Gorgon's Gaze": {
+		{
+			"id": "Gorgon's Gaze",
 			"name": "Gorgon's Gaze"
 		},
-		"Great Ball of Fire": {
+		{
+			"id": "Great Ball of Fire",
 			"name": "Great Ball of Fire"
 		},
-		"Hand of the Protector": {
+		{
+			"id": "Hand of the Protector",
 			"name": "Hand of the Protector"
 		},
-		"Healing Grace": {
+		{
+			"id": "Healing Grace",
 			"name": "Healing Grace"
 		},
-		"Heatless Torch": {
+		{
+			"id": "Heatless Torch",
 			"name": "Heatless Torch"
 		},
-		"Hedgemagick": {
+		{
+			"id": "Hedgemagick",
 			"name": "Hedgemagick"
 		},
-		"Hempen Hoop": {
+		{
+			"id": "Hempen Hoop",
 			"name": "Hempen Hoop"
 		},
-		"Hide Mind": {
+		{
+			"id": "Hide Mind",
 			"name": "Hide Mind"
 		},
-		"Hoodwink Monster": {
+		{
+			"id": "Hoodwink Monster",
 			"name": "Hoodwink Monster"
 		},
-		"Hoodwink Person": {
+		{
+			"id": "Hoodwink Person",
 			"name": "Hoodwink Person"
 		},
-		"Hovering Protection": {
+		{
+			"id": "Hovering Protection",
 			"name": "Hovering Protection"
 		},
-		"Ice Ray": {
+		{
+			"id": "Ice Ray",
 			"name": "Ice Ray"
 		},
-		"Icy Tempest": {
+		{
+			"id": "Icy Tempest",
 			"name": "Icy Tempest"
 		},
-		"Ill Fate": {
+		{
+			"id": "Ill Fate",
 			"name": "Ill Fate"
 		},
-		"Illusory Landscape": {
+		{
+			"id": "Illusory Landscape",
 			"name": "Illusory Landscape"
 		},
-		"Incorporeal Shrug": {
+		{
+			"id": "Incorporeal Shrug",
 			"name": "Incorporeal Shrug"
 		},
-		"Induce Despair": {
+		{
+			"id": "Induce Despair",
 			"name": "Induce Despair"
 		},
-		"Induce Horror": {
+		{
+			"id": "Induce Horror",
 			"name": "Induce Horror"
 		},
-		"Inferno": {
+		{
+			"id": "Inferno",
 			"name": "Inferno"
 		},
-		"Influence": {
+		{
+			"id": "Influence",
 			"name": "Influence"
 		},
-		"Insubstantiate": {
+		{
+			"id": "Insubstantiate",
 			"name": "Insubstantiate"
 		},
-		"Kraken's Curse": {
+		{
+			"id": "Kraken's Curse",
 			"name": "Kraken's Curse"
 		},
-		"Lamp's Hue": {
+		{
+			"id": "Lamp's Hue",
 			"name": "Lamp's Hue"
 		},
-		"Latch": {
+		{
+			"id": "Latch",
 			"name": "Latch"
 		},
-		"Librarian's Trap": {
+		{
+			"id": "Librarian's Trap",
 			"name": "Librarian's Trap"
 		},
-		"Lichsense": {
+		{
+			"id": "Lichsense",
 			"name": "Lichsense"
 		},
-		"Light Show": {
+		{
+			"id": "Light Show",
 			"name": "Light Show"
 		},
-		"Lightning Strike": {
+		{
+			"id": "Lightning Strike",
 			"name": "Lightning Strike"
 		},
-		"Linguist": {
+		{
+			"id": "Linguist",
 			"name": "Linguist"
 		},
-		"Magic Seal": {
+		{
+			"id": "Magic Seal",
 			"name": "Magic Seal"
 		},
-		"Major Genesis": {
+		{
+			"id": "Major Genesis",
 			"name": "Major Genesis"
 		},
-		"Maker": {
+		{
+			"id": "Maker",
 			"name": "Maker"
 		},
-		"Manic Fury": {
+		{
+			"id": "Manic Fury",
 			"name": "Manic Fury"
 		},
-		"Masquerade": {
+		{
+			"id": "Masquerade",
 			"name": "Masquerade"
 		},
-		"Master Undead": {
+		{
+			"id": "Master Undead",
 			"name": "Master Undead"
 		},
-		"Mental Tripwire": {
+		{
+			"id": "Mental Tripwire",
 			"name": "Mental Tripwire"
 		},
-		"Mind Bond": {
+		{
+			"id": "Mind Bond",
 			"name": "Mind Bond"
 		},
-		"Mind Reader": {
+		{
+			"id": "Mind Reader",
 			"name": "Mind Reader"
 		},
-		"Miniaturize": {
+		{
+			"id": "Miniaturize",
 			"name": "Miniaturize"
 		},
-		"Minor Aegis": {
+		{
+			"id": "Minor Aegis",
 			"name": "Minor Aegis"
 		},
-		"Minor Genesis": {
+		{
+			"id": "Minor Genesis",
 			"name": "Minor Genesis"
 		},
-		"Mirage": {
+		{
+			"id": "Mirage",
 			"name": "Mirage"
 		},
-		"Molasses Veins": {
+		{
+			"id": "Molasses Veins",
 			"name": "Molasses Veins"
 		},
-		"Murky Bubble": {
+		{
+			"id": "Murky Bubble",
 			"name": "Murky Bubble"
 		},
-		"Necrotic Touch": {
+		{
+			"id": "Necrotic Touch",
 			"name": "Necrotic Touch"
 		},
-		"Obfuscate": {
+		{
+			"id": "Obfuscate",
 			"name": "Obfuscate"
 		},
-		"Obfuscation": {
+		{
+			"id": "Obfuscation",
 			"name": "Obfuscation"
 		},
-		"Obscuring Mist": {
+		{
+			"id": "Obscuring Mist",
 			"name": "Obscuring Mist"
 		},
-		"Opaque Cover": {
+		{
+			"id": "Opaque Cover",
 			"name": "Opaque Cover"
 		},
-		"Orb of Ignus": {
+		{
+			"id": "Orb of Ignus",
 			"name": "Orb of Ignus"
 		},
-		"Orb of Immortality": {
+		{
+			"id": "Orb of Immortality",
 			"name": "Orb of Immortality"
 		},
-		"Otherwordly Pet": {
+		{
+			"id": "Otherwordly Pet",
 			"name": "Otherwordly Pet"
 		},
-		"Otherworldly Gate": {
+		{
+			"id": "Otherworldly Gate",
 			"name": "Otherworldly Gate"
 		},
-		"Paincurrent": {
+		{
+			"id": "Paincurrent",
 			"name": "Paincurrent"
 		},
-		"Passage": {
+		{
+			"id": "Passage",
 			"name": "Passage"
 		},
-		"Passive Invisibility": {
+		{
+			"id": "Passive Invisibility",
 			"name": "Passive Invisibility"
 		},
-		"Peeping Warlock": {
+		{
+			"id": "Peeping Warlock",
 			"name": "Peeping Warlock"
 		},
-		"Perfect Illusion": {
+		{
+			"id": "Perfect Illusion",
 			"name": "Perfect Illusion"
 		},
-		"Perfect Preservation": {
+		{
+			"id": "Perfect Preservation",
 			"name": "Perfect Preservation"
 		},
-		"Phantom Hound": {
+		{
+			"id": "Phantom Hound",
 			"name": "Phantom Hound"
 		},
-		"Phase Anchor": {
+		{
+			"id": "Phase Anchor",
 			"name": "Phase Anchor"
 		},
-		"Phase Sneak": {
+		{
+			"id": "Phase Sneak",
 			"name": "Phase Sneak"
 		},
-		"Phase Touch": {
+		{
+			"id": "Phase Touch",
 			"name": "Phase Touch"
 		},
-		"Philolomancy": {
+		{
+			"id": "Philolomancy",
 			"name": "Philolomancy"
 		},
-		"Planal Metamorphosis": {
+		{
+			"id": "Planal Metamorphosis",
 			"name": "Planal Metamorphosis"
 		},
-		"Planar Anchor": {
+		{
+			"id": "Planar Anchor",
 			"name": "Planar Anchor"
 		},
-		"Plant Scourge": {
+		{
+			"id": "Plant Scourge",
 			"name": "Plant Scourge"
 		},
-		"Pocket Container": {
+		{
+			"id": "Pocket Container",
 			"name": "Pocket Container"
 		},
-		"Pocket Sun": {
+		{
+			"id": "Pocket Sun",
 			"name": "Pocket Sun"
 		},
-		"Prisma Shard": {
+		{
+			"id": "Prisma Shard",
 			"name": "Prisma Shard"
 		},
-		"Profane Reveal": {
+		{
+			"id": "Profane Reveal",
 			"name": "Profane Reveal"
 		},
-		"Psychic Eye": {
+		{
+			"id": "Psychic Eye",
 			"name": "Psychic Eye"
 		},
-		"Psychokinesis": {
+		{
+			"id": "Psychokinesis",
 			"name": "Psychokinesis"
 		},
-		"Puppeteer": {
+		{
+			"id": "Puppeteer",
 			"name": "Puppeteer"
 		},
-		"Purge Text": {
+		{
+			"id": "Purge Text",
 			"name": "Purge Text"
 		},
-		"Pyramid of Passivity": {
+		{
+			"id": "Pyramid of Passivity",
 			"name": "Pyramid of Passivity"
 		},
-		"Pyschic Touch": {
+		{
+			"id": "Pyschic Touch",
 			"name": "Pyschic Touch"
 		},
-		"Rat-Tat-Tat": {
+		{
+			"id": "Rat-Tat-Tat",
 			"name": "Rat-Tat-Tat"
 		},
-		"Ravenless Message": {
+		{
+			"id": "Ravenless Message",
 			"name": "Ravenless Message"
 		},
-		"Reject Unlife": {
+		{
+			"id": "Reject Unlife",
 			"name": "Reject Unlife"
 		},
-		"Remembered Voice": {
+		{
+			"id": "Remembered Voice",
 			"name": "Remembered Voice"
 		},
-		"Reverie": {
+		{
+			"id": "Reverie",
 			"name": "Reverie"
 		},
-		"Runic Harm": {
+		{
+			"id": "Runic Harm",
 			"name": "Runic Harm"
 		},
-		"Runic Slumber": {
+		{
+			"id": "Runic Slumber",
 			"name": "Runic Slumber"
 		},
-		"Safe Haven": {
+		{
+			"id": "Safe Haven",
 			"name": "Safe Haven"
 		},
-		"Scintillate": {
+		{
+			"id": "Scintillate",
 			"name": "Scintillate"
 		},
-		"Scry Creature": {
+		{
+			"id": "Scry Creature",
 			"name": "Scry Creature"
 		},
-		"Scry Object": {
+		{
+			"id": "Scry Object",
 			"name": "Scry Object"
 		},
-		"Scrying Ward": {
+		{
+			"id": "Scrying Ward",
 			"name": "Scrying Ward"
 		},
-		"Sculpt Water": {
+		{
+			"id": "Sculpt Water",
 			"name": "Sculpt Water"
 		},
-		"Secret Attaché": {
+		{
+			"id": "Secret Attaché",
 			"name": "Secret Attaché"
 		},
-		"Shelter": {
+		{
+			"id": "Shelter",
 			"name": "Shelter"
 		},
-		"Shrinking Cant": {
+		{
+			"id": "Shrinking Cant",
 			"name": "Shrinking Cant"
 		},
-		"Signal": {
+		{
+			"id": "Signal",
 			"name": "Signal"
 		},
-		"Simple Illusion": {
+		{
+			"id": "Simple Illusion",
 			"name": "Simple Illusion"
 		},
-		"Sinister Flame": {
+		{
+			"id": "Sinister Flame",
 			"name": "Sinister Flame"
 		},
-		"Sinister Polymorph": {
+		{
+			"id": "Sinister Polymorph",
 			"name": "Sinister Polymorph"
 		},
-		"Skillfull Repair": {
+		{
+			"id": "Skillfull Repair",
 			"name": "Skillfull Repair"
 		},
-		"Sky Raft": {
+		{
+			"id": "Sky Raft",
 			"name": "Sky Raft"
 		},
-		"Solar Portal": {
+		{
+			"id": "Solar Portal",
 			"name": "Solar Portal"
 		},
-		"Song of Repose": {
+		{
+			"id": "Song of Repose",
 			"name": "Song of Repose"
 		},
-		"Sonic Shattering": {
+		{
+			"id": "Sonic Shattering",
 			"name": "Sonic Shattering"
 		},
-		"Sorcerer's Lock": {
+		{
+			"id": "Sorcerer's Lock",
 			"name": "Sorcerer's Lock"
 		},
-		"Soul Annex": {
+		{
+			"id": "Soul Annex",
 			"name": "Soul Annex"
 		},
-		"Steer's Strength": {
+		{
+			"id": "Steer's Strength",
 			"name": "Steer's Strength"
 		},
-		"Strength Tap": {
+		{
+			"id": "Strength Tap",
 			"name": "Strength Tap"
 		},
-		"Stumbling Steps": {
+		{
+			"id": "Stumbling Steps",
 			"name": "Stumbling Steps"
 		},
-		"Stupefaction": {
+		{
+			"id": "Stupefaction",
 			"name": "Stupefaction"
 		},
-		"Sudden Slumber": {
+		{
+			"id": "Sudden Slumber",
 			"name": "Sudden Slumber"
 		},
-		"Summon Elemental": {
+		{
+			"id": "Summon Elemental",
 			"name": "Summon Elemental"
 		},
-		"Sway Will": {
+		{
+			"id": "Sway Will",
 			"name": "Sway Will"
 		},
-		"Temporary Reprieve": {
+		{
+			"id": "Temporary Reprieve",
 			"name": "Temporary Reprieve"
 		},
-		"Terrify": {
+		{
+			"id": "Terrify",
 			"name": "Terrify"
 		},
-		"Terrifying Illusion": {
+		{
+			"id": "Terrifying Illusion",
 			"name": "Terrifying Illusion"
 		},
-		"Thief's Bane": {
+		{
+			"id": "Thief's Bane",
 			"name": "Thief's Bane"
 		},
-		"Thwart the Elements": {
+		{
+			"id": "Thwart the Elements",
 			"name": "Thwart the Elements"
 		},
-		"Tongue of the Blue Serpent": {
+		{
+			"id": "Tongue of the Blue Serpent",
 			"name": "Tongue of the Blue Serpent"
 		},
-		"Torrential Moat": {
+		{
+			"id": "Torrential Moat",
 			"name": "Torrential Moat"
 		},
-		"Toxic Blast": {
+		{
+			"id": "Toxic Blast",
 			"name": "Toxic Blast"
 		},
-		"Transform Aura": {
+		{
+			"id": "Transform Aura",
 			"name": "Transform Aura"
 		},
-		"True Name": {
+		{
+			"id": "True Name",
 			"name": "True Name"
 		},
-		"Trueshift": {
+		{
+			"id": "Trueshift",
 			"name": "Trueshift"
 		},
-		"Twilight Steed": {
+		{
+			"id": "Twilight Steed",
 			"name": "Twilight Steed"
 		},
-		"Ultimate Sacrifice": {
+		{
+			"id": "Ultimate Sacrifice",
 			"name": "Ultimate Sacrifice"
 		},
-		"Uncurse": {
+		{
+			"id": "Uncurse",
 			"name": "Uncurse"
 		},
-		"Undefinable Target": {
+		{
+			"id": "Undefinable Target",
 			"name": "Undefinable Target"
 		},
-		"Undeniable Courage": {
+		{
+			"id": "Undeniable Courage",
 			"name": "Undeniable Courage"
 		},
-		"Unflappable Endurance": {
+		{
+			"id": "Unflappable Endurance",
 			"name": "Unflappable Endurance"
 		},
-		"Vermin Plague": {
+		{
+			"id": "Vermin Plague",
 			"name": "Vermin Plague"
 		},
-		"Vines of Ichor": {
+		{
+			"id": "Vines of Ichor",
 			"name": "Vines of Ichor"
 		},
-		"Warrior's Edge": {
+		{
+			"id": "Warrior's Edge",
 			"name": "Warrior's Edge"
 		},
-		"Windborn": {
+		{
+			"id": "Windborn",
 			"name": "Windborn"
 		},
-		"Winter's Woe": {
+		{
+			"id": "Winter's Woe",
 			"name": "Winter's Woe"
 		},
-		"Witch Sight": {
+		{
+			"id": "Witch Sight",
 			"name": "Witch Sight"
 		},
-		"Wizard's Exit": {
+		{
+			"id": "Wizard's Exit",
 			"name": "Wizard's Exit"
 		},
-		"Wizard's Grasp": {
+		{
+			"id": "Wizard's Grasp",
 			"name": "Wizard's Grasp"
 		},
-		"Wizard's Haven": {
+		{
+			"id": "Wizard's Haven",
 			"name": "Wizard's Haven"
 		},
-		"Wizardsniff": {
+		{
+			"id": "Wizardsniff",
 			"name": "Wizardsniff"
 		},
-		"Word of Pain": {
+		{
+			"id": "Word of Pain",
 			"name": "Word of Pain"
 		}
-	}
+	]
 }

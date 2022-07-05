@@ -1,0 +1,65 @@
+{
+	"label": "Armure",
+	"entries": [
+		{
+			"id": "Suit of Armor",
+			"name": "Armure de plaques",
+			"description": ""
+		},
+		{
+			"id": "Barbut Helm",
+			"name": "Barbute",
+			"description": ""
+		},
+		{
+			"id": "Bascinet Helm",
+			"name": "Bassinet",
+			"description": ""
+		},
+		{
+			"id": "Shield",
+			"name": "Bouclier",
+			"description": ""
+		},
+		{
+			"id": "Brigandine",
+			"name": "Brigandine",
+			"description": ""
+		},
+		{
+			"id": "Banded Mail",
+			"name": "Broigne",
+			"description": ""
+		},
+		{
+			"id": "Kettle Helm",
+			"name": "Chapel de fer",
+			"description": ""
+		},
+		{
+			"id": "Chainmail",
+			"name": "Cotte de mailles",
+			"description": ""
+		},
+		{
+			"id": "Studded Leather",
+			"name": "Cuir clouté",
+			"description": ""
+		},
+		{
+			"id": "Gambeson",
+			"name": "Gambeson",
+			"description": ""
+		},
+		{
+			"id": "Plate Mail",
+			"name": "Harnois",
+			"description": ""
+		},
+		{
+			"id": "Spangenhelm",
+			"name": "Spangenhelm",
+			"description": ""
+		}
+	]
+}

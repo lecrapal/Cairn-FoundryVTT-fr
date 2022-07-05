@@ -1,0 +1,25 @@
+{
+	"label": "Objets supplémentaires",
+	"entries": [
+		{
+			"id": "Jar of Forest Ants",
+			"name": "Bocal rempli de fourmis",
+			"description": ""
+		},
+		{
+			"id": "Poisonous mushrooms",
+			"name": "Champignons vénéneux",
+			"description": ""
+		},
+		{
+			"id": "Keys",
+			"name": "Clés",
+			"description": ""
+		},
+		{
+			"id": "Fatigue",
+			"name": "Fatigue",
+			"description": ""
+		}
+	]
+}

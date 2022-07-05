@@ -1,89 +1,110 @@
 {
 	"label": "Trinkets",
-	"entries": {
-		"Blank Book": {
+	"entries": [
+		{
+			"id": "Blank Book",
 			"name": "Blank Book",
 			"description": ""
 		},
-		"Bottle": {
+		{
+			"id": "Bottle",
 			"name": "Bottle",
 			"description": ""
 		},
-		"Card Deck": {
+		{
+			"id": "Card Deck",
 			"name": "Card Deck",
 			"description": ""
 		},
-		"Dice Set": {
+		{
+			"id": "Dice Set",
 			"name": "Dice Set",
 			"description": ""
 		},
-		"Face Paint": {
+		{
+			"id": "Face Paint",
 			"name": "Face Paint",
 			"description": ""
 		},
-		"Fake Jewels": {
+		{
+			"id": "Fake Jewels",
 			"name": "Fake Jewels",
 			"description": ""
 		},
-		"Horn": {
+		{
+			"id": "Horn",
 			"name": "Horn",
 			"description": ""
 		},
-		"Incense": {
+		{
+			"id": "Incense",
 			"name": "Incense",
 			"description": ""
 		},
-		"Instrument": {
+		{
+			"id": "Instrument",
 			"name": "Instrument",
 			"description": ""
 		},
-		"Lens": {
+		{
+			"id": "Lens",
 			"name": "Lens",
 			"description": ""
 		},
-		"Marbles": {
+		{
+			"id": "Marbles",
 			"name": "Marbles",
 			"description": ""
 		},
-		"Mirror": {
+		{
+			"id": "Mirror",
 			"name": "Mirror",
 			"description": ""
 		},
-		"Perfume": {
+		{
+			"id": "Perfume",
 			"name": "Perfume",
 			"description": ""
 		},
-		"Quill & Ink": {
+		{
+			"id": "Quill & Ink",
 			"name": "Quill & Ink",
 			"description": ""
 		},
-		"Salt Pack": {
+		{
+			"id": "Salt Pack",
 			"name": "Salt Pack",
 			"description": ""
 		},
-		"Small Bell": {
+		{
+			"id": "Small Bell",
 			"name": "Small Bell",
 			"description": ""
 		},
-		"Soap": {
+		{
+			"id": "Soap",
 			"name": "Soap",
 			"description": ""
 		},
-		"Sponge": {
+		{
+			"id": "Sponge",
 			"name": "Sponge",
 			"description": ""
 		},
-		"Tar pot": {
+		{
+			"id": "Tar pot",
 			"name": "Tar pot",
 			"description": ""
 		},
-		"Twine": {
+		{
+			"id": "Twine",
 			"name": "Twine",
 			"description": ""
 		},
-		"Whistle": {
+		{
+			"id": "Whistle",
 			"name": "Whistle",
 			"description": ""
 		}
-	}
+	]
 }
