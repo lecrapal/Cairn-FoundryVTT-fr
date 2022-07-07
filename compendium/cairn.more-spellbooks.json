@@ -106,44 +106,44 @@
 			"description": "<p>L'objet cible se transforme en pierre au contact du lanceur de sorts. Les cibles vivantes doivent faire une sauvegarde de FOR.</p>"
 		},
 		"Catsense": {
-			"name": "Catsense",
-			"description": "<p>Target has heightened senses for the next hour, especially at night.</p>"
+			"name": "Sens félin",
+			"description": "<p>La cible a des sens aiguisés pendant l'heure qui suit, surtout la nuit.</p>"
 		},
 		"Chilling Graze": {
-			"name": "Chilling Graze",
-			"description": "<p>Target loses 1d4+1 STR and is deprived.</p>"
+			"name": "Toucher glacial",
+			"description": "<p>La cible perd 1d4+1 FOR et est en privation.</p>"
 		},
 		"Cinder Flesh": {
-			"name": "Cinder Flesh",
-			"description": "<p>Energy beams burn enemies (1d10 blast damage) in a straight line.</p>"
+			"name": "Chair de cendre",
+			"description": "<p>Des faisceaux d'énergie brûlent les ennemis (1d10 dégâts explosifs) en ligne droite.</p>"
 		},
 		"Circle of Arcane Protection": {
-			"name": "Circle of Arcane Protection",
-			"description": "<p>Magical or godly beings cannot enter a 10ft circle.</p>"
+			"name": "Cercle de protection arcanique",
+			"description": "<p>Les êtres magiques ou divins ne peuvent pas entrer dans un cercle de 3 mètres.</p>"
 		},
 		"Cleanse": {
-			"name": "Cleanse",
-			"description": "<p>Rotten or poisoned food becomes edible.</p>"
+			"name": "Purification",
+			"description": "<p>Les aliments pourris ou empoisonnés deviennent comestibles.</p>"
 		},
 		"Cold Spray": {
-			"name": "Cold Spray",
-			"description": "<p>A spray of cold air does d6 damage 20ft in one direction.</p>"
+			"name": "Spray froid",
+			"description": "<p>Un jet d'air froid fait d6 dégâts à 6 mètres dans une direction.</p>"
 		},
 		"Conceal Object": {
-			"name": "Conceal Object",
-			"description": "<p>Masks an object against divination or scrying.</p>"
+			"name": "Cacher l'objet",
+			"description": "<p>Masque un objet contre la divination ou la scrutation.</p>"
 		},
 		"Conquer Gravity": {
-			"name": "Conquer Gravity",
-			"description": "<p>Target moves up or down according to your whims.</p>"
+			"name": "Maîtrise de la gravité",
+			"description": "<p>La cible se déplace vers le haut ou vers le bas en fonction de vos envie.</p>"
 		},
 		"Cosmic Fingertips": {
-			"name": "Cosmic Fingertips",
-			"description": "<p>Your hands sculpt stone, rock or minerals into any form you please.</p>"
+			"name": "Bout des doigts cosmiques",
+			"description": "<p>Vos mains sculptent la pierre, la roche ou les minéraux dans la forme que vous souhaitez.</p>"
 		},
 		"Coup de Grâce": {
 			"name": "Coup de Grâce",
-			"description": "<p>An ally's next attack ignores armor and takes damage directly from their target's STR.</p>"
+			"description": "<p>La prochaine attaque d'un allié ignore l'armure et inflige des dégâts directement sur la FOR de sa cible.</p>"
 		},
 		"Craft from Clay": {
 			"name": "Craft from Clay",
@@ -865,5 +865,8 @@
 			"name": "Word of Pain",
 			"description": "<p>A single phrase from your lips does 1d12 blast damage. Affected targets are also deafened.</p>"
 		}
+	},
+	"mapping": {
+		"description": "data.description"
 	}
 }
