@@ -146,104 +146,104 @@
 			"description": "<p>La prochaine attaque d'un allié ignore l'armure et inflige des dégâts directement sur la FOR de sa cible.</p>"
 		},
 		"Craft from Clay": {
-			"name": "Craft from Clay",
-			"description": "<p>Any natural, earthen target is transformed (rock to mud, lava to rock, etc).</p>"
+			"name": "Art de l'argile",
+			"description": "<p>Toute cible naturelle ou terrestre est transformée (roche en boue, lave en roche, etc.)..</p>"
 		},
 		"Create Unlife": {
-			"name": "Create Unlife",
-			"description": "<p>Creates 1d4 undead skeletons and zombies from corpses. WIL save every hour to control them.</p>"
+			"name": "Créer la non-vie",
+			"description": "<p>Crée 1d4 squelettes ou morts-vivants à partir de cadavres. Sauvegarde de VOL toutes les heures pour les contrôler.</p>"
 		},
 		"Cure-All": {
-			"name": "Cure-All",
-			"description": "<p>A single illness or disease dissipates at your touch.</p>"
+			"name": "Remède universel",
+			"description": "<p>Une seule maladie se dissipe à votre contact.</p>"
 		},
 		"Curse of the Sightless": {
-			"name": "Curse of the Sightless",
-			"description": "<p>Anyone within eyesight must make a WIL save or be blinded.</p>"
+			"name": "Malédiction des aveugles",
+			"description": "<p>Toute personne se trouvant à portée de vue doit faire une sauvegarde de VOL ou être aveuglée.</p>"
 		},
 		"Curse Unlife": {
-			"name": "Curse Unlife",
-			"description": "<p>Deals 1d4+2 STR loss to one undead, ignoring armor and resistances.</p>"
+			"name": "Malédiction de la non-vie",
+			"description": "<p>Inflige 1d4+2 dégâts de FOR à un mort-vivant, en ignorant les armures et les résistances.</p>"
 		},
 		"Cute Ink": {
-			"name": "Cute Ink",
-			"description": "<p>A single page in a book can be altered to hide its true content.</p>"
+			"name": "Encre fraîche",
+			"description": "<p>Une seule page d'un livre peut être modifiée pour en cacher le véritable contenu.</p>"
 		},
 		"Darksight": {
-			"name": "Darksight",
-			"description": "<p>Target can see 60 ft. in total darkness.</p>"
+			"name": "Nyctalope",
+			"description": "<p>La cible peut voir à 20 mètres dans l'obscurité totale.</p>"
 		},
 		"Death's Breath": {
-			"name": "Death's Breath",
-			"description": "<p>You summon a poisonous cloud (d6 STR loss) you can control.</p>"
+			"name": "Souffle de la mort",
+			"description": "<p>Vous invoquez un nuage empoisonné (d6 perte de FOR) que vous pouvez contrôler.</p>"
 		},
 		"Devil's Comedian": {
-			"name": "Devil's Comedian",
-			"description": "<p>WIL save or target laughs uncontrollably, unable to take any action.</p>"
+			"name": "Comique diabolique",
+			"description": "<p>Sauvegarde VOL ou la cible rit de façon incontrôlée, incapable d'entreprendre la moindre action.</p>"
 		},
 		"Disaster Fluid": {
-			"name": "Disaster Fluid",
-			"description": "<p>Anything in a 10ft square becomes slippery; DEX save to avoid slipping.</p>"
+			"name": "Fluide catastrophique",
+			"description": "<p>Tout ce qui se trouve dans un carré de 3 mètres de côté devient glissant ; sauvegarde DEX pour éviter de glisser.</p>"
 		},
 		"Disrupt Scry": {
-			"name": "Disrupt Scry",
-			"description": "<p>Future divinations of one creature or object are misled according to your will.</p>"
+			"name": "Perturber l'analyse",
+			"description": "<p>Les divinations futures d'une créature ou d'un objet sont trompées selon votre volonté.</p>"
 		},
 		"Doppleganger": {
 			"name": "Doppleganger",
-			"description": "<p>You spawn 1d6 decoy duplicates of someone you touch. Decoys are dispelled with a touch.</p>"
+			"description": "<p>Vous créez 1d6 copies de leurres de la personne que vous touchez. Les leurres sont dissipés par un toucher.</p>"
 		},
 		"Doubleskin": {
-			"name": "Doubleskin",
-			"description": "<p>Target humanoid doubles in size.</p>"
+			"name": "Agrandir",
+			"description": "<p>L'humanoïde ciblé double de taille.</p>"
 		},
 		"Dreampoison": {
-			"name": "Dreampoison",
-			"description": "<p>Target is deprived after suffering a night of bad dreams.</p>"
+			"name": "Rêvepoison",
+			"description": "<p>La cible est en privation après avoir subi une nuit de mauvais rêves.</p>"
 		},
 		"Dreamtalker": {
-			"name": "Dreamtalker",
-			"description": "<p>Sends a message to anyone currently asleep.</p>"
+			"name": "Parlerêve",
+			"description": "<p>Envoie un message à toute personne endormie</p>"
 		},
 		"Earsplit": {
-			"name": "Earsplit",
-			"description": "<p>Anyone within earshot is deafened.</p>"
+			"name": "Oreille fendue",
+			"description": "<p>Toute personne à portée de voix est assourdie.</p>"
 		},
 		"Easy Descent": {
-			"name": "Easy Descent",
-			"description": "<p>Objects or creatures nearby fall very slowly.</p>"
+			"name": "Descente en douceur",
+			"description": "<p>Les objets ou les créatures à proximité tombent très lentement.</p>"
 		},
 		"Edifice": {
-			"name": "Edifice",
-			"description": "<p>You summon a stone wall up to 20ft wide that you can control.</p>"
+			"name": "Édifice",
+			"description": "<p>Vous invoquez un mur de pierre jusqu'à 6 mètres de large que vous pouvez contrôler.</p>"
 		},
 		"Energize Rope": {
-			"name": "Energize Rope",
-			"description": "<p>A rope-like objects moves at your command.</p>"
+			"name": "Corde stimulée",
+			"description": "<p>Un objet en forme de corde se déplace à votre commande.</p>"
 		},
 		"Ensorcelled": {
-			"name": "Ensorcelled",
-			"description": "<p>Creatures are enraptured for a few minutes unless they pass a WIL save.</p>"
+			"name": "Ensorcelé",
+			"description": "<p>Les créatures sont charmées  pendant quelques minutes à moins qu'elles ne réussissent une sauvegarde de VOL.</p>"
 		},
 		"Envision": {
-			"name": "Envision",
-			"description": "<p>Spies on a target you have met, even across vast distances. On a WIL save, they can feel your presence.</p>"
+			"name": "Épier",
+			"description": "<p>Espionne une cible que vous avez rencontrée, même à travers de vastes distances. Sur une sauvegarde de VOL, ils peuvent sentir votre présence.</p>"
 		},
 		"Ephemeral Audio": {
-			"name": "Ephemeral Audio",
-			"description": "<p>Point to a spot. Anyone nearby hears a sound you choose at any volume.</p>"
+			"name": "Son éphémère",
+			"description": "<p>Pointez un endroit. Toute personne à proximité entend le son que vous avez choisi, quel que soit le volume.</p>"
 		},
 		"Epidemic": {
-			"name": "Epidemic",
-			"description": "<p>Infects target with disease, which spreads until the source of magic is destroyed.</p>"
+			"name": "Épidémie",
+			"description": "<p>Infecte la cible avec une maladie, qui se propage jusqu'à ce que la source de la magie soit détruite.</p>"
 		},
 		"Extraplanar Convocation": {
-			"name": "Extraplanar Convocation",
-			"description": "<p>Summons any extraplanar being onto your plane. It holds no loyalty towards you or your allies.</p>"
+			"name": "Convocation extraplanaire",
+			"description": "<p>Invoque tout être extraplanaire sur votre plan. Il n'a aucune loyauté envers vous ou vos alliés.</p>"
 		},
 		"Extraplanar Request": {
-			"name": "Extraplanar Request",
-			"description": "<p>Ask a single question of a random extraplanar entity.</p>"
+			"name": "Demande extraplanaire",
+			"description": "<p>Posez une seule question à une entité extraplanaire aléatoire.</p>"
 		},
 		"Feline Dexterity": {
 			"name": "Feline Dexterity",
