@@ -246,120 +246,120 @@
 			"description": "<p>Posez une seule question à une entité extraplanaire aléatoire.</p>"
 		},
 		"Feline Dexterity": {
-			"name": "Feline Dexterity",
-			"description": "<p>Target becomes limber, lithe and as fast as quicksilver.</p>"
+			"name": "Dextérité féline",
+			"description": "<p>La cible devient souple, légère et aussi rapide que le vif-argent.</p>"
 		},
 		"Find Virulence": {
-			"name": "Find Virulence",
-			"description": "<p>Detects poison in any creature or object within 30ft.</p>"
+			"name": "Détecter poison",
+			"description": "<p>Détecte le poison chez toute créature ou objet dans un rayon de 10 mètres.</p>"
 		},
 		"Fire Curse": {
-			"name": "Fire Curse",
-			"description": "<p>An object you touch is imbued with a hidden flame-trap dealing 1d4+2 STR loss.</p>"
+			"name": "Malédiction du feu",
+			"description": "<p>Un objet que vous touchez est imprégné d'un piège à flammes caché infligeant 1d4+2 dégâts de FOR.</p>"
 		},
 		"Firey Missile": {
-			"name": "Firey Missile",
-			"description": "<p>A bow you touch can fire flaming arrows (1d10 damage) for one minute.</p>"
+			"name": "Flèche incendiaire",
+			"description": "<p>Un arc que vous touchez peut tirer des flèches enflammées (1d10 dégâts) pendant une minute.</p>"
 		},
 		"Fish Lung": {
-			"name": "Fish Lung",
-			"description": "<p>A target can breathe underwater until they surface again.</p>"
+			"name": "Poumon de poisson",
+			"description": "<p>Une cible peut respirer sous l'eau jusqu'à ce qu'elle refasse surface.</p>"
 		},
 		"Fleetfooted": {
-			"name": "Fleetfooted",
-			"description": "<p>One creature moves at double speed.</p>"
+			"name": "Pieds flottants",
+			"description": "<p>Une créature se déplace à double vitesse.</p>"
 		},
 		"Flicker": {
-			"name": "Flicker",
-			"description": "<p>Target randomly vanishes and reappears once at will.</p>"
+			"name": "Scintillement",
+			"description": "<p>La cible disparaît aléatoirement et réapparaît une fois à la volonté du lanceur.</p>"
 		},
 		"Fog of Nausea": {
-			"name": "Fog of Nausea",
-			"description": "<p>A cloud of nauseating vapors pours out from the Spellbook's pages. Anyone nearby makes a STR save or vomit uncontrollably.</p>"
+			"name": "Brouillard de nausée",
+			"description": "<p>Un nuage de vapeurs nauséabondes se déverse des pages du livre de sorts. Toute personne à proximité doit faire une sauvegarde FOR ou vomir de manière incontrôlée.</p>"
 		},
 		"Fold Portal": {
-			"name": "Fold Portal",
-			"description": "<p>A door you touch opens into another door you've stepped through before until it is shut again.</p>"
+			"name": "Portail de repli",
+			"description": "<p>Une porte que vous touchez s'ouvre sur une autre porte que vous avez déjà franchie, jusqu'à ce qu'elle se referme.</p>"
 		},
 		"Foolishness": {
-			"name": "Foolishness",
-			"description": "<p>A target you touch becomes vulnerable to wild mood swings, sweeping conclusions and silly behavior. They also lose 1d6 WIL for 24 hours (down to a minimum of 1).</p>"
+			"name": "Bêtise",
+			"description": "<p>Une cible que vous touchez devient vulnérable aux sautes d'humeur, aux conclusions hâtives et aux comportements stupides. Elle perd également 1d6 VOL pendant 24 heures (jusqu'à un minimum de 1).</p>"
 		},
 		"Fortify": {
-			"name": "Fortify",
-			"description": "<p>Damage from heat, ice, acid or electricity are impaired against a target for the next hour.</p>"
+			"name": "Fortifier",
+			"description": "<p>Les dommages causés par la chaleur, la glace, l'acide ou l'électricité sont affaiblis contre une cible pendant l'heure suivante.</p>"
 		},
 		"Frozen Corpse": {
-			"name": "Frozen Corpse",
-			"description": "<p>A corpse you touch is preserved.</p>"
+			"name": "Cadavre gelé",
+			"description": "<p>Un cadavre que vous touchez est préservé.</p>"
 		},
 		"Gale": {
-			"name": "Gale",
-			"description": "<p>You summon an impenetrable wall of energy up to 15ft wide.</p>"
+			"name": "Grand vent",
+			"description": "<p>Vous invoquez un mur d'énergie impénétrable jusqu'à 4 mètres de large.</p>"
 		},
 		"Ghost Whisper": {
-			"name": "Ghost Whisper",
-			"description": "<p>You and a sympathetic ally are linked, able to converse in short sentences for an hour.</p>"
+			"name": "Chuchotement des esprits",
+			"description": "<p>Vous et un allié êtes reliés, capables de converser en phrases courtes pendant une heure.</p>"
 		},
 		"Gift of Flight": {
-			"name": "Gift of Flight",
-			"description": "<p>Target can fly for a short while.</p>"
+			"name": "Don de voler",
+			"description": "<p>La cible peut voler pendant un court moment.</p>"
 		},
 		"Glacier": {
 			"name": "Glacier",
-			"description": "<p>You create a wall of ice (15 HP, 3 Armor) around a creature you choose.</p>"
+			"description": "<p>Vous créez un mur de glace (15 END, 3 Armure) autour d'une créature de votre choix.</p>"
 		},
 		"Gorgon's Gaze": {
-			"name": "Gorgon's Gaze",
-			"description": "<p>Target is transformed into a statue on a failed WIL save. A success reverses the spell; holder must pass a WIL save or the book is destroyed.</p>"
+			"name": "Regard de la Gorgone",
+			"description": "<p>La cible est transformée en statue si elle rate son jet de sauvegarde de VOL. Une réussite annule le sort ; le détenteur doit réussir un jet de sauvegarde de VOL ou le livre est détruit.</p>"
 		},
 		"Great Ball of Fire": {
-			"name": "Great Ball of Fire",
-			"description": "<p>You fire a ball of flame (1d10 damage) up to 20 feet away.</p>"
+			"name": "Grande boule de feu",
+			"description": "<p>Vous tirez une boule de flammes (1d10 points de dégâts) jusqu'à une distance de 6 mètres.</p>"
 		},
 		"Hand of the Protector": {
-			"name": "Hand of the Protector",
-			"description": "<p>A giant, floating hand blocks all damage from a single opponent until you are safe from danger.</p>"
+			"name": "Main du Protecteur",
+			"description": "<p>Une main géante et flottante bloque tous les dégâts d'un seul adversaire jusqu'à ce que vous soyez à l'abri du danger.</p>"
 		},
 		"Healing Grace": {
-			"name": "Healing Grace",
-			"description": "<p>A target heals 1d6 STR, and you become deprived until you take the time to mediate, pray or sleep.</p>"
+			"name": "Grâce de guérison",
+			"description": "<p>Une cible guérit 1d6 FOR, et vous êtes en privation jusqu'à ce que vous preniez le temps de méditer, prier ou dormir.</p>"
 		},
 		"Heatless Torch": {
-			"name": "Heatless Torch",
-			"description": "<p>Turns any object into a permanent, heatless torch.</p>"
+			"name": "Torche froide",
+			"description": "<p>Transforme tout objet en une torche permanente et sans chaleur.</p>"
 		},
 		"Hedgemagick": {
-			"name": "Hedgemagick",
-			"description": "<p>You perform a minor magical trick (create flame, wind, light or sound).</p>"
+			"name": "Petite magie",
+			"description": "<p>Vous réalisez un tour de magie mineur (création de flamme, de vent, de lumière ou de son).</p>"
 		},
 		"Hempen Hoop": {
-			"name": "Hempen Hoop",
-			"description": "<p>A rope moves at your command.</p>"
+			"name": "Espoir de chanvre",
+			"description": "<p>Une corde se déplace à votre commandement.</p>"
 		},
 		"Hide Mind": {
-			"name": "Hide Mind",
-			"description": "<p>The next person to scry your mind or your whereabouts is fooled.</p>"
+			"name": "Cacher l'esprit",
+			"description": "<p>La prochaine personne à fouiller dans votre esprit ou vos allées et venues se fait berner.</p>"
 		},
 		"Hoodwink Monster": {
-			"name": "Hoodwink Monster",
-			"description": "<p>Target monster makes a WIL save or treats you as an ally.</p>"
+			"name": "Monstre capricieux",
+			"description": "<p>Le monstre cible fait une sauvegarde de VOL ou vous traite comme un allié.</p>"
 		},
 		"Hoodwink Person": {
-			"name": "Hoodwink Person",
-			"description": "<p>Target becomes a friend until out of sight.</p>"
+			"name": "Personne capricieuse",
+			"description": "<p>La cible devient un ami jusqu'à ce qu'elle soit hors de vue.</p>"
 		},
 		"Hovering Protection": {
-			"name": "Hovering Protection",
-			"description": "<p>A hovering, transparent disk materializes around an ally granting 1 Armor.</p>"
+			"name": "Protection volante",
+			"description": "<p>Un disque transparent en vol stationnaire se matérialise autour d'un allié et lui confère 1 Armure.</p>"
 		},
 		"Ice Ray": {
-			"name": "Ice Ray",
-			"description": "<p>Ice and snow flow from your fingerprints, dealing 1d8 damage (blast) in a straight line.</p>"
+			"name": "Rayon de glace",
+			"description": "<p>La glace et la neige coulent du bout de vos doigts, infligeant 1d8 points de dégâts (explosif) en ligne droite.</p>"
 		},
 		"Icy Tempest": {
-			"name": "Icy Tempest",
-			"description": "<p>Hail deals 1d12 damage in a 20ft radius.</p>"
+			"name": "Tempête glaciale",
+			"description": "<p>La grêle inflige 1d12 points de dégâts dans un rayon de 6 mètres.</p>"
 		},
 		"Ill Fate": {
 			"name": "Ill Fate",
