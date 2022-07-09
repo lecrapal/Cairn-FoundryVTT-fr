@@ -1,405 +1,405 @@
 {
 	"label": "Spellbooks",
-	"entries": [
-		{
-			"id": "Adhere",
-			"name": "Adhere"
-		},
-		{
-			"id": "Anchor",
-			"name": "Anchor"
-		},
-		{
-			"id": "Animate Object",
-			"name": "Animate Object"
-		},
-		{
-			"id": "Anthropomorphize",
-			"name": "Anthropomorphize"
-		},
-		{
-			"id": "Arcane Eye",
-			"name": "Arcane Eye"
-		},
-		{
-			"id": "Astral Prison",
-			"name": "Astral Prison"
-		},
-		{
-			"id": "Attract",
-			"name": "Attract"
-		},
-		{
-			"id": "Auditory Illusion",
-			"name": "Auditory Illusion"
-		},
-		{
-			"id": "Babble",
-			"name": "Babble"
-		},
-		{
-			"id": "Bait Flower",
-			"name": "Bait Flower"
-		},
-		{
-			"id": "Beast Form",
-			"name": "Beast Form"
-		},
-		{
-			"id": "Befuddle",
-			"name": "Befuddle"
-		},
-		{
-			"id": "Body Swap",
-			"name": "Body Swap"
-		},
-		{
-			"id": "Charm",
-			"name": "Charm"
-		},
-		{
-			"id": "Command",
-			"name": "Command"
-		},
-		{
-			"id": "Comprehend",
-			"name": "Comprehend"
-		},
-		{
-			"id": "Cone of Foam",
-			"name": "Cone of Foam"
-		},
-		{
-			"id": "Control Plants",
-			"name": "Control Plants"
-		},
-		{
-			"id": "Control Weather",
-			"name": "Control Weather"
-		},
-		{
-			"id": "Cure Wounds",
-			"name": "Cure Wounds"
-		},
-		{
-			"id": "Deafen",
-			"name": "Deafen"
-		},
-		{
-			"id": "Detect Magic",
-			"name": "Detect Magic"
-		},
-		{
-			"id": "Disassemble",
-			"name": "Disassemble"
-		},
-		{
-			"id": "Disguise",
-			"name": "Disguise"
-		},
-		{
-			"id": "Displace",
-			"name": "Displace"
-		},
-		{
-			"id": "Earthquake",
-			"name": "Earthquake"
+	"entries": {
+		"Adhere": {
+			"name": "Adhere",
+			"description": "<p>Object is covered in extremely sticky slime.</p>"
+		},
+		"Anchor": {
+			"name": "Anchor",
+			"description": "<p>A strong wire sprouts from your arms, affixing itself to two points within 50ft on each side.</p>"
+		},
+		"Animate Object": {
+			"name": "Animate Object",
+			"description": "<p>An object obeys your commands as best it can.</p>"
+		},
+		"Anthropomorphize": {
+			"name": "Anthropomorphize",
+			"description": "<p>An animal either gains human intelligence or human appearance for one day.</p>"
+		},
+		"Arcane Eye": {
+			"name": "Arcane Eye",
+			"description": "<p>You can see through a magical floating eyeball that flies around at your command.</p>"
+		},
+		"Astral Prison": {
+			"name": "Astral Prison",
+			"description": "<p>An object is frozen in time and space within an invulnerable crystal shell.</p>"
+		},
+		"Attract": {
+			"name": "Attract",
+			"description": "<p>Two objects are strongly magnetically attracted to each other if they come within 10 feet.</p>"
+		},
+		"Auditory Illusion": {
+			"name": "Auditory Illusion",
+			"description": "<p>You create illusory sounds that seem to come from a direction of your choice.</p>"
+		},
+		"Babble": {
+			"name": "Babble",
+			"description": "<p>A creature must loudly and clearly repeat everything you think. It is otherwise mute.</p>"
+		},
+		"Bait Flower": {
+			"name": "Bait Flower",
+			"description": "<p>A plant sprouts from the ground that emanates the smell of decaying flesh.</p>"
+		},
+		"Beast Form": {
+			"name": "Beast Form",
+			"description": "<p>You and your possessions transform into a mundane animal.</p>"
+		},
+		"Befuddle": {
+			"name": "Befuddle",
+			"description": "<p>A creature of your choice is unable to form new short-term memories for the duration of the spell.</p>"
+		},
+		"Body Swap": {
+			"name": "Body Swap",
+			"description": "<p>You switch bodies with a creature you touch. If one body dies, the other dies as well.</p>"
+		},
+		"Charm": {
+			"name": "Charm",
+			"description": "<p>A creature you can see treats you as a friend.</p>"
+		},
+		"Command": {
+			"name": "Command",
+			"description": "<p>A target obeys a single three-word command that does not harm it.</p>"
+		},
+		"Comprehend": {
+			"name": "Comprehend",
+			"description": "<p>You become fluent in all languages for a short while.</p>"
+		},
+		"Cone of Foam": {
+			"name": "Cone of Foam",
+			"description": "<p>Dense foam sprays from your hand, coating the target.</p>"
+		},
+		"Control Plants": {
+			"name": "Control Plants",
+			"description": "<p>Nearby plants and trees obey you and gain the ability to move at a slow pace.</p>"
+		},
+		"Control Weather": {
+			"name": "Control Weather",
+			"description": "<p>You may alter the type of weather at will, but you do not otherwise control it.</p>"
+		},
+		"Cure Wounds": {
+			"name": "Cure Wounds",
+			"description": "<p>Restore 1d4 STR per day to a creature you can touch.</p>"
+		},
+		"Deafen": {
+			"name": "Deafen",
+			"description": "<p>All nearby creatures are deafened.</p>"
+		},
+		"Detect Magic": {
+			"name": "Detect Magic",
+			"description": "<p>You can see or hear nearby magical auras.</p>"
+		},
+		"Disassemble": {
+			"name": "Disassemble",
+			"description": "<p>Any of your body parts may be detached and reattached at will, without causing pain or damage. You can still control them.</p>"
+		},
+		"Disguise": {
+			"name": "Disguise",
+			"description": "<p>You may alter the appearance of one character at will as long as they remain humanoid. Attempts to duplicate other characters will seem uncanny.</p>"
+		},
+		"Displace": {
+			"name": "Displace",
+			"description": "<p>An object appears to be up to 15ft from its actual position.</p>"
+		},
+		"Earthquake": {
+			"name": "Earthquake",
+			"description": "<p>The ground begins shaking violently. Structures may be damaged or collapse.</p>"
 		},
-		{
-			"id": "Elasticity",
-			"name": "Elasticity"
+		"Elasticity": {
+			"name": "Elasticity",
+			"description": "<p>Your body can stretch up to 10ft.</p>"
 		},
-		{
-			"id": "Elemental Wall",
-			"name": "Elemental Wall"
+		"Elemental Wall": {
+			"name": "Elemental Wall",
+			"description": "<p>A straight wall of ice or fire 50ft long and 10ft high rises from the ground.</p>"
 		},
-		{
-			"id": "Filch",
-			"name": "Filch"
+		"Filch": {
+			"name": "Filch",
+			"description": "<p>A visible item teleports to your hands.</p>"
 		},
-		{
-			"id": "Flare",
-			"name": "Flare"
+		"Flare": {
+			"name": "Flare",
+			"description": "<p>A bright ball of energy fires a trail of light into the sky, revealing your location to friend or foe.</p>"
 		},
-		{
-			"id": "Fog Cloud",
-			"name": "Fog Cloud"
+		"Fog Cloud": {
+			"name": "Fog Cloud",
+			"description": "<p>A dense fog spreads out from you.</p>"
 		},
-		{
-			"id": "Frenzy",
-			"name": "Frenzy"
+		"Frenzy": {
+			"name": "Frenzy",
+			"description": "<p>A nearby creature erupts in a frenzy of violence.</p>"
 		},
-		{
-			"id": "Gate",
-			"name": "Gate"
+		"Gate": {
+			"name": "Gate",
+			"description": "<p>A portal to a random plane opens.</p>"
 		},
-		{
-			"id": "Gravity Shift",
-			"name": "Gravity Shift"
+		"Gravity Shift": {
+			"name": "Gravity Shift",
+			"description": "<p>You can change the direction of gravity (for yourself only) up to once per round.</p>"
 		},
-		{
-			"id": "Greed",
-			"name": "Greed"
+		"Greed": {
+			"name": "Greed",
+			"description": "<p>A creature develops an overwhelming urge to possess a visible item of your choice.</p>"
 		},
-		{
-			"id": "Haste",
-			"name": "Haste"
+		"Haste": {
+			"name": "Haste",
+			"description": "<p>Your movement speed is tripled.</p>"
 		},
-		{
-			"id": "Hatred",
-			"name": "Hatred"
+		"Hatred": {
+			"name": "Hatred",
+			"description": "<p>A creature develops a deep hatred of another creature or group and wishes to destroy them.</p>"
 		},
-		{
-			"id": "Hear Whispers",
-			"name": "Hear Whispers"
+		"Hear Whispers": {
+			"name": "Hear Whispers",
+			"description": "<p>You can hear faint sounds clearly.</p>"
 		},
-		{
-			"id": "Hover",
-			"name": "Hover"
+		"Hover": {
+			"name": "Hover",
+			"description": "<p>An object hovers, frictionless, 2ft above the ground. It can hold up to one humanoid.</p>"
 		},
-		{
-			"id": "Hypnotize",
-			"name": "Hypnotize"
+		"Hypnotize": {
+			"name": "Hypnotize",
+			"description": "<p>A creature enters a trance and will truthfully answer one yes or no questions you ask it.</p>"
 		},
-		{
-			"id": "Icy Touch",
-			"name": "Icy Touch"
+		"Icy Touch": {
+			"name": "Icy Touch",
+			"description": "<p>A thick ice layer spreads across a touched surface, up to 10ft in radius.</p>"
 		},
-		{
-			"id": "Identify Owner",
-			"name": "Identify Owner"
+		"Identify Owner": {
+			"name": "Identify Owner",
+			"description": "<p>Letters appear over the object you touch, spelling out the name of the object's owners, if there are any.</p>"
 		},
-		{
-			"id": "Illuminate",
-			"name": "Illuminate"
+		"Illuminate": {
+			"name": "Illuminate",
+			"description": "<p>A floating light moves as you command.</p>"
 		},
-		{
-			"id": "Invisible Tether",
-			"name": "Invisible Tether"
+		"Invisible Tether": {
+			"name": "Invisible Tether",
+			"description": "<p>Two objects within 10ft of each other cannot be moved more than 10ft apart.</p>"
 		},
-		{
-			"id": "Knock",
-			"name": "Knock"
+		"Knock": {
+			"name": "Knock",
+			"description": "<p>A nearby mundane or magical lock unlocks – loudly.</p>"
 		},
-		{
-			"id": "Leap",
-			"name": "Leap"
+		"Leap": {
+			"name": "Leap",
+			"description": "<p>You jump up to 10ft high, once.</p>"
 		},
-		{
-			"id": "Liquid Air",
-			"name": "Liquid Air"
+		"Liquid Air": {
+			"name": "Liquid Air",
+			"description": "<p>The air around you becomes swimmable.</p>"
 		},
-		{
-			"id": "Magic Dampener",
-			"name": "Magic Dampener"
+		"Magic Dampener": {
+			"name": "Magic Dampener",
+			"description": "<p>All nearby magical effects have their effectiveness halved.</p>"
 		},
-		{
-			"id": "Manse",
-			"name": "Manse"
+		"Manse": {
+			"name": "Manse",
+			"description": "<p>A sturdy, furnished cottage appears for 12 hours. You can permit and forbid entry to it at will.</p>"
 		},
-		{
-			"id": "Marble Craze",
-			"name": "Marble Craze"
+		"Marble Craze": {
+			"name": "Marble Craze",
+			"description": "<p>Your pockets are full of marbles, and will refill every 30 seconds.</p>"
 		},
-		{
-			"id": "Masquerade",
-			"name": "Masquerade"
+		"Masquerade": {
+			"name": "Masquerade",
+			"description": "<p>A character’s appearance and voice becomes identical to those of a character you touch.</p>"
 		},
-		{
-			"id": "Miniaturize",
-			"name": "Miniaturize"
+		"Miniaturize": {
+			"name": "Miniaturize",
+			"description": "<p>A creature you touch is shrunk down to the size of a mouse.</p>"
 		},
-		{
-			"id": "Mirror Image",
-			"name": "Mirror Image"
+		"Mirror Image": {
+			"name": "Mirror Image",
+			"description": "<p>An illusory duplicate of yourself appears and is under your control.</p>"
 		},
-		{
-			"id": "Mirrorwalk",
-			"name": "Mirrorwalk"
+		"Mirrorwalk": {
+			"name": "Mirrorwalk",
+			"description": "<p>A mirror becomes a gateway to another mirror that you looked into today.</p>"
 		},
-		{
-			"id": "Missile Shield",
-			"name": "Missile Shield"
+		"Missile Shield": {
+			"name": "Missile Shield",
+			"description": "<p>A creature you touch is protected from mundane missile attacks for one minute.</p>"
 		},
-		{
-			"id": "Multiarm",
-			"name": "Multiarm"
+		"Multiarm": {
+			"name": "Multiarm",
+			"description": "<p>You gain an extra arm.</p>"
 		},
-		{
-			"id": "Night Sphere",
-			"name": "Night Sphere"
+		"Night Sphere": {
+			"name": "Night Sphere",
+			"description": "<p>A 50ft wide sphere of darkness displaying the night sky appears before you.</p>"
 		},
-		{
-			"id": "Objectify",
-			"name": "Objectify"
+		"Objectify": {
+			"name": "Objectify",
+			"description": "<p>You become any inanimate object between the size of a grand piano and an apple.</p>"
 		},
-		{
-			"id": "Ooze Form",
-			"name": "Ooze Form"
+		"Ooze Form": {
+			"name": "Ooze Form",
+			"description": "<p>You become a living jelly.</p>"
 		},
-		{
-			"id": "Pacify",
-			"name": "Pacify"
+		"Pacify": {
+			"name": "Pacify",
+			"description": "<p>A creature near you has an aversion to violence.</p>"
 		},
-		{
-			"id": "Phobia",
-			"name": "Phobia"
+		"Phobia": {
+			"name": "Phobia",
+			"description": "<p>A nearby creature becomes terrified of an object of your choice.</p>"
 		},
-		{
-			"id": "Pit",
-			"name": "Pit"
+		"Pit": {
+			"name": "Pit",
+			"description": "<p>A pit 10ft wide and 10ft deep opens in the ground.</p>"
 		},
-		{
-			"id": "Primal Surge",
-			"name": "Primal Surge"
+		"Primal Surge": {
+			"name": "Primal Surge",
+			"description": "<p>An creature rapidly evolves into a future version of its species.</p>"
 		},
-		{
-			"id": "Push/Pull",
-			"name": "Push/Pull"
+		"Push/Pull": {
+			"name": "Push/Pull",
+			"description": "<p>An object of any size is pulled directly towards you or pushed directly away from you with the strength of one man.</p>"
 		},
-		{
-			"id": "Raise Dead",
-			"name": "Raise Dead"
+		"Raise Dead": {
+			"name": "Raise Dead",
+			"description": "<p>A skeleton rises from the ground to serve you. They are incredibly stupid and can only obey simple orders.</p>"
 		},
-		{
-			"id": "Raise Spirit",
-			"name": "Raise Spirit"
+		"Raise Spirit": {
+			"name": "Raise Spirit",
+			"description": "<p>The spirit of a dead body manifests and will answer 1 question.</p>"
 		},
-		{
-			"id": "Read Mind",
-			"name": "Read Mind"
+		"Read Mind": {
+			"name": "Read Mind",
+			"description": "<p>You can hear the surface thoughts of nearby creatures.</p>"
 		},
-		{
-			"id": "Repel",
-			"name": "Repel"
+		"Repel": {
+			"name": "Repel",
+			"description": "<p>Two objects are strongly magnetically repelled from each other if they come within 10 feet.</p>"
 		},
-		{
-			"id": "Scry",
-			"name": "Scry"
+		"Scry": {
+			"name": "Scry",
+			"description": "<p>You can see through the eyes of a creature you touched earlier today.</p>"
 		},
-		{
-			"id": "Sculpt Elements",
-			"name": "Sculpt Elements"
+		"Sculpt Elements": {
+			"name": "Sculpt Elements",
+			"description": "<p>All inanimate material behaves like clay in your hands.</p>"
 		},
-		{
-			"id": "Sense",
-			"name": "Sense"
+		"Sense": {
+			"name": "Sense",
+			"description": "<p>Choose one kind of object (key, gold, arrow, jug, etc.). You can sense the nearest example.</p>"
 		},
-		{
-			"id": "Shroud",
-			"name": "Shroud"
+		"Shroud": {
+			"name": "Shroud",
+			"description": "<p>A creature you touch is invisible until they move.</p>"
 		},
-		{
-			"id": "Shuffle",
-			"name": "Shuffle"
+		"Shuffle": {
+			"name": "Shuffle",
+			"description": "<p>Two creatures you can see instantly switch places.</p>"
 		},
-		{
-			"id": "Sleep",
-			"name": "Sleep"
+		"Sleep": {
+			"name": "Sleep",
+			"description": "<p>A creature you can see falls into a light sleep.</p>"
 		},
-		{
-			"id": "Slick",
-			"name": "Slick"
+		"Slick": {
+			"name": "Slick",
+			"description": "<p>Every surface in a 30ft radius becomes frictionless and slippery.</p>"
 		},
-		{
-			"id": "Smoke Form",
-			"name": "Smoke Form"
+		"Smoke Form": {
+			"name": "Smoke Form",
+			"description": "<p>Your body becomes living smoke.</p>"
 		},
-		{
-			"id": "Snail Knight",
-			"name": "Snail Knight"
+		"Snail Knight": {
+			"name": "Snail Knight",
+			"description": "<p>10 minutes after casting, a knight sitting astride a giant snail rides into view. He is able to answer most questions related to quests and chivalry, and may aid you if he finds you worthy.</p>"
 		},
-		{
-			"id": "Sniff",
-			"name": "Sniff"
+		"Sniff": {
+			"name": "Sniff",
+			"description": "<p>You can smell even the faintest traces of scents.</p>"
 		},
-		{
-			"id": "Sort",
-			"name": "Sort"
+		"Sort": {
+			"name": "Sort",
+			"description": "<p>Inanimate items sort themselves according to categories you set.</p>"
 		},
-		{
-			"id": "Spectacle",
-			"name": "Spectacle"
+		"Spectacle": {
+			"name": "Spectacle",
+			"description": "<p>A clearly unreal but impressive illusion of your choice appears, under your control. It may be up to the size of a palace and has full motion and sound.</p>"
 		},
-		{
-			"id": "Spellsaw",
-			"name": "Spellsaw"
+		"Spellsaw": {
+			"name": "Spellsaw",
+			"description": "<p>A whirling blade flies from your chest, clearing any plant material in its way. It is otherwise harmless.</p>"
 		},
-		{
-			"id": "Spider Climb",
-			"name": "Spider Climb"
+		"Spider Climb": {
+			"name": "Spider Climb",
+			"description": "<p>You can climb surfaces like a spider.</p>"
 		},
-		{
-			"id": "Summon Cube",
-			"name": "Summon Cube"
+		"Summon Cube": {
+			"name": "Summon Cube",
+			"description": "<p>Once per second you may summon or banish a 3-foot-wide cube of earth. New cubes must be affixed to the earth or to other cubes.</p>"
 		},
-		{
-			"id": "Summon Idol",
-			"name": "Summon Idol"
+		"Summon Idol": {
+			"name": "Summon Idol",
+			"description": "<p>A carved stone statue the size of a mule rises from the ground.</p>"
 		},
-		{
-			"id": "Swarm",
-			"name": "Swarm"
+		"Swarm": {
+			"name": "Swarm",
+			"description": "<p>You become a swarm of crows, rats, or piranhas. You can only be harmed by blast attacks.</p>"
 		},
-		{
-			"id": "Target Lure",
-			"name": "Target Lure"
+		"Target Lure": {
+			"name": "Target Lure",
+			"description": "<p>An object you touch becomes the target of any nearby spell.</p>"
 		},
-		{
-			"id": "Telekinesis",
-			"name": "Telekinesis"
+		"Telekinesis": {
+			"name": "Telekinesis",
+			"description": "<p>You may mentally move 1 item under 60lbs.</p>"
 		},
-		{
-			"id": "Telepathy",
-			"name": "Telepathy"
+		"Telepathy": {
+			"name": "Telepathy",
+			"description": "<p>Two creatures can hear each other's thoughts, no matter how far apart they move.</p>"
 		},
-		{
-			"id": "Teleport",
-			"name": "Teleport"
+		"Teleport": {
+			"name": "Teleport",
+			"description": "<p>An object or person you can see is transported from one place to another in a 50ft radius.</p>"
 		},
-		{
-			"id": "Thicket",
-			"name": "Thicket"
+		"Thicket": {
+			"name": "Thicket",
+			"description": "<p>A thicket of trees and dense brush up to 50ft wide suddenly sprouts up.</p>"
 		},
-		{
-			"id": "Time Control",
-			"name": "Time Control"
+		"Time Control": {
+			"name": "Time Control",
+			"description": "<p>Time in a 50ft bubble slows down or increases by 10% for 30 seconds.</p>"
 		},
-		{
-			"id": "True Sight",
-			"name": "True Sight"
+		"True Sight": {
+			"name": "True Sight",
+			"description": "<p>You see through all nearby illusions.</p>"
 		},
-		{
-			"id": "Upwell",
-			"name": "Upwell"
+		"Upwell": {
+			"name": "Upwell",
+			"description": "<p>A spring of seawater appears.</p>"
 		},
-		{
-			"id": "Vision",
-			"name": "Vision"
+		"Vision": {
+			"name": "Vision",
+			"description": "<p>You completely control what a creature sees.</p>"
 		},
-		{
-			"id": "Visual Illusion",
-			"name": "Visual Illusion"
+		"Visual Illusion": {
+			"name": "Visual Illusion",
+			"description": "<p>A silent, immobile, room-sized illusion of your choice appears.</p>"
 		},
-		{
-			"id": "Ward",
-			"name": "Ward"
+		"Ward": {
+			"name": "Ward",
+			"description": "<p>A silver circle 50ft across appears on the ground. Choose one species that cannot cross it.</p>"
 		},
-		{
-			"id": "Web",
-			"name": "Web"
+		"Web": {
+			"name": "Web",
+			"description": "<p>Your wrists shoot thick webbing.</p>"
 		},
-		{
-			"id": "Widget",
-			"name": "Widget"
+		"Widget": {
+			"name": "Widget",
+			"description": "<p>A primitive version of a drawn tool or item appears before you, and disappears after a short time.</p>"
 		},
-		{
-			"id": "Wizard Mark",
-			"name": "Wizard Mark"
+		"Wizard Mark": {
+			"name": "Wizard Mark",
+			"description": "<p>Your finger can shoot a stream of ulfire-colored paint. This paint is only visible to you, and can be seen at any distance, even through solid objects</p>"
 		},
-		{
-			"id": "X-Ray Vision",
-			"name": "X-Ray Vision"
+		"X-Ray Vision": {
+			"name": "X-Ray Vision",
+			"description": "<p>You can see through walls, dirt, clothing, etc.</p>"
 		}
-	]
+	}
 }
