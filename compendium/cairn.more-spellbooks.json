@@ -362,176 +362,176 @@
 			"description": "<p>La grêle inflige 1d12 points de dégâts dans un rayon de 6 mètres.</p>"
 		},
 		"Ill Fate": {
-			"name": "Ill Fate",
-			"description": "<p>Target automatically fails next their next save.</p>"
+			"name": "Mauvais sort",
+			"description": "<p>La cible échoue automatiquement à sa prochaine sauvegarde.</p>"
 		},
 		"Illusory Landscape": {
-			"name": "Illusory Landscape",
-			"description": "<p>You can make one type of terrain appear like another.</p>"
+			"name": "Paysage illusoire",
+			"description": "<p>Vous pouvez faire en sorte qu'un type de terrain ressemble à un autre.</p>"
 		},
 		"Incorporeal Shrug": {
-			"name": "Incorporeal Shrug",
-			"description": "<p>Ignore any one attack.</p>"
+			"name": "Dédain incorporel",
+			"description": "<p>Ignorer une seule attaque.</p>"
 		},
 		"Induce Despair": {
-			"name": "Induce Despair",
-			"description": "<p>Target must pass a WIL save or its attacks are impaired.</p>"
+			"name": "Susciter le désespoir",
+			"description": "<p>La cible doit réussir une sauvegarde de VOL ou ses attaques sont affaiblies.</p>"
 		},
 		"Induce Horror": {
-			"name": "Induce Horror",
-			"description": "<p>Target makes a WIL save or flees.</p>"
+			"name": "Susciter l'horreur",
+			"description": "<p>La cible fait une sauvegarde de VOL ou fuit.</p>"
 		},
 		"Inferno": {
 			"name": "Inferno",
-			"description": "<p>You summon a flaming wall up to 15ft wide. Anyone passing through suffers 1d6 STR loss.</p>"
+			"description": "<p>Vous invoquez un mur de flammes d'une largeur maximale de 6 mètres. Toute personne qui le traverse subit une perte de 1d6 FOR.</p>"
 		},
 		"Influence": {
-			"name": "Influence",
-			"description": "<p>Target gains armor 3 but running and swimming are impossible.</p>"
+			"name": "Emprise",
+			"description": "<p>La cible gagne une armure de 3 mais la course et la nage sont impossibles.</p>"
 		},
 		"Insubstantiate": {
-			"name": "Insubstantiate",
-			"description": "<p>Target becomes insubstantial and can float.</p>"
+			"name": "Insubstantiel",
+			"description": "<p>La cible devient insubstantielle et peut flotter.</p>"
 		},
 		"Kraken's Curse": {
-			"name": "Kraken's Curse",
-			"description": "<p>Tentacles grapple all within 20 ft, STR save to break free.</p>"
+			"name": "Malédiction du Kraken",
+			"description": "<p>Les tentacules agrippent tous ceux qui se trouvent dans un rayon de 6 mètres, avec une sauvegarde FOR pour se libérer.</p>"
 		},
 		"Lamp's Hue": {
-			"name": "Lamp's Hue",
-			"description": "<p>Target object shines like a torch for one hour.</p>"
+			"name": "Teinte de lampe",
+			"description": "<p>L'objet cible brille comme une torche pendant une heure.</p>"
 		},
 		"Latch": {
-			"name": "Latch",
-			"description": "<p>An unlocked box, cabinet or door opens or closes at your command.</p>"
+			"name": "Loquet",
+			"description": "<p>Une boîte, une armoire ou une porte non verrouillée s'ouvre ou se ferme à votre commande.</p>"
 		},
 		"Librarian's Trap": {
-			"name": "Librarian's Trap",
-			"description": "<p>Deals 1d4+2 STR loss when read.</p>"
+			"name": "Piège du bibliothécaire",
+			"description": "<p>Inflige  1d4+2 FOR de dégâts lorsqu'il est lu.</p>"
 		},
 		"Lichsense": {
-			"name": "Lichsense",
-			"description": "<p>You feel any undead within 60ft. WIL save to avoid detection by intelligent undead.</p>"
+			"name": "Sens de Liche",
+			"description": "<p>Vous sentez tous les morts-vivants dans un rayon de 20 mètres. Sauvegarde VOL pour éviter la détection par les morts-vivants intelligents.</p>"
 		},
 		"Light Show": {
-			"name": "Light Show",
-			"description": "<p>You control a dazzling display of light and color.</p>"
+			"name": "Spectacle de lumière",
+			"description": "<p>Vous contrôlez un éblouissant spectacle de lumière et de couleur.</p>"
 		},
 		"Lightning Strike": {
-			"name": "Lightning Strike",
-			"description": "<p>Electricity flings from your fingertips doing 1d12 damage (blast) in a line.</p>"
+			"name": "Coup de foudre",
+			"description": "<p>De l'électricité jaillit du bout de vos doigts et inflige 1d12 points de dégâts (explosion) en ligne droite.</p>"
 		},
 		"Linguist": {
-			"name": "Linguist",
-			"description": "<p>For the next hour you can speak and understand any mundane language.</p>"
+			"name": "Linguiste",
+			"description": "<p>Pendant l'heure qui suit, vous pouvez parler et comprendre n'importe quelle langue courante.</p>"
 		},
 		"Magic Seal": {
-			"name": "Magic Seal",
-			"description": "<p>Magically locks a door, portal or chest.</p>"
+			"name": "Verrou magique",
+			"description": "<p>Verrouille magiquement une porte, un portail ou un coffre.</p>"
 		},
 		"Major Genesis": {
-			"name": "Major Genesis",
-			"description": "<p>Creates an object of nonliving stone or metal no greater than 5 cubic foot in size.</p>"
+			"name": "Genèse majeure",
+			"description": "<p>Crée un objet de pierre ou de métal non vivant dont la taille ne dépasse pas 1 mètre cube.</p>"
 		},
 		"Maker": {
-			"name": "Maker",
-			"description": "<p>Transforms raw materials into finished items.</p>"
+			"name": "Artisan",
+			"description": "<p>Transforme les matières premières en produits finis.</p>"
 		},
 		"Manic Fury": {
-			"name": "Manic Fury",
-			"description": "<p>A target's attacks are enhanced. They must make a WIL save after a successful killing or lose control, attacking anyone in sight.</p>"
+			"name": "Furie maniaque",
+			"description": "<p>Les attaques de la cible sont améliorées. Elle doit faire une sauvegarde de VOL après une mise à mort réussie ou perdre le contrôle, attaquant toute personne en vue.</p>"
 		},
 		"Masquerade": {
-			"name": "Masquerade",
-			"description": "<p>You assume the likeness of a similar creature you have seen.</p>"
+			"name": "Mascarade",
+			"description": "<p>Vous prenez la ressemblance d'une créature similaire que vous avez vue.</p>"
 		},
 		"Master Undead": {
-			"name": "Master Undead",
-			"description": "<p>Undead creatures obey your command. Intelligent undead make a WIL save.</p>"
+			"name": "Maîtrise des morts-vivants",
+			"description": "<p>Les créatures mortes-vivantes obéissent à votre commandement. Les morts-vivants intelligents font une sauvegarde de VOL.</p>"
 		},
 		"Mental Tripwire": {
-			"name": "Mental Tripwire",
-			"description": "<p>Intruders set off an alarm audible only to you.</p>"
+			"name": "Fil-piège mental",
+			"description": "<p>Les intrus déclenchent une alarme audible uniquement par vous.</p>"
 		},
 		"Mind Bond": {
-			"name": "Mind Bond",
-			"description": "<p>Two allies can communicate via a mental link for the rest of the day.</p>"
+			"name": "Lien mental",
+			"description": "<p>Deux alliés peuvent communiquer via un lien mental pour le reste de la journée.</p>"
 		},
 		"Mind Reader": {
-			"name": "Mind Reader",
-			"description": "<p>You can see or hear any person you have met before.</p>"
+			"name": "Lit les pensées",
+			"description": "<p>Vous pouvez voir ou entendre n'importe quelle personne que vous avez déjà rencontrée.</p>"
 		},
 		"Miniaturize": {
-			"name": "Miniaturize",
-			"description": "<p>An object shrinks to one tenth its size.</p>"
+			"name": "Miniaturiser",
+			"description": "<p>Un objet se réduit à un dixième de sa taille.</p>"
 		},
 		"Minor Aegis": {
-			"name": "Minor Aegis",
-			"description": "<p>A target you touch ignores the next instance of harm from a specific source.</p>"
+			"name": "Égide mineure",
+			"description": "<p>Une cible que vous touchez ignore la prochaine blessure provenant d'une source spécifique./p>"
 		},
 		"Minor Genesis": {
-			"name": "Minor Genesis",
-			"description": "<p>Creates an object of nonliving matter no greater than one cubic foot in size.</p>"
+			"name": "Genèse mineure",
+			"description": "<p>Crée un objet de matière non vivante dont la taille ne dépasse pas 30 cm3.</p>"
 		},
 		"Mirage": {
 			"name": "Mirage",
-			"description": "<p>You summon a noiseless & simple illusion of your choice.</p>"
+			"description": "<p>Vous invoquez une illusion simple et silencieuse de votre choix.</p>"
 		},
 		"Molasses Veins": {
-			"name": "Molasses Veins",
-			"description": "<p>A single target moves at half speed.</p>"
+			"name": "Veines molassonnes",
+			"description": "<p>Une seule cible se déplace à demi-vitesse.</p>"
 		},
 		"Murky Bubble": {
-			"name": "Murky Bubble",
-			"description": "<p>You create a bubble supernatural shadow within a 20ft radius.</p>"
+			"name": "Bulle sombre",
+			"description": "<p>Vous créez une bulle d'ombre surnaturelle dans un rayon de 6 mètres.</p>"
 		},
 		"Necrotic Touch": {
-			"name": "Necrotic Touch",
-			"description": "<p>Target must DEX save or is paralyzed.</p>"
+			"name": "Toucher nécrotique",
+			"description": "<p>La cible doit faire une sauvegarde DEX ou est paralysée.</p>"
 		},
 		"Obfuscate": {
-			"name": "Obfuscate",
-			"description": "<p>Target cannot be observed either through divination or scrying.</p>"
+			"name": "Dérouter",
+			"description": "<p>La cible ne peut être observée ni par la divination ni par la scrutation.</p>"
 		},
 		"Obfuscation": {
 			"name": "Obfuscation",
-			"description": "<p>Changes your appearance.</p>"
+			"description": "<p>Modifie votre apparence.</p>"
 		},
 		"Obscuring Mist": {
-			"name": "Obscuring Mist",
-			"description": "<p>A rolling fog obscures vision in a 300ft radius.</p>"
+			"name": "Brouillard Obscurcissant",
+			"description": "<p>Un brouillard flottant obscurcit la vision dans un rayon de 90 mètres.</p>"
 		},
 		"Opaque Cover": {
-			"name": "Opaque Cover",
-			"description": "<p>Details about your person become obscured and unmemorable.</p>"
+			"name": "Couverture opaque",
+			"description": "<p>Les détails concernant votre personne deviennent obscurs et non mémorisables.</p>"
 		},
 		"Orb of Ignus": {
-			"name": "Orb of Ignus",
-			"description": "<p>You control a floating ball of fire (1d8 damage) for a short while.</p>"
+			"name": "Orbe d'Ignus",
+			"description": "<p>Vous contrôlez une boule de feu flottante (1d8 points de dégâts) pendant un court instant.</p>"
 		},
 		"Orb of Immortality": {
-			"name": "Orb of Immortality",
-			"description": "<p>Mundane attacks cannot harm anyone within a 10ft radius, or vice-versa.</p>"
+			"name": "Orbe d'immortalité",
+			"description": "<p>Les attaques mondaines ne peuvent blesser personne dans un rayon de 3 mètres, et vice-versa.</p>"
 		},
 		"Otherwordly Pet": {
-			"name": "Otherwordly Pet",
-			"description": "<p>Summons an unintelligent extraplanar creature up to the size of a small dog. It holds no loyalty towards you or your allies.</p>"
+			"name": "Animal de l'Autre Monde",
+			"description": "<p>Invoque une créature extraplanaire inintelligente de la taille d'un petit chien. Elle n'a aucune loyauté envers vous ou vos alliés.</p>"
 		},
 		"Otherworldly Gate": {
-			"name": "Otherworldly Gate",
-			"description": "<p>Opens a portal to another reality. It works in both directions.</p>"
+			"name": "Porte de l'Autre Monde",
+			"description": "<p>Ouvre un portail vers une autre réalité. Ça marche dans les deux sens.</p>"
 		},
 		"Paincurrent": {
-			"name": "Paincurrent",
-			"description": "<p>An arc of electricity passes from your fingertips to a target you touch. They take 1d8 damage (1d12 if wearing metal armor).</p>"
+			"name": "Courant douloureux",
+			"description": "<p>Un arc d'électricité passe du bout de vos doigts à une cible que vous touchez. Elle subit 1d8 points de dégâts (1d12 si elle porte une armure de métal).</p>"
 		},
 		"Passage": {
 			"name": "Passage",
-			"description": "<p>Creates a temporary passage through wood, stone or brick.</p>"
+			"description": "<p>Crée un passage temporaire à travers le bois, la pierre ou la brique.</p>"
 		},
 		"Passive Invisibility": {
-			"name": "Passive Invisibility",
-			"description": "<p>Target is invisible until they attempt harm.</p>"
+			"name": "Invisibilité passive",
+			"description": "<p>La cible est invisible jusqu'à ce qu'elle tente de faire du mal.</p>"
 		},
 		"Peeping Warlock": {
 			"name": "Peeping Warlock",
