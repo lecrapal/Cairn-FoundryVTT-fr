@@ -534,92 +534,92 @@
 			"description": "<p>La cible est invisible jusqu'à ce qu'elle tente de faire du mal.</p>"
 		},
 		"Peeping Warlock": {
-			"name": "Peeping Warlock",
-			"description": "<p>You control a pair of floating eyes so long as yours remain closed.</p>"
+			"name": "Sorcier voyeur",
+			"description": "<p>Vous contrôlez une paire d'yeux flottants tant que les vôtres restent fermés.</p>"
 		},
 		"Perfect Illusion": {
-			"name": "Perfect Illusion",
-			"description": "<p>Creates an image with sound, smell and thermal effects, activated according to a trigger you choose. Touching the image or making a successful WIL save will reveal the illusion.</p>"
+			"name": "Illusion parfaite",
+			"description": "<p>Crée une image avec des effets sonores, olfactifs et thermiques, activés selon un déclencheur que vous choisissez. Toucher l'image ou réussir une sauvegarde de VOL permet de révéler l'illusion.</p>"
 		},
 		"Perfect Preservation": {
-			"name": "Perfect Preservation",
-			"description": "<p>A weapon you touch becomes immune to wear, mundane damage or elemental effects. The spell wears off after a day.</p>"
+			"name": "Préservation parfaite",
+			"description": "<p>Une arme que vous touchez devient immunisée contre l'usure, les dégâts ordinaires ou les effets élémentaires. Le sort se dissipe au bout d'un jour.</p>"
 		},
 		"Phantom Hound": {
-			"name": "Phantom Hound",
-			"description": "<p>A ghostly canine (4 HP, bite (1d4)) obeys your commands for up to one hour.</p>"
+			"name": "Chien fantôme",
+			"description": "<p>Un canidé fantôme (4 END, morsure (1d4)) obéit à vos ordres pendant une heure maximum.</p>"
 		},
 		"Phase Anchor": {
-			"name": "Phase Anchor",
-			"description": "<p>Binds an extraplanar creature to your will until it performs a task specific task, after which they must pass a WIL save to escape (good luck).</p>"
+			"name": "Ancrage phasique",
+			"description": "<p>Lie une créature extraplanaire à votre volonté jusqu'à ce qu'elle accomplisse une tâche spécifique, après quoi elle doit réussir une sauvegarde de VOL pour s'échapper (bonne chance).</p>"
 		},
 		"Phase Sneak": {
-			"name": "Phase Sneak",
-			"description": "<p>Anyone within a 10ft radius is rendered invisible.</p>"
+			"name": "Phase furtive",
+			"description": "<p>Toute personne dans un rayon de 3 mètres est rendue invisible.</p>"
 		},
 		"Phase Touch": {
-			"name": "Phase Touch",
-			"description": "<p>A disembodied, floating hand obeys your whims but is immaterial. The next Spellbook, ability or item that relies on touch now works from a distance.</p>"
+			"name": "Toucher phasique",
+			"description": "<p>Une main désincarnée et flottante obéit à vos désirs mais est immatérielle. Le prochain livre de sorts, capacité ou objet qui repose sur le toucher fonctionne désormais à distance.</p>"
 		},
-		"Philolomancy": {
-			"name": "Philolomancy",
-			"description": "<p>You understand all spoken and written languages.</p>"
+		"Philomancie": {
+			"name": "Litteramancie",
+			"description": "<p>Vous comprenez toutes les langues parlées et écrites.</p>"
 		},
 		"Planal Metamorphosis": {
-			"name": "Planal Metamorphosis",
-			"description": "<p>Invisible creatures or objects are revealed.</p>"
+			"name": "Métamorphose planaire",
+			"description": "<p>Des créatures ou des objets invisibles sont révélés.</p>"
 		},
 		"Planar Anchor": {
-			"name": "Planar Anchor",
-			"description": "<p>Bars extradimensional movement.</p>"
+			"name": "Ancrage planaire",
+			"description": "<p>Interdit les mouvements extradimensionnels.</p>"
 		},
 		"Plant Scourge": {
-			"name": "Plant Scourge",
-			"description": "<p>Plants within eyesight wither and die.</p>"
+			"name": "Fléau végétal",
+			"description": "<p>Les plantes à portée de vue se fanent et meurent.</p>"
 		},
 		"Pocket Container": {
-			"name": "Pocket Container",
-			"description": "<p>Summons a chest from an immaterial plane. It holds up to 6 items. The chest is dismissed at will.</p>"
+			"name": "Container de poche",
+			"description": "<p>Invoque un coffre depuis un plan immatériel. Il peut contenir jusqu'à 6 objets. Le coffre peut être renvoyé à volonté.</p>"
 		},
 		"Pocket Sun": {
-			"name": "Pocket Sun",
-			"description": "<p>You create a halo of bright light in a 60ft radius.</p>"
+			"name": "Soleil de poche",
+			"description": "<p>Vous créez un halo de lumière vive dans un rayon de 20 mètres.</p>"
 		},
 		"Prisma Shard": {
-			"name": "Prisma Shard",
-			"description": "<p>An array of hypnotic lights fascinate nearby creatures, unless they pass a WIL save.</p>"
+			"name": "Éclat de prisme",
+			"description": "<p>Un ensemble de lumières hypnotiques fascine les créatures proches, à moins qu'elles ne réussissent une sauvegarde de VOL.</p>"
 		},
 		"Profane Reveal": {
-			"name": "Profane Reveal",
-			"description": "<p>Target must WIL save or its attacks are impaired. Target an empty space to reveal invisible objects or creatures.</p>"
+			"name": "Révélation profane",
+			"description": "<p>La cible doit effectuer une sauvegarde de VOL ou ses attaques sont altérées. Ciblez un espace vide pour révéler des objets ou des créatures invisibles.</p>"
 		},
 		"Psychic Eye": {
-			"name": "Psychic Eye",
-			"description": "<p>Invisible floating eye allowing you to observe a single location as present.</p>"
+			"name": "Oeil Psychique",
+			"description": "<p>Œil flottant invisible vous permettant d'observer un seul endroit au moment présent.</p>"
 		},
 		"Psychokinesis": {
-			"name": "Psychokinesis",
-			"description": "<p>Magically moves an object up to half your weight.</p>"
+			"name": "Psychokinésie",
+			"description": "<p>Déplace magiquement un objet qui a jusqu'à la moitié du poids du lanceur.</p>"
 		},
 		"Puppeteer": {
-			"name": "Puppeteer",
-			"description": "<p>You can throw your voice a great distance away</p>"
+			"name": "Ventrilogue",
+			"description": "<p>Vous pouvez lancer votre voix à une grande distance</p>"
 		},
 		"Purge Text": {
-			"name": "Purge Text",
-			"description": "<p>Mundane or magical writing vanishes at your touch.</p>"
+			"name": "Purge de texte",
+			"description": "<p>Les écrits banals ou magiques disparaissent à votre contact.</p>"
 		},
 		"Pyramid of Passivity": {
-			"name": "Pyramid of Passivity",
-			"description": "<p>Target creatures must make a DEX save or their attacks are impaired.</p>"
+			"name": "Pyramide de passivité",
+			"description": "<p>Les créatures ciblées doivent faire une sauvegarde DEX ou leurs attaques sont altérées.</p>"
 		},
 		"Pyschic Touch": {
-			"name": "Pyschic Touch",
-			"description": "<p>You can hear target's surface thoughts, so long as you touch them.</p>"
+			"name": "Toucher psychique",
+			"description": "<p>Vous pouvez entendre les pensées superficielles des cibles, à condition de les toucher.</p>"
 		},
 		"Rat-Tat-Tat": {
 			"name": "Rat-Tat-Tat",
-			"description": "<p>Loudly opens a locked or magically sealed door or chest.</p>"
+			"description": "<p>Ouvre bruyamment une porte ou un coffre verrouillé ou scellé par magie.</p>"
 		},
 		"Ravenless Message": {
 			"name": "Ravenless Message",
