@@ -722,148 +722,148 @@
 			"description": "<p>Toute porte (magique ou autre) est maintenue fermée jusqu'à ce que vous quittiez son voisinage.</p>"
 		},
 		"Soul Annex": {
-			"name": "Soul Annex",
-			"description": "<p>Target's spirit is caged within their body and replaced with the caster's. If the body is slain the original soul departs, but the caster must pass a WIL save to return to their body.</p>"
+			"name": "Annexer l'âme",
+			"description": "<p>L'esprit de la cible est enfermé dans son corps et remplacé par celui du lanceur de sorts. Si le corps est tué, l'âme originale s'en va, mais le lanceur de sorts doit réussir un test de VOL pour retourner dans son corps.</p>"
 		},
 		"Steer's Strength": {
-			"name": "Steer's Strength",
-			"description": "<p>Target's strength triples; unarmed attacks are enhanced.</p>"
+			"name": "Force du boeuf",
+			"description": "<p>La force de la cible triple ; les attaques sans arme sont améliorées.</p>"
 		},
 		"Strength Tap": {
-			"name": "Strength Tap",
-			"description": "<p>A target you touch loses 1d6 STR, which is transferred to you (up to your max STR).</p>"
+			"name": "Prise de force",
+			"description": "<p>Une cible que vous touchez perd 1d6 FOR, qui vous est transféré (jusqu'à votre FOR max).</p>"
 		},
 		"Stumbling Steps": {
-			"name": "Stumbling Steps",
-			"description": "<p>A target you touch becomes deprived and loses 1 STR.</p>"
+			"name": "Marche trébuchante",
+			"description": "<p>Une cible que vous touchez passe en privation privée et perd 1 FOR.</p>"
 		},
 		"Stupefaction": {
-			"name": "Stupefaction",
-			"description": "<p>Target temporarily loses sense of place and time. WIL save to overcome.</p>"
+			"name": "Stupéfaction",
+			"description": "<p>La cible perd temporairement la notion de lieu et de temps. Sauvegarde de VOL pour la surmonter.</p>"
 		},
 		"Sudden Slumber": {
-			"name": "Sudden Slumber",
-			"description": "<p>Target falls asleep for 1d4 hours.</p>"
+			"name": "Sommeil soudain",
+			"description": "<p>La cible s'endort pendant 1d4 heures.</p>"
 		},
 		"Summon Elemental": {
-			"name": "Summon Elemental",
-			"description": "<p>A being of fire, wire, earth, or wind manifests from available matter to perform a single task for the caster. It follows this command against its will.</p>"
+			"name": "Invocation d'élémentaire",
+			"description": "<p>Un être de feu, de fer, de terre ou de vent se manifeste à partir de la matière disponible pour accomplir une tâche unique pour le lanceur de sorts. Il suit cet ordre contre sa volonté.</p>"
 		},
 		"Sway Will": {
-			"name": "Sway Will",
-			"description": "<p>A target is compelled to follow a stated course of action, without understanding why.</p>"
+			"name": "Influencer la volonté",
+			"description": "<p>Une cible est obligée de suivre une ligne de conduite donnée, sans comprendre pourquoi.</p>"
 		},
 		"Temporary Reprieve": {
-			"name": "Temporary Reprieve",
-			"description": "<p>Target regains any lost STR, but loses it again after a few minutes.</p>"
+			"name": "Sursis temporaire",
+			"description": "<p>La cible récupère la FOR perdue, mais le perd à nouveau au bout de quelques minutes.</p>"
 		},
 		"Terrify": {
-			"name": "Terrify",
-			"description": "<p>Targets within eyesight must pass a WIL save or flee.</p>"
+			"name": "Terrifier",
+			"description": "<p>Les cibles à portée de vue doivent réussir une sauvegarde de VOL ou fuir.</p>"
 		},
 		"Terrifying Illusion": {
-			"name": "Terrifying Illusion",
-			"description": "<p>A target is hunted by a terrible creature only they can see. Its attacks do 1d12 damage; on Critical Damage they must pass a WIL save or become catatonic.</p>"
+			"name": "Illusion terrifiante",
+			"description": "<p>La cible est poursuivie par une terrible créature qu'elle seule peut voir. Ses attaques infligent 1d12 points de dégâts ; en cas de dégâts critiques, elle doit réussir une sauvegarde de VOL ou devenir catatonique.</p>"
 		},
 		"Thief's Bane": {
-			"name": "Thief's Bane",
-			"description": "<p>An object appears trapped, even to an experienced thief.</p>"
+			"name": "Fléau du voleur",
+			"description": "<p>Un objet semble piégé, même pour un voleur expérimenté.</p>"
 		},
 		"Thwart the Elements": {
-			"name": "Thwart the Elements",
-			"description": "<p>Damage from energy blasts are impaired against a target for the next hour.</p>"
+			"name": "Déjouer les éléments",
+			"description": "<p>Les dégâts explosifs d'énergie sont affaiblis contre une cible pendant l'heure suivante.</p>"
 		},
 		"Tongue of the Blue Serpent": {
-			"name": "Tongue of the Blue Serpent",
-			"description": "<p>Rust-colored, serpentine letters materialize on a surface you choose. Anyone reading these words becomes immobilized unless they succeed a WIL save.</p>"
+			"name": "Langue du serpent bleu",
+			"description": "<p>Des lettres serpentines de couleur rouille se matérialisent sur la surface de votre choix. Quiconque lit ces mots est immobilisé à moins de réussir une sauvegarde de VOL.</p>"
 		},
 		"Torrential Moat": {
-			"name": "Torrential Moat",
-			"description": "<p>You summon a powerful wind that deflects arrows, smaller creatures, and noxious gases.</p>"
+			"name": "Douves torrentielles",
+			"description": "<p>Vous invoquez un vent puissant qui dévie les flèches, les petites créatures et les gaz nocifs.</p>"
 		},
 		"Toxic Blast": {
-			"name": "Toxic Blast",
-			"description": "<p>A small orb of acid deals 1d6 blast damage to a target.</p>"
+			"name": "Explosion toxique",
+			"description": "<p>Un petit orbe d'acide inflige 1d6 dégâts explosifs à une cible.</p>"
 		},
 		"Transform Aura": {
-			"name": "Transform Aura",
-			"description": "<p>Target's aura is made non-magical or vice-versa.</p>"
+			"name": "Transformer l'aura",
+			"description": "<p>L'aura de la cible devient non-magique ou vice-versa.</p>"
 		},
 		"True Name": {
-			"name": "True Name",
-			"description": "<p>Determines the properties of a magical item you touch.</p>"
+			"name": "Vrai nom",
+			"description": "<p>Détermine les propriétés d'un objet magique que vous touchez.</p>"
 		},
 		"Trueshift": {
-			"name": "Trueshift",
-			"description": "<p>A willing target takes on a new form (keeping only their WIL), but must pass a WIL save to shift out.</p>"
+			"name": "Réel changement",
+			"description": "<p>Une cible consentante prend une nouvelle forme (en conservant uniquement sa VOL), mais doit réussir une sauvegarde de VOL pour en sortir.</p>"
 		},
 		"Twilight Steed": {
-			"name": "Twilight Steed",
-			"description": "<p>Summons an arcane steed that never tires, but dissipates within daylight.</p>"
+			"name": "Coursier crépusculaire",
+			"description": "<p>Invoque un coursier arcanique qui ne se fatigue jamais, mais se dissipe à la lumière du jour.</p>"
 		},
 		"Ultimate Sacrifice": {
-			"name": "Ultimate Sacrifice",
-			"description": "<p>The book's holder transfer's their life force into a corpse, reviving both body and soul.</p>"
+			"name": "Sacrifice ultime",
+			"description": "<p>Le détenteur du livre transfère sa force vitale dans un cadavre, faisant revivre le corps et l'âme.</p>"
 		},
 		"Uncurse": {
-			"name": "Uncurse",
-			"description": "<p>A person or object you touch is freed from a curse or nefarious spell.</p>"
+			"name": "Lever la malédiction",
+			"description": "<p>Une personne ou un objet que vous touchez est libéré d'une malédiction ou d'un sort néfaste.</p>"
 		},
 		"Undefinable Target": {
-			"name": "Undefinable Target",
-			"description": "<p>An ally becomes immune to mundane ranged attacks for one round.</p>"
+			"name": "Cible non identifiée",
+			"description": "<p>Un allié est immunisé contre les attaques à distance ordinaires pendant un round.</p>"
 		},
 		"Undeniable Courage": {
-			"name": "Undeniable Courage",
-			"description": "<p>Target passes next WIL save and their attacks are enhanced.</p>"
+			"name": "Courage indéniable",
+			"description": "<p>La cible réussit la prochaine sauvegarde de VOL et ses attaques sont améliorées.</p>"
 		},
 		"Unflappable Endurance": {
-			"name": "Unflappable Endurance",
-			"description": "<p>Target does not take Fatigue from non-magical activities or become deprived until their next rest.</p>"
+			"name": "Endurance infaillible",
+			"description": "<p>La cible ne subit pas la Fatigue des activités non-magiques ou n'est pas en privation jusqu'à son prochain repos.</p>"
 		},
 		"Vermin Plague": {
-			"name": "Vermin Plague",
-			"description": "<p>Summons a swarm of bats, rats, spiders or similar creatures of your choice. They are harmless but distracting and hold no loyalty towards you or your allies.</p>"
+			"name": "Peste des vermines",
+			"description": "<p>Invoque un essaim de chauves-souris, de rats, d'araignées ou de créatures similaires de votre choix. Elles sont inoffensives mais distrayantes et n'ont aucune loyauté envers vous ou vos alliés.</p>"
 		},
 		"Vines of Ichor": {
-			"name": "Vines of Ichor",
-			"description": "<p>You spread sticky spiderwebs on the walls, floor and ceilings within a 20ft radius.</p>"
+			"name": "Vignes d'Ichor",
+			"description": "<p>Vous répandez des toiles d'araignée collantes sur les murs, le sol et les plafonds dans un rayon de 6 mètres.</p>"
 		},
 		"Warrior's Edge": {
-			"name": "Warrior's Edge",
-			"description": "<p>Target weapon is enhanced, and victim automatically fails a critical damage save.</p>"
+			"name": "Limite du guerrier",
+			"description": "<p>L'arme cible est améliorée et la victime échoue automatiquement à une sauvegarde contre les dégâts critiques.</p>"
 		},
 		"Windborn": {
-			"name": "Windborn",
-			"description": "<p>You direct a powerful wind in a straight line, strong enough to blow over small boulders.</p>"
+			"name": "Vent-né",
+			"description": "<p>Vous dirigez un vent puissant en ligne droite, assez fort pour renverser de petits rochers.</p>"
 		},
 		"Winter's Woe": {
-			"name": "Winter's Woe",
-			"description": "<p>An icy storm assails multiple targets, obscuring visibility and making the ground icy and treacherous.</p>"
+			"name": "Malheur d'hiver",
+			"description": "<p>Une tempête de glace s'attaque à plusieurs cibles, obscurcissant la visibilité et rendant le sol glacé et dangereux.</p>"
 		},
 		"Witch Sight": {
-			"name": "Witch Sight",
-			"description": "<p>Magical auras become visible to you for one hour.</p>"
+			"name": "Vue de sorcière",
+			"description": "<p>Les auras magiques deviennent visibles pour vous pendant une heure.</p>"
 		},
 		"Wizard's Exit": {
-			"name": "Wizard's Exit",
-			"description": "<p>You and and anyone you touch can flee to safety at double speed.</p>"
+			"name": "Sortie du magicien",
+			"description": "<p>Vous, et tous ceux que vous touchez, pouvez vous mettre en sécurité deux fois plus vite.</p>"
 		},
 		"Wizard's Grasp": {
-			"name": "Wizard's Grasp",
-			"description": "<p>You control a phantasmal hand that can lift up to 5 pounds.</p>"
+			"name": "Prise du magicien",
+			"description": "<p>Vous contrôlez une main fantasmatique qui peut soulever jusqu'à 2 kilos.</p>"
 		},
 		"Wizard's Haven": {
-			"name": "Wizard's Haven",
-			"description": "<p>A small, walled-in area cannot be scryed.</p>"
+			"name": "Refuge du magicien",
+			"description": "<p>Une petite zone murée ne peut pas être scrutée.</p>"
 		},
 		"Wizardsniff": {
-			"name": "Wizardsniff",
-			"description": "<p>You can feel any magic within a 60ft radius.</p>"
+			"name": "Odorat du magicien",
+			"description": "<p>Vous pouvez ressentir toute magie dans un rayon de 20 mètres.</p>"
 		},
 		"Word of Pain": {
-			"name": "Word of Pain",
-			"description": "<p>A single phrase from your lips does 1d12 blast damage. Affected targets are also deafened.</p>"
+			"name": "Mot de douleur",
+			"description": "<p>Une seule phrase sortant de vos lèvres provoque 1d12 dégâts explosifs. Les cibles touchées sont également assourdies.</p>"
 		}
 	},
 	"mapping": {
