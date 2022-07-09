@@ -622,104 +622,104 @@
 			"description": "<p>Ouvre bruyamment une porte ou un coffre verrouillé ou scellé par magie.</p>"
 		},
 		"Ravenless Message": {
-			"name": "Ravenless Message",
-			"description": "<p>You send a short message 1 mile that anyone along its path can hear.</p>"
+			"name": "Message sans corbeau",
+			"description": "<p>Vous envoyez un court message à 1,5 km que toute personne se trouvant sur son chemin peut entendre.</p>"
 		},
 		"Reject Unlife": {
-			"name": "Reject Unlife",
-			"description": "<p>Nearby undead are immobilized for 30 seconds or until you take another action.</p>"
+			"name": "Rejeter la non-vie",
+			"description": "<p>Les morts-vivants proches sont immobilisés pendant 30 secondes ou jusqu'à ce que vous fassiez une autre action.</p>"
 		},
 		"Remembered Voice": {
-			"name": "Remembered Voice",
-			"description": "<p>A spot you mark becomes the trigger for a supernatural recording of your voice, delivering a short message of your choice.</p>"
+			"name": "Voix retenue",
+			"description": "<p>Un endroit que vous marquez devient le déclencheur d'un enregistrement surnaturel de votre voix, délivrant un court message de votre choix.</p>"
 		},
 		"Reverie": {
-			"name": "Reverie",
-			"description": "<p>Targets become dazed for a moment, as if lost in daydream.</p>"
+			"name": "Rêverie",
+			"description": "<p>Les cibles sont étourdies pendant un moment, comme si elles étaient perdues dans un rêve éveillé.</p>"
 		},
 		"Runic Harm": {
-			"name": "Runic Harm",
-			"description": "<p>A rune you draw causes great pain to the reader, who must WIL save or scream until they pass out (1d4 WIL loss). A successful save destroys the rune.</p>"
+			"name": "Souffrance runique",
+			"description": "<p>Une rune que vous dessinez cause une grande douleur au lecteur, qui doit réaliser une sauvegarde de VOL ou crier jusqu'à ce qu'il perde connaissance (1d4 perte de VOL). Une sauvegarde réussie détruit la rune.</p>"
 		},
 		"Runic Slumber": {
-			"name": "Runic Slumber",
-			"description": "<p>A rune you draw puts the reader into a magical sleep that lasts 1d6 hours.</p>"
+			"name": "Sommeil runique",
+			"description": "<p>Une rune que vous dessinez plonge le lecteur dans un sommeil magique qui dure 1d6 heures.</p>"
 		},
 		"Safe Haven": {
-			"name": "Safe Haven",
-			"description": "<p>You summon a floating, invisible refuge for 8 hours. It fits up to 8 people comfortably.</p>"
+			"name": "Lieu sûr",
+			"description": "<p>Vous invoquez un refuge flottant et invisible pendant 8 heures. Il peut accueillir jusqu'à 8 personnes confortablement.</p>"
 		},
 		"Scintillate": {
-			"name": "Scintillate",
-			"description": "<p>Target must WIL save or their attacks become impaired.</p>"
+			"name": "Scintiller",
+			"description": "<p>La cible doit effectuer une sauvegarde de VOL ou ses attaques sont affaiblies.</p>"
 		},
 		"Scry Creature": {
-			"name": "Scry Creature",
-			"description": "<p>Indicates the precise location of a familiar creature.</p>"
+			"name": "Scrute créature",
+			"description": "<p>Indique l'emplacement précis d'une créature familière.</p>"
 		},
 		"Scry Object": {
-			"name": "Scry Object",
-			"description": "<p>Indicates the precise location of an object, known or otherwise.</p>"
+			"name": "Scrute Objet",
+			"description": "<p>Indique l'emplacement précis d'un objet, connu ou non.</p>"
 		},
 		"Scrying Ward": {
-			"name": "Scrying Ward",
-			"description": "<p>For 24 hours you become aware of any magical eavesdropping.</p>"
+			"name": "Garde Scrutation",
+			"description": "<p>Pendant 24 heures, vous devenez conscient de tout espionnage magique.</p>"
 		},
 		"Sculpt Water": {
-			"name": "Sculpt Water",
-			"description": "<p>Raise, lower or part nearby water.</p>"
+			"name": "Sculpter l'eau",
+			"description": "<p>Élever, abaisser ou séparer l'eau à proximité.</p>"
 		},
 		"Secret Attaché": {
 			"name": "Secret Attaché",
-			"description": "<p>You summon an invisible creature of great power that obeys your every command. Reading from other Spellbooks dispels the creature.</p>"
+			"description": "<p>Vous invoquez une créature invisible de grande puissance qui obéit à tous vos ordres. La lecture d'autres livres de sorts dissipe la créature.</p>"
 		},
 		"Shelter": {
-			"name": "Shelter",
-			"description": "<p>Creates a standing edifice that can shelter up to 10 creatures, disappearing after 24 hours.</p>"
+			"name": "Refuge",
+			"description": "<p>Crée un édifice solide qui peut abriter jusqu'à 10 créatures et qui disparaît au bout de 24 heures.</p>"
 		},
 		"Shrinking Cant": {
-			"name": "Shrinking Cant",
-			"description": "<p>A humanoid creature you touch halves in size.</p>"
+			"name": "Hypocrisie rapetissante",
+			"description": "<p>La taille d'une créature humanoïde que vous touchez diminue de moitié.</p>"
 		},
 		"Signal": {
 			"name": "Signal",
-			"description": "<p>Sends up a flare that can be seen for some distance.</p>"
+			"description": "<p>Envoie une lumière qui peut être vue à une certaine distance.*-</p>"
 		},
 		"Simple Illusion": {
 			"name": "Simple Illusion",
-			"description": "<p>Creates a simple image with sound. A cursory investigation will reveal the illusory image.</p>"
+			"description": "<p>Crée une image simple avec du son. Un examen superficiel révèle l'image illusoire.</p>"
 		},
 		"Sinister Flame": {
-			"name": "Sinister Flame",
-			"description": "<p>Target's palms are lined with flames (1d4+1 STR loss) for one minute.</p>"
+			"name": "Flamme sinistre",
+			"description": "<p>Les paumes de la cible sont tapissées de flammes (perte de 1d4+1 FOR) pendant une minute.</p>"
 		},
 		"Sinister Polymorph": {
-			"name": "Sinister Polymorph",
-			"description": "<p>WIL save or target is transformed into a harmless animal.</p>"
+			"name": "Polymorphisme sinistre",
+			"description": "<p>Sauvegarde VOL ou la cible est transformée en un animal inoffensif.</p>"
 		},
 		"Skillfull Repair": {
-			"name": "Skillfull Repair",
-			"description": "<p>You make minor repairs to a nonliving object.</p>"
+			"name": "Réparation de l'équipement",
+			"description": "<p>Vous effectuez des réparations mineures sur un objet non vivant.</p>"
 		},
 		"Sky Raft": {
-			"name": "Sky Raft",
-			"description": "<p>You summon a 3ft wide floating disk that holds up to 100lbs.</p>"
+			"name": "Radeau aérien",
+			"description": "<p>Vous invoquez un disque flottant d'un mètre de large qui peut supporter jusqu'à 30 kg.</p>"
 		},
 		"Solar Portal": {
-			"name": "Solar Portal",
-			"description": "<p>Sends an extraplanar message to all beings that wish to enter your plane. You have no choice which being answers and it holds no loyalty to you or your allies.</p>"
+			"name": "Portail solaire",
+			"description": "<p>Envoie un message extraplanaire à tous les êtres qui souhaitent entrer dans votre plan. Vous n'avez pas le choix de l'être qui répond et il n'a aucune loyauté envers vous ou vos alliés.</p>"
 		},
 		"Song of Repose": {
-			"name": "Song of Repose",
-			"description": "<p>Target falls into a deep slumber.</p>"
+			"name": "Chant du repos",
+			"description": "<p>La cible tombe dans un profond sommeil.</p>"
 		},
 		"Sonic Shattering": {
-			"name": "Sonic Shattering",
-			"description": "<p>A sonic wave causes 1d6 STR loss to susceptible objects or crystalline creatures, ignoring armor.</p>"
+			"name": "Éclats soniques",
+			"description": "<p>Une onde sonique provoque une perte de 1d6 FOR aux objets sensibles ou aux créatures cristallines, ignorant les armures.</p>"
 		},
 		"Sorcerer's Lock": {
-			"name": "Sorcerer's Lock",
-			"description": "<p>Any door (magical or otherwise) is held shut until you leave its vicinity.</p>"
+			"name": "Verrou du sorcier",
+			"description": "<p>Toute porte (magique ou autre) est maintenue fermée jusqu'à ce que vous quittiez son voisinage.</p>"
 		},
 		"Soul Annex": {
 			"name": "Soul Annex",
