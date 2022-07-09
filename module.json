@@ -1,8 +1,8 @@
 {
     "name": "cairn-fr",
-    "title": "Système Cairn  - Traduction Française",
-    "description": "Module de traduction du système Cairn en Français, basé sur Babele.",
-    "version": "0.0.1",
+    "title": "Système Cairn - Traduction Française",
+    "description": "Module de traduction du système Cairn en Français, avec Babele.",
+    "version": "0.1.0",
     "minimumCoreVersion": "9",
     "compatibleCoreVersion": "9",
     "author": "LeCrapal",
