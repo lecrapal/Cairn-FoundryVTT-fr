@@ -2,80 +2,80 @@
 	"label": "Spellbooks",
 	"entries": {
 		"Adhere": {
-			"name": "Adhere",
-			"description": "<p>Object is covered in extremely sticky slime.</p>"
+			"name": "Adhérer",
+			"description": "<p>L'objet est couvert d'une substance visqueuse extrêmement collante.</p>"
 		},
 		"Anchor": {
-			"name": "Anchor",
-			"description": "<p>A strong wire sprouts from your arms, affixing itself to two points within 50ft on each side.</p>"
+			"name": "Ancrage",
+			"description": "<p>Un fil solide jaillit de vos bras, se fixant à deux points dans un rayon de 15 mètres de chaque côté.</p>"
 		},
 		"Animate Object": {
-			"name": "Animate Object",
-			"description": "<p>An object obeys your commands as best it can.</p>"
+			"name": "Objet animé",
+			"description": "<p>Un objet obéit à vos ordres du mieux qu'il peut.</p>"
 		},
 		"Anthropomorphize": {
-			"name": "Anthropomorphize",
-			"description": "<p>An animal either gains human intelligence or human appearance for one day.</p>"
+			"name": "Anthropomorphiser",
+			"description": "<p>Un animal gagne soit une intelligence humaine, soit une apparence humaine pendant un jour.</p>"
 		},
 		"Arcane Eye": {
-			"name": "Arcane Eye",
-			"description": "<p>You can see through a magical floating eyeball that flies around at your command.</p>"
+			"name": "Oeil arcanique",
+			"description": "<p>Vous pouvez voir à travers un globe oculaire magique flottant qui vole autour de vous à votre commande.</p>"
 		},
 		"Astral Prison": {
-			"name": "Astral Prison",
-			"description": "<p>An object is frozen in time and space within an invulnerable crystal shell.</p>"
+			"name": "Prison astrale",
+			"description": "<p>Un objet est figé dans le temps et l'espace à l'intérieur d'une coquille de cristal invulnérable.</p>"
 		},
 		"Attract": {
-			"name": "Attract",
-			"description": "<p>Two objects are strongly magnetically attracted to each other if they come within 10 feet.</p>"
+			"name": "Attirer",
+			"description": "<p>Deux objets sont fortement attirés magnétiquement l'un vers l'autre s'ils se trouvent à moins de 3 mètres.</p>"
 		},
 		"Auditory Illusion": {
-			"name": "Auditory Illusion",
-			"description": "<p>You create illusory sounds that seem to come from a direction of your choice.</p>"
+			"name": "Illusion sonore",
+			"description": "<p>Vous créez des sons fictifs qui semblent provenir d'une direction de votre choix.</p>"
 		},
 		"Babble": {
-			"name": "Babble",
-			"description": "<p>A creature must loudly and clearly repeat everything you think. It is otherwise mute.</p>"
+			"name": "Babiller",
+			"description": "<p>Une créature doit répéter haut et fort tout ce que vous pensez. Autrement, elle est muette.</p>"
 		},
 		"Bait Flower": {
-			"name": "Bait Flower",
-			"description": "<p>A plant sprouts from the ground that emanates the smell of decaying flesh.</p>"
+			"name": "Fleur attirante",
+			"description": "<p>Une plante jaillit du sol et dégage une odeur de chair en décomposition.</p>"
 		},
 		"Beast Form": {
-			"name": "Beast Form",
-			"description": "<p>You and your possessions transform into a mundane animal.</p>"
+			"name": "Forme bestiale",
+			"description": "<p>Vous et vos biens vous transformez en un animal banal.</p>"
 		},
 		"Befuddle": {
-			"name": "Befuddle",
-			"description": "<p>A creature of your choice is unable to form new short-term memories for the duration of the spell.</p>"
+			"name": "Brouiller",
+			"description": "<p>Une créature de votre choix est incapable de former de nouveaux souvenirs à court terme pendant la durée du sort.</p>"
 		},
 		"Body Swap": {
-			"name": "Body Swap",
-			"description": "<p>You switch bodies with a creature you touch. If one body dies, the other dies as well.</p>"
+			"name": "Échange de corps",
+			"description": "<p>Vous changez de corps avec une créature que vous touchez. Si un corps meurt, l'autre meurt aussi.</p>"
 		},
 		"Charm": {
-			"name": "Charm",
-			"description": "<p>A creature you can see treats you as a friend.</p>"
+			"name": "Charme",
+			"description": "<p>Une créature que vous pouvez voir vous traite comme un ami.</p>"
 		},
 		"Command": {
-			"name": "Command",
-			"description": "<p>A target obeys a single three-word command that does not harm it.</p>"
+			"name": "Ordre",
+			"description": "<p>Une cible obéit à un ordre unique de trois mots qui ne lui fait aucun mal.</p>"
 		},
 		"Comprehend": {
-			"name": "Comprehend",
-			"description": "<p>You become fluent in all languages for a short while.</p>"
+			"name": "Comprendre",
+			"description": "<p>Vous maîtrisez toutes les langues pendant un court moment./p>"
 		},
 		"Cone of Foam": {
-			"name": "Cone of Foam",
-			"description": "<p>Dense foam sprays from your hand, coating the target.</p>"
+			"name": "Cône de mousse",
+			"description": "<p>Une mousse dense jaillit de votre main et recouvre la cible.</p>"
 		},
 		"Control Plants": {
-			"name": "Control Plants",
-			"description": "<p>Nearby plants and trees obey you and gain the ability to move at a slow pace.</p>"
+			"name": "Contrôle des végétaux",
+			"description": "<p>Les plantes et les arbres à proximité vous obéissent et acquièrent la capacité de se déplacer à un rythme lent.</p>"
 		},
 		"Control Weather": {
-			"name": "Control Weather",
-			"description": "<p>You may alter the type of weather at will, but you do not otherwise control it.</p>"
+			"name": "Contrôle de la météo",
+			"description": "<p>Vous pouvez modifier le type de temps à volonté, mais vous ne le contrôlez pas autrement.</p>"
 		},
 		"Cure Wounds": {
 			"name": "Cure Wounds",
