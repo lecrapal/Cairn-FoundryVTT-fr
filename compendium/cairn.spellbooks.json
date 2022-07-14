@@ -198,208 +198,208 @@
 			"description": "<p>Un chalet solide et meublé apparaît pendant 12 heures. Vous pouvez en autoriser ou en interdire l'accès à volonté.</p>"
 		},
 		"Marble Craze": {
-			"name": "Passion des billes Craze",
+			"name": "Passion des billes",
 			"description": "<p>Vos poches sont pleines de billes, et se remplissent toutes les 30 secondes.</p>"
 		},
 		"Masquerade": {
-			"name": "Masquerade",
-			"description": "<p>A character’s appearance and voice becomes identical to those of a character you touch.</p>"
+			"name": "Mascarade",
+			"description": "<p>L'apparence et la voix d'un personnage deviennent identiques à celles d'un personnage que vous touchez.</p>"
 		},
 		"Miniaturize": {
-			"name": "Miniaturize",
-			"description": "<p>A creature you touch is shrunk down to the size of a mouse.</p>"
+			"name": "Miniaturiser",
+			"description": "<p>Une créature que vous touchez est réduite à la taille d'une souris.</p>"
 		},
 		"Mirror Image": {
-			"name": "Mirror Image",
-			"description": "<p>An illusory duplicate of yourself appears and is under your control.</p>"
+			"name": "Image miroir",
+			"description": "<p>Un double illusoire de vous-même apparaît et est sous votre contrôle.</p>"
 		},
 		"Mirrorwalk": {
-			"name": "Mirrorwalk",
-			"description": "<p>A mirror becomes a gateway to another mirror that you looked into today.</p>"
+			"name": "Passe-miroir",
+			"description": "<p>Un miroir devient une passerelle vers un autre miroir dans lequel vous vous êtes regardé aujourd'hui.</p>"
 		},
 		"Missile Shield": {
-			"name": "Missile Shield",
-			"description": "<p>A creature you touch is protected from mundane missile attacks for one minute.</p>"
+			"name": "Bouclier antimissile",
+			"description": "<p>Une créature que vous touchez est protégée des attaques de missiles non-magique pendant une minute.</p>"
 		},
 		"Multiarm": {
-			"name": "Multiarm",
-			"description": "<p>You gain an extra arm.</p>"
+			"name": "Multibras",
+			"description": "<p>Vous gagnez un bras supplémentaire.</p>"
 		},
 		"Night Sphere": {
-			"name": "Night Sphere",
-			"description": "<p>A 50ft wide sphere of darkness displaying the night sky appears before you.</p>"
+			"name": "Sphère nocturne",
+			"description": "<p>Une sphère d'obscurité de 15 mètres de large représentant le ciel nocturne apparaît devant vous.</p>"
 		},
 		"Objectify": {
-			"name": "Objectify",
-			"description": "<p>You become any inanimate object between the size of a grand piano and an apple.</p>"
+			"name": "Objectifier",
+			"description": "<p>Vous devenez un objet inanimé de la taille d'un piano à queue ou d'une pomme.</p>"
 		},
 		"Ooze Form": {
-			"name": "Ooze Form",
-			"description": "<p>You become a living jelly.</p>"
+			"name": "Forme suintante",
+			"description": "<p>Vous devenez une gelée vivante.</p>"
 		},
 		"Pacify": {
-			"name": "Pacify",
-			"description": "<p>A creature near you has an aversion to violence.</p>"
+			"name": "Pacifier",
+			"description": "<p>Une créature près de vous a une aversion pour la violence.</p>"
 		},
 		"Phobia": {
-			"name": "Phobia",
-			"description": "<p>A nearby creature becomes terrified of an object of your choice.</p>"
+			"name": "Phobie",
+			"description": "<p>Une créature proche devient terrifiée par un objet de votre choix.</p>"
 		},
 		"Pit": {
-			"name": "Pit",
-			"description": "<p>A pit 10ft wide and 10ft deep opens in the ground.</p>"
+			"name": "Fosse",
+			"description": "<p>Une fosse de 3 mètres de large et 3 mètres de profondeur s'ouvre dans le sol.</p>"
 		},
 		"Primal Surge": {
-			"name": "Primal Surge",
-			"description": "<p>An creature rapidly evolves into a future version of its species.</p>"
+			"name": "Poussée primitive",
+			"description": "<p>Une créature évolue rapidement en une version future de son espèce.</p>"
 		},
 		"Push/Pull": {
-			"name": "Push/Pull",
-			"description": "<p>An object of any size is pulled directly towards you or pushed directly away from you with the strength of one man.</p>"
+			"name": "Pousser/Tirer",
+			"description": "<p>Un objet de n'importe quelle taille est tiré directement vers vous ou repoussé directement loin de vous avec la force d'un seul homme.</p>"
 		},
 		"Raise Dead": {
-			"name": "Raise Dead",
-			"description": "<p>A skeleton rises from the ground to serve you. They are incredibly stupid and can only obey simple orders.</p>"
+			"name": "Lever les morts",
+			"description": "<p>Un squelette sort du sol pour vous servir. Ils sont incroyablement stupides et ne peuvent obéir qu'à des ordres simples.</p>"
 		},
 		"Raise Spirit": {
-			"name": "Raise Spirit",
-			"description": "<p>The spirit of a dead body manifests and will answer 1 question.</p>"
+			"name": "Lever l'esprit",
+			"description": "<p>L'esprit d'un cadavre se manifeste et répond à une question.</p>"
 		},
 		"Read Mind": {
-			"name": "Read Mind",
-			"description": "<p>You can hear the surface thoughts of nearby creatures.</p>"
+			"name": "Lire l'esprit",
+			"description": "<p>Vous pouvez entendre les pensées de surface des créatures proches.</p>"
 		},
 		"Repel": {
-			"name": "Repel",
-			"description": "<p>Two objects are strongly magnetically repelled from each other if they come within 10 feet.</p>"
+			"name": "Repousser",
+			"description": "<p>Deux objets sont fortement repoussés magnétiquement l'un de l'autre s'ils se trouvent à moins de 3 mètres.</p>"
 		},
 		"Scry": {
-			"name": "Scry",
-			"description": "<p>You can see through the eyes of a creature you touched earlier today.</p>"
+			"name": "Scruter",
+			"description": "<p>Vous pouvez voir à travers les yeux d'une créature que vous avez touchée plus tôt dans la journée.</p>"
 		},
 		"Sculpt Elements": {
-			"name": "Sculpt Elements",
-			"description": "<p>All inanimate material behaves like clay in your hands.</p>"
+			"name": "Sculpter les éléments",
+			"description": "<p>Toute matière inanimée se comporte comme de l'argile entre vos mains.</p>"
 		},
 		"Sense": {
-			"name": "Sense",
-			"description": "<p>Choose one kind of object (key, gold, arrow, jug, etc.). You can sense the nearest example.</p>"
+			"name": "Sentir",
+			"description": "<p>Choisissez un type d'objet (clé, or, flèche, cruche, etc.). Vous pouvez sentir l'exemplaire le plus proche.</p>"
 		},
 		"Shroud": {
-			"name": "Shroud",
-			"description": "<p>A creature you touch is invisible until they move.</p>"
+			"name": "Linceul",
+			"description": "<p>Une créature que vous touchez est invisible jusqu'à ce qu'elle bouge.</p>"
 		},
 		"Shuffle": {
-			"name": "Shuffle",
-			"description": "<p>Two creatures you can see instantly switch places.</p>"
+			"name": "Mélanger",
+			"description": "<p>Deux créatures que vous pouvez voir échangent instantanément leurs places.</p>"
 		},
 		"Sleep": {
-			"name": "Sleep",
-			"description": "<p>A creature you can see falls into a light sleep.</p>"
+			"name": "Sommeil",
+			"description": "<p>Une créature que vous pouvez voir tombe dans un sommeil léger.</p>"
 		},
 		"Slick": {
-			"name": "Slick",
-			"description": "<p>Every surface in a 30ft radius becomes frictionless and slippery.</p>"
+			"name": "Glissant",
+			"description": "<p>Chaque surface dans un rayon de 10 mètres devient sans friction et glissante.</p>"
 		},
 		"Smoke Form": {
-			"name": "Smoke Form",
-			"description": "<p>Your body becomes living smoke.</p>"
+			"name": "Forme de fumée",
+			"description": "<p>Votre corps devient une fumée vivante.</p>"
 		},
 		"Snail Knight": {
-			"name": "Snail Knight",
-			"description": "<p>10 minutes after casting, a knight sitting astride a giant snail rides into view. He is able to answer most questions related to quests and chivalry, and may aid you if he finds you worthy.</p>"
+			"name": "Chevalier à l'escargot",
+			"description": "<p>10 minutes après l'incantation, un chevalier assis sur un escargot géant apparaît. Il est capable de répondre à la plupart des questions relatives aux quêtes et à la chevalerie, et peut vous aider s'il vous trouve digne.</p>"
 		},
 		"Sniff": {
-			"name": "Sniff",
-			"description": "<p>You can smell even the faintest traces of scents.</p>"
+			"name": "Renifler",
+			"description": "<p>Vous pouvez sentir même les traces les plus infimes de parfums.</p>"
 		},
 		"Sort": {
-			"name": "Sort",
-			"description": "<p>Inanimate items sort themselves according to categories you set.</p>"
+			"name": "Trier",
+			"description": "<p>Les objets inanimés se trient eux-mêmes en fonction des catégories que vous avez définies.</p>"
 		},
 		"Spectacle": {
 			"name": "Spectacle",
-			"description": "<p>A clearly unreal but impressive illusion of your choice appears, under your control. It may be up to the size of a palace and has full motion and sound.</p>"
+			"description": "<p>Une illusion clairement irréelle mais impressionnante de votre choix apparaît, sous votre contrôle. Elle peut avoir la taille d'un palais et est dotée de mouvements et de sons.</p>"
 		},
 		"Spellsaw": {
-			"name": "Spellsaw",
-			"description": "<p>A whirling blade flies from your chest, clearing any plant material in its way. It is otherwise harmless.</p>"
+			"name": "Magie-scie",
+			"description": "<p>Une lame tourbillonnante s'envole de votre poitrine, éliminant toute matière végétale sur son passage. Elle est autrement inoffensive.</p>"
 		},
 		"Spider Climb": {
-			"name": "Spider Climb",
-			"description": "<p>You can climb surfaces like a spider.</p>"
+			"name": "Escalade de l'araignée",
+			"description": "<p>Vous pouvez grimper sur des surfaces comme une araignée.</p>"
 		},
 		"Summon Cube": {
-			"name": "Summon Cube",
-			"description": "<p>Once per second you may summon or banish a 3-foot-wide cube of earth. New cubes must be affixed to the earth or to other cubes.</p>"
+			"name": "Invocation de Cube",
+			"description": "<p>Une fois par seconde, vous pouvez invoquer ou bannir un cube de terre de 30 cm de large. Les nouveaux cubes doivent être fixés à la terre ou à d'autres cubes.</p>"
 		},
 		"Summon Idol": {
-			"name": "Summon Idol",
-			"description": "<p>A carved stone statue the size of a mule rises from the ground.</p>"
+			"name": "Invocation d'Idole",
+			"description": "<p>Une statue en pierre sculptée de la taille d'une mule sort du sol.</p>"
 		},
 		"Swarm": {
-			"name": "Swarm",
-			"description": "<p>You become a swarm of crows, rats, or piranhas. You can only be harmed by blast attacks.</p>"
+			"name": "Essaim",
+			"description": "<p>Vous devenez un essaim de corbeaux, de rats ou de piranhas. Vous ne pouvez être blessé que par des attaques explosives</p>"
 		},
 		"Target Lure": {
-			"name": "Target Lure",
-			"description": "<p>An object you touch becomes the target of any nearby spell.</p>"
+			"name": "Cible leurre",
+			"description": "<p>Un objet que vous touchez devient la cible de tout sort à proximité.</p>"
 		},
 		"Telekinesis": {
-			"name": "Telekinesis",
-			"description": "<p>You may mentally move 1 item under 60lbs.</p>"
+			"name": "Télékinésie",
+			"description": "<p>Vous pouvez déplacer mentalement 1 objet de moins de 30 kg.</p>"
 		},
 		"Telepathy": {
-			"name": "Telepathy",
-			"description": "<p>Two creatures can hear each other's thoughts, no matter how far apart they move.</p>"
+			"name": "Télépathie",
+			"description": "<p>Deux créatures peuvent entendre les pensées de l'autre, quelle que soit la distance qui les sépare.</p>"
 		},
 		"Teleport": {
-			"name": "Teleport",
-			"description": "<p>An object or person you can see is transported from one place to another in a 50ft radius.</p>"
+			"name": "Téléportation",
+			"description": "<p>Un objet ou une personne que vous pouvez voir est transporté d'un endroit à un autre dans un rayon de 15 mètres.</p>"
 		},
 		"Thicket": {
-			"name": "Thicket",
-			"description": "<p>A thicket of trees and dense brush up to 50ft wide suddenly sprouts up.</p>"
+			"name": "Bosquet",
+			"description": "<p>Un bosquet d'arbres et de broussailles d'une largeur de 15 mètres surgit soudainement.</p>"
 		},
 		"Time Control": {
-			"name": "Time Control",
-			"description": "<p>Time in a 50ft bubble slows down or increases by 10% for 30 seconds.</p>"
+			"name": "Contrôle du temps",
+			"description": "<p>Le temps dans une bulle de 15 mètres ralentit ou augmente de 10 % pendant 30 secondes.</p>"
 		},
 		"True Sight": {
-			"name": "True Sight",
-			"description": "<p>You see through all nearby illusions.</p>"
+			"name": "Vision réelle",
+			"description": "<p>Vous voyez clairement les illusions environnantes.</p>"
 		},
 		"Upwell": {
-			"name": "Upwell",
-			"description": "<p>A spring of seawater appears.</p>"
+			"name": "Marée haute",
+			"description": "<p>Une source d'eau de mer apparaît.</p>"
 		},
 		"Vision": {
 			"name": "Vision",
-			"description": "<p>You completely control what a creature sees.</p>"
+			"description": "<p>Vous contrôlez complètement ce qu'une créature voit.</p>"
 		},
 		"Visual Illusion": {
-			"name": "Visual Illusion",
-			"description": "<p>A silent, immobile, room-sized illusion of your choice appears.</p>"
+			"name": "Illusion visuelle",
+			"description": "<p>Une illusion silencieuse, immobile et de la taille d'une salle de votre choix apparaît.</p>"
 		},
 		"Ward": {
-			"name": "Ward",
-			"description": "<p>A silver circle 50ft across appears on the ground. Choose one species that cannot cross it.</p>"
+			"name": "Garde",
+			"description": "<p>Un cercle argenté de 15 mètres de diamètre apparaît sur le sol. Choisissez une espèce qui ne peut pas le traverser.</p>"
 		},
 		"Web": {
-			"name": "Web",
-			"description": "<p>Your wrists shoot thick webbing.</p>"
+			"name": "Toile",
+			"description": "<p>Vos poignets tirent des toiles épaisses.</p>"
 		},
 		"Widget": {
-			"name": "Widget",
-			"description": "<p>A primitive version of a drawn tool or item appears before you, and disappears after a short time.</p>"
+			"name": "Gadget",
+			"description": "<p>Une version primitive d'un outil ou d'un objet dessiné apparaît devant vous, et disparaît après quelques instants.</p>"
 		},
 		"Wizard Mark": {
-			"name": "Wizard Mark",
-			"description": "<p>Your finger can shoot a stream of ulfire-colored paint. This paint is only visible to you, and can be seen at any distance, even through solid objects</p>"
+			"name": "Marque du magicien",
+			"description": "<p>Votre doigt peut projeter un jet de peinture d'une couleur unique. Cette peinture n'est visible que par vous, et peut être vue à n'importe quelle distance, même à travers des objets solides.</p>"
 		},
 		"X-Ray Vision": {
-			"name": "X-Ray Vision",
-			"description": "<p>You can see through walls, dirt, clothing, etc.</p>"
+			"name": "Vision à rayons X",
+			"description": "<p>On peut voir à travers les murs, la terre, les vêtements, etc.</p>"
 		}
 	}
 }
