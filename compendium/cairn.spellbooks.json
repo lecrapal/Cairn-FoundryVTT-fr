@@ -78,128 +78,128 @@
 			"description": "<p>Vous pouvez modifier le type de temps à volonté, mais vous ne le contrôlez pas autrement.</p>"
 		},
 		"Cure Wounds": {
-			"name": "Cure Wounds",
-			"description": "<p>Restore 1d4 STR per day to a creature you can touch.</p>"
+			"name": "Guérison des blessures",
+			"description": "<p>Restaure 1d4 FOR par jour à une créature que vous pouvez toucher.</p>"
 		},
 		"Deafen": {
-			"name": "Deafen",
-			"description": "<p>All nearby creatures are deafened.</p>"
+			"name": "Assourdir",
+			"description": "<p>Toutes les créatures proches sont assourdies.</p>"
 		},
 		"Detect Magic": {
-			"name": "Detect Magic",
-			"description": "<p>You can see or hear nearby magical auras.</p>"
+			"name": "Détecter la magie",
+			"description": "<p>Vous pouvez voir ou entendre les auras magiques proches.</p>"
 		},
 		"Disassemble": {
-			"name": "Disassemble",
-			"description": "<p>Any of your body parts may be detached and reattached at will, without causing pain or damage. You can still control them.</p>"
+			"name": "Démonter",
+			"description": "<p>Toutes les parties de votre corps peuvent être détachées et rattachées à volonté, sans causer de douleur ou de dégât. Vous pouvez toujours les contrôler.</p>"
 		},
 		"Disguise": {
-			"name": "Disguise",
-			"description": "<p>You may alter the appearance of one character at will as long as they remain humanoid. Attempts to duplicate other characters will seem uncanny.</p>"
+			"name": "Déguisement",
+			"description": "<p>Vous pouvez modifier l'apparence d'un personnage à volonté tant qu'il reste humanoïde. Les tentatives de duplication d'autres personnages sembleront étranges.</p>"
 		},
 		"Displace": {
-			"name": "Displace",
-			"description": "<p>An object appears to be up to 15ft from its actual position.</p>"
+			"name": "Déplacer",
+			"description": "<p>Un objet semble se trouver jusqu'à 5 mètres de sa position réelle.</p>"
 		},
 		"Earthquake": {
-			"name": "Earthquake",
-			"description": "<p>The ground begins shaking violently. Structures may be damaged or collapse.</p>"
+			"name": "Tremblement de terre",
+			"description": "<p>Le sol se met à trembler violemment. Les structures peuvent être endommagées ou s'effondrer.</p>"
 		},
 		"Elasticity": {
-			"name": "Elasticity",
-			"description": "<p>Your body can stretch up to 10ft.</p>"
+			"name": "Elasticité",
+			"description": "<p>Votre corps peut s'étirer jusqu'à 3 mètres.</p>"
 		},
 		"Elemental Wall": {
-			"name": "Elemental Wall",
-			"description": "<p>A straight wall of ice or fire 50ft long and 10ft high rises from the ground.</p>"
+			"name": "Mur élémentaire",
+			"description": "<p>Un mur droit de glace ou de feu de 15 mètres de long et de 3 mètres de haut s'élève du sol.</p>"
 		},
 		"Filch": {
-			"name": "Filch",
-			"description": "<p>A visible item teleports to your hands.</p>"
+			"name": "Chiper",
+			"description": "<p>Un objet visible se téléporte dans vos mains.</p>"
 		},
 		"Flare": {
-			"name": "Flare",
-			"description": "<p>A bright ball of energy fires a trail of light into the sky, revealing your location to friend or foe.</p>"
+			"name": "Signal lumineux",
+			"description": "<p>Une boule d'énergie lumineuse projette une traînée de lumière dans le ciel, révélant votre position à vos amis ou à vos ennemis.</p>"
 		},
 		"Fog Cloud": {
-			"name": "Fog Cloud",
-			"description": "<p>A dense fog spreads out from you.</p>"
+			"name": "Brouillard",
+			"description": "<p>Un brouillard dense s'étend à partir de vous.</p>"
 		},
 		"Frenzy": {
-			"name": "Frenzy",
-			"description": "<p>A nearby creature erupts in a frenzy of violence.</p>"
+			"name": "Frénésie",
+			"description": "<p>Une créature voisine se déchaîne dans une frénésie de violence.</p>"
 		},
 		"Gate": {
-			"name": "Gate",
-			"description": "<p>A portal to a random plane opens.</p>"
+			"name": "Portail",
+			"description": "<p>Un portail vers un plan aléatoire s'ouvre.</p>"
 		},
 		"Gravity Shift": {
-			"name": "Gravity Shift",
-			"description": "<p>You can change the direction of gravity (for yourself only) up to once per round.</p>"
+			"name": "Changement de gravité",
+			"description": "<p>Vous pouvez changer la direction de la gravité (pour vous-même uniquement) jusqu'à une fois par round.</p>"
 		},
 		"Greed": {
-			"name": "Greed",
-			"description": "<p>A creature develops an overwhelming urge to possess a visible item of your choice.</p>"
+			"name": "Cupidité",
+			"description": "<p>Une créature développe une envie irrésistible de posséder un objet visible de votre choix.</p>"
 		},
 		"Haste": {
-			"name": "Haste",
-			"description": "<p>Your movement speed is tripled.</p>"
+			"name": "Hâte",
+			"description": "<p>Votre vitesse de déplacement est triplée.</p>"
 		},
 		"Hatred": {
-			"name": "Hatred",
-			"description": "<p>A creature develops a deep hatred of another creature or group and wishes to destroy them.</p>"
+			"name": "Haine",
+			"description": "<p>Une créature développe une haine profonde envers une autre créature ou un groupe et souhaite les détruire.</p>"
 		},
 		"Hear Whispers": {
-			"name": "Hear Whispers",
-			"description": "<p>You can hear faint sounds clearly.</p>"
+			"name": "Entendre les murmures",
+			"description": "<p>Vous pouvez entendre clairement les sons faibles.</p>"
 		},
 		"Hover": {
-			"name": "Hover",
-			"description": "<p>An object hovers, frictionless, 2ft above the ground. It can hold up to one humanoid.</p>"
+			"name": "Survol",
+			"description": "<p>Un objet plane, sans friction, à un mètre du sol. Il peut contenir jusqu'à un humanoïde.</p>"
 		},
 		"Hypnotize": {
-			"name": "Hypnotize",
-			"description": "<p>A creature enters a trance and will truthfully answer one yes or no questions you ask it.</p>"
+			"name": "Hypnotiser",
+			"description": "<p>Une créature entre en transe et répondra sincèrement à une question par oui ou par non que vous lui posez.</p>"
 		},
 		"Icy Touch": {
-			"name": "Icy Touch",
-			"description": "<p>A thick ice layer spreads across a touched surface, up to 10ft in radius.</p>"
+			"name": "Toucher glacial",
+			"description": "<p>Une épaisse couche de glace s'étend sur une surface touchée, jusqu'à 3 mètres de rayon.</p>"
 		},
 		"Identify Owner": {
-			"name": "Identify Owner",
-			"description": "<p>Letters appear over the object you touch, spelling out the name of the object's owners, if there are any.</p>"
+			"name": "Identification du propriétaire",
+			"description": "<p>Des lettres apparaissent sur l'objet que vous touchez, épelant le nom des propriétaires de l'objet, s'il y en a.</p>"
 		},
 		"Illuminate": {
-			"name": "Illuminate",
-			"description": "<p>A floating light moves as you command.</p>"
+			"name": "Illuminer",
+			"description": "<p>Une lumière flottante se déplace selon vos ordres.</p>"
 		},
 		"Invisible Tether": {
-			"name": "Invisible Tether",
-			"description": "<p>Two objects within 10ft of each other cannot be moved more than 10ft apart.</p>"
+			"name": "Attache invisible",
+			"description": "<p>Deux objets situés à moins de 3 mètres l'un de l'autre ne peuvent pas être éloignés de plus de 3 mètres.</p>"
 		},
 		"Knock": {
-			"name": "Knock",
-			"description": "<p>A nearby mundane or magical lock unlocks – loudly.</p>"
+			"name": "Toc-toc",
+			"description": "<p>Une serrure ordinaire ou magique à proximité se déverrouille - bruyamment.</p>"
 		},
 		"Leap": {
-			"name": "Leap",
-			"description": "<p>You jump up to 10ft high, once.</p>"
+			"name": "Bond",
+			"description": "<p>Vous sautez jusqu'à 3 mètres de haut, une fois.</p>"
 		},
 		"Liquid Air": {
-			"name": "Liquid Air",
-			"description": "<p>The air around you becomes swimmable.</p>"
+			"name": "Air liquide",
+			"description": "<p>L'air autour de vous devient nageable.</p>"
 		},
 		"Magic Dampener": {
-			"name": "Magic Dampener",
-			"description": "<p>All nearby magical effects have their effectiveness halved.</p>"
+			"name": "Amortisseur magique",
+			"description": "<p>Tous les effets magiques proches voient leur efficacité réduite de moitié.</p>"
 		},
 		"Manse": {
-			"name": "Manse",
-			"description": "<p>A sturdy, furnished cottage appears for 12 hours. You can permit and forbid entry to it at will.</p>"
+			"name": "Maison",
+			"description": "<p>Un chalet solide et meublé apparaît pendant 12 heures. Vous pouvez en autoriser ou en interdire l'accès à volonté.</p>"
 		},
 		"Marble Craze": {
-			"name": "Marble Craze",
-			"description": "<p>Your pockets are full of marbles, and will refill every 30 seconds.</p>"
+			"name": "Passion des billes Craze",
+			"description": "<p>Vos poches sont pleines de billes, et se remplissent toutes les 30 secondes.</p>"
 		},
 		"Masquerade": {
 			"name": "Masquerade",
