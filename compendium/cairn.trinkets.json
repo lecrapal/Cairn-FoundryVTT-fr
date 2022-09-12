@@ -3,42 +3,42 @@
 	"entries": [
 		{
 			"id": "Blank Book",
-			"name": "Blank Book",
+			"name": "Livre vierge",
 			"description": ""
 		},
 		{
 			"id": "Bottle",
-			"name": "Bottle",
+			"name": "Bouteille",
 			"description": ""
 		},
 		{
 			"id": "Card Deck",
-			"name": "Card Deck",
+			"name": "Jeu de cartes",
 			"description": ""
 		},
 		{
 			"id": "Dice Set",
-			"name": "Dice Set",
+			"name": "Jeu de dés",
 			"description": ""
 		},
 		{
 			"id": "Face Paint",
-			"name": "Face Paint",
+			"name": "Maquillage",
 			"description": ""
 		},
 		{
 			"id": "Fake Jewels",
-			"name": "Fake Jewels",
+			"name": "Faux bijoux",
 			"description": ""
 		},
 		{
 			"id": "Horn",
-			"name": "Horn",
+			"name": "Corne",
 			"description": ""
 		},
 		{
 			"id": "Incense",
-			"name": "Incense",
+			"name": "Encens",
 			"description": ""
 		},
 		{
@@ -48,62 +48,62 @@
 		},
 		{
 			"id": "Lens",
-			"name": "Lens",
+			"name": "Lentille",
 			"description": ""
 		},
 		{
 			"id": "Marbles",
-			"name": "Marbles",
+			"name": "Billes",
 			"description": ""
 		},
 		{
 			"id": "Mirror",
-			"name": "Mirror",
+			"name": "Miroir",
 			"description": ""
 		},
 		{
 			"id": "Perfume",
-			"name": "Perfume",
+			"name": "Parfum",
 			"description": ""
 		},
 		{
 			"id": "Quill & Ink",
-			"name": "Quill & Ink",
+			"name": "Plume & encre",
 			"description": ""
 		},
 		{
 			"id": "Salt Pack",
-			"name": "Salt Pack",
+			"name": "Paquet de sel",
 			"description": ""
 		},
 		{
 			"id": "Small Bell",
-			"name": "Small Bell",
+			"name": "Petite cloche",
 			"description": ""
 		},
 		{
 			"id": "Soap",
-			"name": "Soap",
+			"name": "Savon",
 			"description": ""
 		},
 		{
 			"id": "Sponge",
-			"name": "Sponge",
+			"name": "Éponge",
 			"description": ""
 		},
 		{
 			"id": "Tar pot",
-			"name": "Tar pot",
+			"name": "Pot de goudron",
 			"description": ""
 		},
 		{
 			"id": "Twine",
-			"name": "Twine",
+			"name": "Ficelle",
 			"description": ""
 		},
 		{
 			"id": "Whistle",
-			"name": "Whistle",
+			"name": "Sifflet",
 			"description": ""
 		}
 	]
