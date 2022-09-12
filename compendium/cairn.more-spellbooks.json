@@ -307,7 +307,7 @@
 		},
 		"Glacier": {
 			"name": "Glacier",
-			"description": "<p>Vous créez un mur de glace (15 END, 3 Armure) autour d'une créature de votre choix.</p>"
+			"description": "<p>Vous créez un mur de glace (15 PC, 3 Armure) autour d'une créature de votre choix.</p>"
 		},
 		"Gorgon's Gaze": {
 			"name": "Regard de la Gorgone",
@@ -547,7 +547,7 @@
 		},
 		"Phantom Hound": {
 			"name": "Chien fantôme",
-			"description": "<p>Un canidé fantôme (4 END, morsure (1d4)) obéit à vos ordres pendant une heure maximum.</p>"
+			"description": "<p>Un canidé fantôme (4 PC, morsure (1d4)) obéit à vos ordres pendant une heure maximum.</p>"
 		},
 		"Phase Anchor": {
 			"name": "Ancrage phasique",
