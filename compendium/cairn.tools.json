@@ -3,82 +3,82 @@
 	"entries": [
 		{
 			"id": "Bellows",
-			"name": "Bellows",
+			"name": "Soufflet",
 			"description": ""
 		},
 		{
 			"id": "Bucket",
-			"name": "Bucket",
+			"name": "Seau",
 			"description": ""
 		},
 		{
 			"id": "Caltrops",
-			"name": "Caltrops",
+			"name": "Chaussetrapes",
 			"description": ""
 		},
 		{
 			"id": "Chalk",
-			"name": "Chalk",
+			"name": "Craie",
 			"description": ""
 		},
 		{
 			"id": "Chisel",
-			"name": "Chisel",
+			"name": "Burin",
 			"description": ""
 		},
 		{
 			"id": "Cook Pots",
-			"name": "Cook Pots",
+			"name": "Marmite",
 			"description": ""
 		},
 		{
 			"id": "Crowbar",
-			"name": "Crowbar",
+			"name": "Pied-de-biche",
 			"description": ""
 		},
 		{
 			"id": "Fishing Rod",
-			"name": "Fishing Rod",
+			"name": "Canne à pêche",
 			"description": ""
 		},
 		{
 			"id": "Glue",
-			"name": "Glue",
+			"name": "Colle",
 			"description": ""
 		},
 		{
 			"id": "Grease",
-			"name": "Grease",
+			"name": "Graisse",
 			"description": ""
 		},
 		{
 			"id": "Hammer",
-			"name": "Hammer",
+			"name": "Marteau",
 			"description": ""
 		},
 		{
 			"id": "Hand-Drill",
-			"name": "Hand-Drill",
+			"name": "Perceuse (manuelle)",
 			"description": ""
 		},
 		{
 			"id": "Hourglass",
-			"name": "Hourglass",
+			"name": "Sablier",
 			"description": ""
 		},
 		{
 			"id": "Lantern",
-			"name": "Lantern",
+			"name": "Lanterne",
 			"description": ""
 		},
 		{
 			"id": "Metal File",
-			"name": "Metal File",
+			"name": "Lime à métaux",
 			"description": ""
 		},
 		{
 			"id": "Nails",
-			"name": "Nails",
+			"name": "Clous",
 			"description": ""
 		},
 		{
@@ -93,22 +93,22 @@
 		},
 		{
 			"id": "Saw",
-			"name": "Saw",
+			"name": "Filet",
 			"description": ""
 		},
 		{
 			"id": "Sealant",
-			"name": "Sealant",
+			"name": "Mastic",
 			"description": ""
 		},
 		{
 			"id": "Shovel",
-			"name": "Shovel",
+			"name": "Pelle",
 			"description": ""
 		},
 		{
 			"id": "Tongs",
-			"name": "Tongs",
+			"name": "Pinces",
 			"description": ""
 		}
 	]
