@@ -3,12 +3,12 @@
 	"entries": [
 		{
 			"id": "Axe",
-			"name": "Axe",
+			"name": "Hache",
 			"description": ""
 		},
 		{
 			"id": "Blowgun",
-			"name": "Blowgun",
+			"name": "Sarbacane",
 			"description": ""
 		},
 		{
@@ -18,112 +18,112 @@
 		},
 		{
 			"id": "Bow",
-			"name": "Bow",
+			"name": "Arc",
 			"description": ""
 		},
 		{
 			"id": "Broadsword",
-			"name": "Broadsword",
+			"name": "Glaive",
 			"description": ""
 		},
 		{
 			"id": "Cestus",
-			"name": "Cestus",
+			"name": "Ceste",
 			"description": ""
 		},
 		{
 			"id": "Crossbow",
-			"name": "Crossbow",
+			"name": "Arbalète",
 			"description": ""
 		},
 		{
 			"id": "Cudgel",
-			"name": "Cudgel",
+			"name": "Massue",
 			"description": ""
 		},
 		{
 			"id": "Dagger",
-			"name": "Dagger",
+			"name": "Dague",
 			"description": ""
 		},
 		{
 			"id": "Dart",
-			"name": "Dart",
+			"name": "Fléchette",
 			"description": ""
 		},
 		{
 			"id": "Flail",
-			"name": "Flail",
+			"name": "Fléau",
 			"description": ""
 		},
 		{
 			"id": "Halberd",
-			"name": "Halberd",
+			"name": "Hallebarde",
 			"description": ""
 		},
 		{
 			"id": "Hand Axe",
-			"name": "Hand Axe",
+			"name": "Hacheette",
 			"description": ""
 		},
 		{
 			"id": "Javelin",
-			"name": "Javelin",
+			"name": "Javelot",
 			"description": ""
 		},
 		{
 			"id": "Long Sword",
-			"name": "Long Sword",
+			"name": "Épée longue",
 			"description": ""
 		},
 		{
 			"id": "Mace",
-			"name": "Mace",
+			"name": "Masse",
 			"description": ""
 		},
 		{
 			"id": "Morning Star",
-			"name": "Morning Star",
+			"name": "Étoile du matin",
 			"description": ""
 		},
 		{
 			"id": "Polearm",
-			"name": "Polearm",
+			"name": "Arme d'hast",
 			"description": ""
 		},
 		{
 			"id": "Scimitar",
-			"name": "Scimitar",
+			"name": "Cimeterre",
 			"description": ""
 		},
 		{
 			"id": "Sling",
-			"name": "Sling",
+			"name": "Fronde",
 			"description": ""
 		},
 		{
 			"id": "Spear",
-			"name": "Spear",
+			"name": "Lance",
 			"description": ""
 		},
 		{
 			"id": "Staff",
-			"name": "Staff",
+			"name": "Bâton",
 			"description": ""
 		},
 		{
 			"id": "Sword",
-			"name": "Sword",
+			"name": "Épée",
 			"description": ""
 		},
 		{
 			"id": "War Hammer",
-			"name": "War Hammer",
+			"name": "Marteau de guerre",
 			"description": ""
 		},
 		{
 			"id": "Whip",
-			"name": "Whip",
+			"name": "Fouet",
 			"description": ""
 		}
 	]
